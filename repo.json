@@ -53,9 +53,9 @@
             ],
 			"Releases": [
               {
-                  "Version": "1.2",
+                  "Version": "1.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Bronkoh%20Font.misaka",
-                  "Description": "Reverted back to initial release"
+                  "Description": "initial release"
               }
             ],
             "PackageID": "com.epos.bronkoh"
