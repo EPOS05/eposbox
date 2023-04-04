@@ -1,346 +1,38 @@
 {
-    "RepositoryName": "YangJiii Repo's",
-    "RepositoryDescription": "YangJiii Repo's For You",
-    "RepositoryAuthor": "YangJiii",
-    "RepositoryIcon": "https://github.com/YangJiiii/repomdc/raw/main/Images/Avatar/Avatar.jpg",
-    "RepositoryWebsite": "https://github.com/YangJiiii/repomdc/",
+    "RepositoryName": "EPOS's Repo",
+    "RepositoryDescription": "The best Misaka Repo :)",
+    "RepositoryAuthor": "EPOS",
+    "RepositoryIcon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/Repo/Avatar.png",
+    "RepositoryWebsite": "https://github.com/EPOS05/MisakaRepoEPOS",
     "DefaultHeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
     "RepositoryContents": [
         {
-            "Name": "Font Apple Symbols",
-            "Description": "Fonts Apple Symbols. change character support MDC devices",
+            "Name": "Engage Charging Sound",
+            "Description": "Change your default charging sound to the Apple AirPower wireless charging sound",
             "Author": {
-                "Label": "YangJiii",
+                "Label": "EPOS",
                 "Links": [
                     {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
                     }
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
             "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "Font",
-            "Caption": "Fonts Apple Symbols. change character support MDC devices",
+            "Category": "Custom Sound",
+            "Caption": "Change your default charging sound to the Apple AirPower wireless charging sound",
             "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/symbols.jpg"
+                ""
             ],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.applesymbols1.0.misaka",
-                  "Description": "Fonts Apple Symbols. change character support MDC . devices"
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Engage%20Charging%20Sound.misaka",
+                  "Description": "Change your default charging sound to the Apple AirPower wireless charging sound"
               }
             ],
-            "PackageID": "com.yangjiii.applesymbols1.0"
-        },
-        {
-            "Name": "LS UI YangJiii",
-            "Description": "Change camera and flash icon",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "LS UI",
-            "Caption": "Change camera and flash icon",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuiyangjiii1.jpg"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.yangjiuils.misaka",
-                  "Description": "Change camera and flash icon"
-              }
-            ],
-            "PackageID": "com.yangjiii.yangjiuils"
-        },
-		        {
-            "Name": "Font Clock Group 1 ( IOS16 )",
-            "Description": "Change clock font on ios 16",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "Font",
-            "Caption": "Change clock font on ios 16",
-			"MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/fontclockgroup1.jpg"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.lsclockios16.1.0.misaka",
-                  "Description": "Change clock font on ios 16"
-              }
-            ],
-            "PackageID": "com.yangjiii.lsclockios16.1.0"
-        },
-		{
-            "Name": "Radar",
-            "Description": "Show internal on settings",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "Settings",
-            "Caption": "Show internal on settings",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.radar.misaka",
-                  "Description": "Show internal on settings"
-              }
-            ],
-            "PackageID": "com.yangjiii.radar"
-        },
-		{
-            "Name": "Font Clock Group 1 ( IOS 15 )",
-            "Description": "Change clock font on ios 15",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "Font",
-            "Caption": "Change clock font on ios 15",
-			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Screenshot": null,
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontclock15.1.0.misaka",
-                  "Description": "Change clock font on ios 15"
-              }
-            ],
-            "PackageID": "com.yangjiii.fontclock15.1.0"
-        },
-		{
-            "Name": "Usagi Passcode",
-            "Description": "Change your passcode",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://i.kym-cdn.com/photos/images/original/002/083/322/038.gif",
-            "HeaderImage": "https://i.pinimg.com/originals/5a/b0/67/5ab06768b12e2a87a6264bd385ed5dd3.gif",
-            "Category": "Theme",
-            "Caption": "Change your passcode",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/1076484358774472777/1076484359676243968/IMG_0808.png"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.usagipasscode.misaka",
-                  "Description": "Change your passcode"
-              }
-            ],
-            "PackageID": "com.yangjiii.usagipasscode"
-        },
-		{
-            "Name": "LS UI NaYan",
-            "Description": "Change camera and flash icon",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "LS UI",
-            "Caption": "Change camera and flash icon",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuinayan.jpg"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.nayanlsui.misaka",
-                  "Description": "Change camera and flash icon"
-              }
-            ],
-            "PackageID": "com.yangjiii.nayanlsui"
-        },
-		{
-            "Name": "Hide Dock",
-            "Description": "Hide the Dock",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hidedock.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "Settings",
-            "Caption": "Hide the Dock",
-            "Screenshot": null,
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.hidedock.misaka",
-                  "Description": "Hide the Dock"
-              }
-            ],
-            "PackageID": "com.yangjiii.hidedock"
-        },
-		{
-            "Name": "Open Supervise",
-            "Description": "Enable Supervise mode on iphone",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "Settings",
-            "Caption": "Enable Supervise mode on iphone, i tested on both IOS 16.3.1 (doesn't support MDC mining, but it worked) ",
-            "Screenshot": null,
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.supervise.misaka",
-                  "Description": "Enable Supervise mode on iphone"
-              }
-            ],
-            "PackageID": "com.yangjiii.supervise"
-        },
-		{
-            "Name": "Lock Astronaut White ",
-            "Description": "Change the Faceid icon",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/faceidlock.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "LockScreen",
-            "Caption": "Change the Faceid icon",
-            "Screenshot": [
-                "https://video.twimg.com/ext_tw_video/1612661637181476864/pu/vid/720x960/D20iHiIvKVNhMDrc.mp4?tag=12"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.astronautwhite.misaka",
-                  "Description": "Change the Faceid icon"
-              }
-            ],
-            "PackageID": "com.yangjiii.astronautwhite"
-        },
-		{
-            "Name": "Big Sur Clock Icon",
-            "Description": "Change your clock icon",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "Icon",
-            "Caption": "Change your clock icon",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/clockiconbigsur.jpg"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.bigsurclockicon.misaka",
-                  "Description": "Change your clock icon"
-              }
-            ],
-            "PackageID": "com.yangjiii.bigsurclockicon"
-        },
-		{
-            "Name": "Wifi List",
-            "Description": "Show the password wifi was connect",
-            "Author": {
-                "Label": "YangJiii",
-                "Links": [
-                    {
-                        "Label": "YangJiii",
-                        "Link": "https://twitter.com/duongduong0908"
-                    }
-                ]
-            },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
-            "Category": "Settings",
-            "Caption": "Instructions/n-after downloading the tweak. turn it on and reboot (no respring )/n - after reboot. Go back to the misaka app. re-enable the tweak again. going to wifi settings should show /n - then you can apply other tweaks and respring normally /n (haven't tested on cert, works fine on trollstore, altstore, sidestore )",
-			"MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Screenshot": [
-                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/wifilist2.jpg","https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/wifilist1.jpg"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.0",
-                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.wifilist.misaka",
-                  "Description": "Show the password wifi was connect"
-              }
-            ],
-            "PackageID": "com.yangjiii.wifilist"
+            "PackageID": "com.epos.engage"
         }
 		
 		
