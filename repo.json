@@ -18,7 +18,7 @@
                     }
                 ]
             },
-            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/engage%20icon.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/Repo/Header.jpg",
             "Category": "Custom Sound",
             "Caption": "Change your default charging sound to the Apple AirPower wireless charging sound",
