@@ -8,7 +8,7 @@
     "RepositoryContents": [
         {
             "Name": "Engage Charging Sound",
-            "Description": "Change your default charging sound to the Apple AirPower wireless charging sound",
+            "Description": "Change your charging sound!",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -29,7 +29,7 @@
               {
                   "Version": "1.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Engage%20Charging%20Sound.misaka",
-                  "Description": "Change your default charging sound to the Apple AirPower wireless charging sound"
+                  "Description": "initial release"
               }
             ],
             "PackageID": "com.epos.engage"
