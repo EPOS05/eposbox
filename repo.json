@@ -34,10 +34,8 @@
             "PackageID": "com.epos.engage"
         },
         {
-            "Name": "Bronkoh Font (iOS 16)",
+            "Name": "Bronkoh Font",
             "Description": "Change your font!",
-            "MinIOSVersion":"16.0",
-            "MaxIOSVersion":"16.1.2",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -55,9 +53,9 @@
             ],
 			"Releases": [
               {
-                  "Version": "1.1",
+                  "Version": "1.2",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Bronkoh%20Font.misaka",
-                  "Description": "added iOS 16 restriction"
+                  "Description": "Reverted back to initial release"
               }
             ],
             "PackageID": "com.epos.bronkoh"
