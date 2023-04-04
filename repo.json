@@ -19,7 +19,6 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/engage_ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/Repo/Header.jpg",
             "Category": "Custom Sound",
             "Caption": "Change your default charging sound to the Apple AirPower wireless charging sound",
             "Screenshot": [
@@ -47,7 +46,6 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/font_ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/Repo/Header.jpg",
             "Category": "Fonts",
             "Caption": "Change your font to the 'Bronkoh' font ported to iOS by @ev_ynw",
             "Screenshot": [
@@ -61,6 +59,35 @@
               }
             ],
             "PackageID": "com.epos.bronkoh"
+        },
+        {
+            "Name": "Exciter Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"16.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/exciter_ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your iOS 16 clock font to the 'Exciter' clock font! Originaly made by: @PHUCNGUYENADS",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/exciter_ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Exciter%20Clock%20Font.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.exciter"
         }
 		
 		
