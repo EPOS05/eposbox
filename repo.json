@@ -88,6 +88,64 @@
               }
             ],
             "PackageID": "com.epos.exciter"
+        },
+        {
+            "Name": "Meloso Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"16.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/meloso_ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your iOS 16 clock font to the 'Meloso' clock font! Originaly made by: @Alexman1979",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/meloso_ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Meloso%20Clock%20Font.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.meloso"
+        },
+        {
+            "Name": "Compile Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"16.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/compile_ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your iOS 16 clock font to the 'Compile' clock font! Originaly made by: @PHUCNGUYENADS",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/compile_ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Compile%20Clock%20Font.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.compile"
         }
 		
 		
