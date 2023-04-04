@@ -33,6 +33,34 @@
               }
             ],
             "PackageID": "com.epos.engage"
+        },
+        {
+            "Name": "Bronkoh Font",
+            "Description": "Change your font!",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/font_ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/Repo/Header.jpg",
+            "Category": "Fonts",
+            "Caption": "Change your font to the 'Bronkoh' font ported to iOS by @ev_ynw",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/bronkoh_ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Bronkoh%20Font.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.bronkoh"
         }
 		
 		
