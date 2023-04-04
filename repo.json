@@ -4,7 +4,7 @@
     "RepositoryAuthor": "EPOS",
     "RepositoryIcon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/Repo/Avatar.png",
     "RepositoryWebsite": "https://github.com/EPOS05/MisakaRepoEPOS",
-    "DefaultHeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+    "DefaultHeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/Repo/Header.jpg",
     "RepositoryContents": [
         {
             "Name": "Engage Charging Sound",
@@ -19,7 +19,7 @@
                 ]
             },
             "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
-            "HeaderImage": "https://sachhaynendoc.net/wp-content/uploads/2019/08/review-your-name-anime-an-khach-nhat-moi-thoi-dai-65979-4.jpg",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/Repo/Header.jpg",
             "Category": "Custom Sound",
             "Caption": "Change your default charging sound to the Apple AirPower wireless charging sound",
             "Screenshot": [
