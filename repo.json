@@ -169,9 +169,9 @@
             ],
 			"Releases": [
               {
-                  "Version": "1.0",
+                  "Version": "1.1",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Meloso%20Clock%20Font%20(iOS%2015).misaka",
-                  "Description": "initial release"
+                  "Description": "icon update"
               }
             ],
             "PackageID": "com.epos.meloso15"
