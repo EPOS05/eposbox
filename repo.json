@@ -203,6 +203,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone1.1.misaka",
+                  "Description": "Fixed phone keys light mode variant not theming"
               }
             ],
             "PackageID": "com.epos.gradient"
