@@ -175,6 +175,37 @@
               }
             ],
             "PackageID": "com.epos.meloso15"
+        },
+        {
+            "Name": "Gradient Passcode & Phone",
+            "Description": "Change your passcode & phone keys!",
+            "Author": {
+                "Label": "EPOS & Z3ROS1X",
+                "Links": [
+                    {
+                        "Label": "EPOS (Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Z3ROS1X (Designer)",
+                        "Link": "https://twitter.com/Z3ROS1X"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ico.jpg",
+            "Category": "Theme",
+            "Caption": "Change your Passcode & Phone Dialer keys to this beautiful Gradient Theme designed by ⦅ᴢᴇʀɵsɪx⦆",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss.jpg", "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss2.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.gradient"
         }
 		
 		
