@@ -146,35 +146,6 @@
               }
             ],
             "PackageID": "com.epos.compile"
-        },
-        {
-            "Name": "Meloso Clock Font (iOS 15)",
-            "Description": "Change your clock font!",
-            "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"15.7.1",
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/meloso15_ico.png",
-            "Category": "Fonts",
-            "Caption": "Change your iOS 15 clock font to the 'Meloso / Kroppen FwO' clock font! Originaly made by: @Alexman1979",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/meloso15_ss.png"
-            ],
-			"Releases": [
-              {
-                  "Version": "1.1",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Meloso%20Clock%20Font%20(iOS%2015).misaka",
-                  "Description": "icon update"
-              }
-            ],
-            "PackageID": "com.epos.meloso15"
         }
 		
 		
