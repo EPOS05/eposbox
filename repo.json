@@ -216,8 +216,33 @@
               }
             ],
             "PackageID": "com.epos.gradient"
+        },
+        {
+            "Name": "Quicksand Font 100%",
+            "Description": "Change your font!",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/font_ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your font to the 'Quicksand 100%' font ported to iOS by @Alexman1979",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/quicksand_ss.png", "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/font_ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Quicksand%20Font%20100%25.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.quicksand"
         }
-		
-		
     ]
 }
