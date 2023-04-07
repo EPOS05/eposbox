@@ -1,5 +1,5 @@
 # MisakaRepoEPOS
-A repo for misaka
+The MDC repo for you
 
 ## misaka
 Download the misaka public beta now on the misakaTeam [Discord server](https://discord.gg/SDenpXk9C2)
