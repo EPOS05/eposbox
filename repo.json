@@ -248,6 +248,35 @@
               }
             ],
             "PackageID": "com.epos.quicksand"
+        },
+        {
+            "Name": "Exciter Clock Font (iOS 15)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"15.7.1",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/exciter15_ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your iOS 15 clock font to the 'Exciter' clock font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/exciter15_ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Exciter%20Clock%20Font%20(iOS%2015).misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.exciter15"
         }
     ]
 }
