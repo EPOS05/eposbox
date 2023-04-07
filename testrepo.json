@@ -1,0 +1,253 @@
+{
+    "RepositoryName": "EPOSbox (test)",
+    "RepositoryDescription": "A MDC repo for you",
+    "RepositoryAuthor": "EPOS",
+    "RepositoryIcon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/Repo/EPOSbox_180x180.png",
+    "RepositoryWebsite": "https://github.com/EPOS05/MisakaRepoEPOS",
+    "DefaultHeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/Repo/Header.jpg",
+    "RepositoryContents": [
+        {
+            "Name": "Engage Charging Sound",
+            "Description": "Change your charging sound!",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/engage_ico.png",
+            "Category": "Custom Sound",
+            "Caption": "Change your default charging sound to the Apple AirPower wireless charging sound",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/engage_ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Engage%20Charging%20Sound.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.engage"
+        },
+        {
+            "Name": "Bronkoh Font",
+            "Description": "Change your font!",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/font_ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your font to the 'Bronkoh' font ported to iOS by @ev_ynw",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/bronkoh_ss.png", "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/font_ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Bronkoh%20Font.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.bronkoh"
+        },
+        {
+            "Name": "Exciter Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"16.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/exciter_ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your iOS 16 clock font to the 'Exciter' clock font! Originaly made by: @PHUCNGUYENADS",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/exciter_ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Exciter%20Clock%20Font.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.exciter"
+        },
+        {
+            "Name": "Meloso Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"16.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/meloso_ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your iOS 16 clock font to the 'Meloso' clock font! Originaly made by: @Alexman1979",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/meloso_ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Meloso%20Clock%20Font.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.meloso"
+        },
+        {
+            "Name": "Compile Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"16.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/compile_ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your iOS 16 clock font to the 'Compile' clock font! Originaly made by: @PHUCNGUYENADS",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/compile_ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Compile%20Clock%20Font.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.compile"
+        },
+        {
+            "Name": "Meloso Clock Font (iOS 15)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"15.7.1",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/meloso15_ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your iOS 15 clock font to the 'Meloso / Kroppen FwO' clock font! Originaly made by: @Alexman1979",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/meloso15_ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Meloso%20Clock%20Font%20(iOS%2015).misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.meloso15"
+        },
+        {
+            "Name": "Gradient Passcode & Phone",
+            "Description": "Change your passcode & phone keys!",
+            "Author": {
+                "Label": "EPOS & Z3ROS1X",
+                "Links": [
+                    {
+                        "Label": "EPOS (Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Z3ROS1X (Designer)",
+                        "Link": "https://twitter.com/Z3ROS1X"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ico.jpg",
+            "Category": "Theme",
+            "Caption": "Change your Passcode & Phone Dialer keys to this beautiful Gradient Theme designed by ⦅ᴢᴇʀɵsɪx⦆",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss.jpg", "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/gradient_ss2.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone.misaka",
+                  "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone1.1.misaka",
+                  "Description": "Fixed phone keys light mode variant not theming"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone1.2.misaka",
+                  "Description": "Fixed scaling issue & added support for all devices"
+              },
+              {
+                  "Version": "1.3",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Gradient%20Passcode%20%26%20Phone1.3.misaka",
+                  "Description": "Reduces file size & improves support (Kumiki FIX)"
+              }
+            ],
+            "PackageID": "com.epos.gradient"
+        },
+        {
+            "Name": "Quicksand Font 100%",
+            "Description": "Change your font!",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/font_ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your font to the 'Quicksand 100%' font ported to iOS by @Alexman1979",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/quicksand_ss.png", "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/font_ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Quicksand%20Font%20100%25.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.quicksand"
+        }
+    ]
+}
