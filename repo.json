@@ -250,7 +250,7 @@
             "PackageID": "com.epos.quicksand"
         },
         {
-            "Name": "Exciter Clock Font (iOS 15)",
+            "Name": "Spaceship Clock Font (iOS 15)",
             "Description": "Change your clock font!",
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"15.7.1",
@@ -263,20 +263,20 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/exciter15_ico.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/spaceship15_ico.png",
             "Category": "Fonts",
-            "Caption": "Change your iOS 15 clock font to the 'Exciter' clock font!",
+            "Caption": "Change your iOS 15 clock font to the 'Spaceship' clock font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/exciter15_ss.png"
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/spaceship15_ss.png"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Exciter%20Clock%20Font%20(iOS%2015).misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Spaceship%20Clock%20Font%20(iOS%2015).misaka",
                   "Description": "initial release"
               }
             ],
-            "PackageID": "com.epos.exciter15"
+            "PackageID": "com.epos.spaceship15"
         }
     ]
 }
