@@ -340,6 +340,33 @@
               }
             ],
             "PackageID": "com.epos.paint"
+        },
+        {
+            "Name": "ModernCC",
+            "Description": "Give your Control Center modern look",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/moderncc_ico.png",
+            "Category": "Control Center",
+            "Caption": "This tweak gives your Control Center a more modern look and feel!\n\nMade using 14DND by nbxy <3",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/moderncc_ss.png", "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/moderncc_ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ModernCC.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.moderncc"
         }
     ]
 }
