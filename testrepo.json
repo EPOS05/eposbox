@@ -76,7 +76,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/exciter_ico.png",
             "Category": "Fonts",
-            "Caption": "Change your iOS 16 clock font to the 'Exciter' clock font! Ported to iOS 16 by: @PHUCNGUYENADS",
+            "Caption": "Change your iOS 16 clock font to the 'Exciter' clock font!\n\nPorted to iOS 16 by: @PHUCNGUYENADS",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/exciter_ss.png"
             ],
@@ -105,7 +105,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/meloso_ico.png",
             "Category": "Fonts",
-            "Caption": "Change your iOS 16 clock font to the 'Meloso' clock font! Ported to iOS 16 by: @Alexman1979",
+            "Caption": "Change your iOS 16 clock font to the 'Meloso' clock font!\n\nPorted to iOS 16 by: @Alexman1979",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/meloso_ss.png"
             ],
@@ -134,7 +134,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/compile_ico.png",
             "Category": "Fonts",
-            "Caption": "Change your iOS 16 clock font to the 'Compile' clock font! Ported to iOS 16 by: @PHUCNGUYENADS",
+            "Caption": "Change your iOS 16 clock font to the 'Compile' clock font!\n\nPorted to iOS 16 by: @PHUCNGUYENADS",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/compile_ss.png"
             ],
@@ -163,7 +163,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/meloso15_ico.png",
             "Category": "Fonts",
-            "Caption": "Change your iOS 15 clock font to the 'Meloso / Kroppen FwO' clock font! Ported to iOS 15 by: @Alexman1979",
+            "Caption": "Change your iOS 15 clock font to the 'Meloso / Kroppen FwO' clock font!\n\nPorted to iOS 15 by: @Alexman1979",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/meloso15_ss.png"
             ],
@@ -265,7 +265,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/spaceship15_ico.png",
             "Category": "Fonts",
-            "Caption": "Change your iOS 15 clock font to the 'Spaceship' clock font!",
+            "Caption": "Change your iOS 15 clock font to the 'Spaceship' clock font!\n\nPorted to iOS 15 by me :)",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/spaceship15_ss.png"
             ],
@@ -294,7 +294,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/retake15_ico.png",
             "Category": "Fonts",
-            "Caption": "Change your iOS 15 clock font to the 'Retake' clock font!",
+            "Caption": "Change your iOS 15 clock font to the 'Retake' clock font!\n\nPorted to iOS 15 by me :)",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/retake15_ss.png"
             ],
@@ -306,6 +306,40 @@
               }
             ],
             "PackageID": "com.epos.retake15"
+        },
+        {
+            "Name": "Paint Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"16.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/paint_ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your iOS 16 clock font to the 'Paint' clock font!\n\nPorted to iOS 16 by me :)",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/paint_ss.png", "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/paint_ss1.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Paint%20Clock%20Font%20(iOS%2016).misaka",
+                  "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Paint%20Clock%20Font%20(iOS%2016)1.1.misaka",
+                  "Description": "Fixed some clock variants showing [?]"
+              }
+            ],
+            "PackageID": "com.epos.paint"
         }
     ]
 }
