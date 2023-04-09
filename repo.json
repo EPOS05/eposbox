@@ -323,15 +323,20 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/paint_ico.png",
             "Category": "Fonts",
-            "Caption": "Change your iOS 16 clock font to the 'Paint' clock font!\n\nPorted to iOS 16 by me :)\n\nPlease note that the first two clock variants don't work as you can see in the screenshot bellow, this should not affect the other variants but if I find a fix I'll publish an update",
+            "Caption": "Change your iOS 16 clock font to the 'Paint' clock font!\n\nPorted to iOS 16 by me :)",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/paint_ss.png", "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/paint_ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/paint_ss.png", "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/paint_ss1.png"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Paint%20Clock%20Font%20(iOS%2016).misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/Paint%20Clock%20Font%20(iOS%2016)1.1.misaka",
+                  "Description": "Fixed some clock variants showing [?]"
               }
             ],
             "PackageID": "com.epos.paint"
