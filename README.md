@@ -1,4 +1,4 @@
-![Icon](https://github.com/EPOS05/MisakaRepoEPOS/blob/main/Images/Repo/EPOSbox_128x128.png?raw=true)
+![Icon](https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/RepoAssets/EPOSbox_128x128.png)
 # EPOSbox
 The MDC repo for you
 
