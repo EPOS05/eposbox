@@ -4,7 +4,10 @@
     "RepositoryAuthor": "EPOS",
     "RepositoryIcon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/Repo/EPOSbox_180x180.png",
     "RepositoryWebsite": "https://github.com/EPOS05/MisakaRepoEPOS",
-    "DefaultHeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/Repo/Header.jpg",
+    "Default": {
+        "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Images/Repo/Header.jpg",
+        "ViewCount": true
+    },
     "RepositoryContents": [
         {
             "Name": "Engage Charging Sound",
