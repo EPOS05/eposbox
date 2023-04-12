@@ -30,7 +30,7 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/EngageSound/Releases/Engage%20Charging%20Sound.misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/EngageSound/Releases/EngageSound.misaka",
                   "Description": "initial release"
               }
             ],
@@ -58,7 +58,7 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/BronkohFont/Releases/Bronkoh%20Font.misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/BronkohFont/Releases/BronkohFont.misaka",
                   "Description": "initial release"
               }
             ],
@@ -87,7 +87,7 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ExciterClock/Releases/Exciter%20Clock%20Font.misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ExciterClock/Releases/ExciterClock.misaka",
                   "Description": "initial release"
               }
             ],
@@ -116,7 +116,7 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MelosoClock/Releases/Meloso%20Clock%20Font.misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MelosoClock/Releases/MelosoClock.misaka",
                   "Description": "initial release"
               }
             ],
@@ -145,7 +145,7 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/CompileClock/Releases/Compile%20Clock%20Font.misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/CompileClock/Releases/CompileClock.misaka",
                   "Description": "initial release"
               }
             ],
@@ -174,7 +174,7 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MelosoClock15/Releases/Meloso%20Clock%20Font%20(iOS%2015).misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MelosoClock15/Releases/MelosoClock15.misaka",
                   "Description": "initial release"
               }
             ],
@@ -206,22 +206,22 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/GradientPassPhone/Releases/Gradient%20Passcode%20%26%20Phone.misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/GradientPassPhone/Releases/GradientPassPhone.misaka",
                   "Description": "initial release"
               },
               {
                   "Version": "1.1",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/GradientPassPhone/Releases/Gradient%20Passcode%20%26%20Phone1.1.misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/GradientPassPhone/Releases/GradientPassPhone1.1.misaka",
                   "Description": "Fixed phone keys light mode variant not theming"
               },
               {
                   "Version": "1.2",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/GradientPassPhone/Releases/Gradient%20Passcode%20%26%20Phone1.2.misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/GradientPassPhone/Releases/GradientPassPhone1.2.misaka",
                   "Description": "Fixed scaling issue & added support for all devices"
               },
               {
                   "Version": "1.3",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/GradientPassPhone/Releases/Gradient%20Passcode%20%26%20Phone1.3.misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/GradientPassPhone/Releases/GradientPassPhone1.3.misaka",
                   "Description": "Reduces file size & improves support (Kumiki FIX)"
               }
             ],
@@ -249,7 +249,7 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/QuicksandFont/Releases/Quicksand%20Font%20100%25.misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/QuicksandFont/Releases/QuicksandFont.misaka",
                   "Description": "initial release"
               }
             ],
@@ -278,7 +278,7 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SpaceshipClock15/Releases/Spaceship%20Clock%20Font%20(iOS%2015).misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SpaceshipClock15/Releases/SpaceshipClock15.misaka",
                   "Description": "initial release"
               }
             ],
@@ -307,7 +307,7 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/RetakeClock15/Releases/Retake%20Clock%20Font%20(iOS%2015).misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/RetakeClock15/Releases/RetakeClock15.misaka",
                   "Description": "initial release"
               }
             ],
@@ -337,12 +337,12 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/PaintClock/Releases/Paint%20Clock%20Font%20(iOS%2016).misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/PaintClock/Releases/PaintClock.misaka",
                   "Description": "initial release"
               },
               {
                   "Version": "1.1",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/PaintClock/Releases/Paint%20Clock%20Font%20(iOS%2016)1.1.misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/PaintClock/Releases/PaintClock1.1.misaka",
                   "Description": "Fixed some clock variants showing [?]"
               }
             ],
