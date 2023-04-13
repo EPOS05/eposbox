@@ -415,6 +415,36 @@
               }
             ],
             "PackageID": "com.epos.soundmanager"
+        },
+        {
+            "Name": "Quicksand Font 85%",
+            "Description": "Change your font!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/QuicksandFont85/ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your font to the 'Quicksand 85%' font ported to iOS by @Alexman1979",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/QuicksandFont85/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/QuicksandFont85/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/QuicksandFont85/Releases/QuicksandFont85.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.quicksand85"
         }
     ]
 }
