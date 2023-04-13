@@ -12,6 +12,8 @@
         {
             "Name": "Engage Charging Sound",
             "Description": "Change your charging sound!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -39,6 +41,8 @@
         {
             "Name": "Bronkoh Font",
             "Description": "Change your font!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -183,6 +187,8 @@
         {
             "Name": "Gradient Passcode & Phone",
             "Description": "Change your passcode & phone keys!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
             "Author": {
                 "Label": "EPOS & Z3ROS1X",
                 "Links": [
@@ -230,6 +236,8 @@
         {
             "Name": "Quicksand Font 100%",
             "Description": "Change your font!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -351,6 +359,8 @@
         {
             "Name": "ModernCC",
             "Description": "Give your Control Center a modern look",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -379,6 +389,8 @@
         {
             "Name": "SoundManager",
             "Description": "Change your system sounds!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
