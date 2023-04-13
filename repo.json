@@ -412,6 +412,11 @@
                   "Version": "0.1",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.1.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "0.2",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.2.misaka",
+                  "Description": "Adds MagSafe charging sound & Off option for dialer phone keys"
               }
             ],
             "PackageID": "com.epos.soundmanager"
