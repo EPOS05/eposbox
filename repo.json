@@ -417,6 +417,11 @@
                   "Version": "0.2",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.2.misaka",
                   "Description": "Adds MagSafe charging sound & Off option for dialer phone keys"
+              },
+              {
+                  "Version": "0.3",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.3.misaka",
+                  "Description": "Adds PixelShutter cam sound & a lot of new options"
               }
             ],
             "PackageID": "com.epos.soundmanager"
