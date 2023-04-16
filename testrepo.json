@@ -422,6 +422,11 @@
                   "Version": "0.3",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.3.misaka",
                   "Description": "Adds PixelShutter cam sound & a lot of new options"
+              },
+              {
+                  "Version": "0.4",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.4.misaka",
+                  "Description": "Adds PP7 Lock sound & changes Phone Dialer keys label"
               }
             ],
             "PackageID": "com.epos.soundmanager"
