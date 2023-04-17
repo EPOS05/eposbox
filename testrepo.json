@@ -388,21 +388,47 @@
         },
         {
             "Name": "SoundManager",
-            "Description": "Change your system sounds!",
+            "Description": "The only sound changer you'll ever need!",
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Main Dev)",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "fall20c (iOS 15 Fix)",
+                        "Link": "https://twitter.com/fall20c"
+                    },
+                    {
+                        "Label": "Lemin/Cowabunga (Inspiration)",
+                        "Link": "https://twitter.com/LeminLimez"
+                    },
+                    {
+                        "Label": "しまりん (iOS4 & iOS7 Sounds)",
+                        "Link": "https://twitter.com/straight_tamago"
+                    },
+                    {
+                        "Label": "nbxy (DrumKey, PixelShutter & sansKey Sounds)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    },
+                    {
+                        "Label": "Coolwcat (Piano Dial Sound)",
+                        "Link": "https://twitter.com/coolwcat"
+                    },
+                    {
+                        "Label": "Z3ROS1X (MagSafe Sound)",
+                        "Link": "https://twitter.com/Z3ROS1X"
                     }
+                    
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SoundManager/ico.jpg",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SoundManager/headerrepo.jpg",
             "Category": "Custom Sound",
-            "Caption": "SoundManager allows you to change your system sounds with ease!!\n\nThis tweak is still in beta and will be updated with new options and sounds over time :)\n\nSoundManager is inspired by Cowabunga's Audio Changer and uses some sounds from tweaks made by the following misaka devs:\n\n-ChromiumCandy\n-Coolwcat\n-しまりん\n-⦅ᴢᴇʀɵsɪx⦆",
+            "Caption": "SoundManager allows you to change your system sounds with ease! Including the option to select your own custom sound!!\n\nThis tweak is still in beta and will be updated with new options and sounds over time :)",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SoundManager/ss.png",
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SoundManager/ss2.png"
@@ -416,7 +442,7 @@
               {
                   "Version": "0.2",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.2.misaka",
-                  "Description": "Adds MagSafe charging sound & Off option for dialer phone keys"
+                  "Description": "Adds MagSafe charging sound & Off option for Phone Dialer keys"
               },
               {
                   "Version": "0.3",
@@ -427,6 +453,16 @@
                   "Version": "0.4",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.4.misaka",
                   "Description": "Adds PP7 Lock sound & changes Phone Dialer keys label"
+              },
+              {
+                  "Version": "0.4.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.4.1.misaka",
+                  "Description": "iOS 15 fix by fall20c"
+              },
+              {
+                  "Version": "0.5",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.5.misaka",
+                  "Description": "Adds option to choose custom sounds"
               }
             ],
             "PackageID": "com.epos.soundmanager"
