@@ -496,6 +496,43 @@
               }
             ],
             "PackageID": "com.epos.quicksand85"
+        },
+        {
+            "Name": "Tomorrow Clock Font (iOS 16)",
+            "Description": "a breath of fresh air",
+            "MinIOSVersion":"16.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & HackZy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Porting fonts to iOS 16 & Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "HackZy (Extracting fonts from OS & Tweak page design)",
+                        "Link": "https://github.com/HackZy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/TomorrowClock/ico.png",
+            "Category": "Fonts",
+            "Caption": "A unique clock font that gives your device a fresh and modern look\nborn from a collab between me and HackZy\n\ngoes well with OneCC",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/TomorrowClock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/TomorrowClock/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/TomorrowClock/ss3.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/TomorrowClock/ss4.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/TomorrowClock/ss5.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/TomorrowClock/Releases/TomorrowClock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.tomorrowclock"
         }
     ]
 }
