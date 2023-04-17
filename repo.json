@@ -427,6 +427,11 @@
                   "Version": "0.4",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.4.misaka",
                   "Description": "Adds PP7 Lock sound & changes Phone Dialer keys label"
+              },
+              {
+                  "Version": "0.4.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.4.1.misaka",
+                  "Description": "iOS 15 fix by fall20c"
               }
             ],
             "PackageID": "com.epos.soundmanager"
