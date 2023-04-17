@@ -496,6 +496,35 @@
               }
             ],
             "PackageID": "com.epos.quicksand85"
+        },
+        {
+            "Name": "Odin Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"16.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/OdinClock/ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your iOS 16 clock font to the 'Odin' clock font!\n\nPorted to iOS 16 by me :)",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/OdinClock/ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/OdinClock/Releases/OdinClock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.odinclock"
         }
     ]
 }
