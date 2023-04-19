@@ -570,6 +570,39 @@
               }
             ],
             "PackageID": "com.epos.trollfacelock"
+        },
+        {
+            "Name": "Nothing Clock Font (iOS 15)",
+            "Description": "a breath of fresh air",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"15.7.1",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS (Porting font to iOS 15 & Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "HackZy (Extracting font from OS)",
+                        "Link": "https://github.com/HackZy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/NothingClock15/ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your iOS 15 clock font to the Nothing clock font!\n\nPorted to iOS 15 by me and extracted from Nothing OS by HackZy",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/NothingClock15/ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/NothingClock15/Releases/NothingClock15.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.nothingclock15"
         }
     ]
 }
