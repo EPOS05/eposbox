@@ -538,6 +538,38 @@
               }
             ],
             "PackageID": "com.epos.tomorrowclock"
+        },
+        {
+            "Name": "Trollface Lock",
+            "Description": "The Lock of a Troll",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/TrollfaceLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into a Trollface\n\nOriginally made by @haxi0",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/TrollfaceLock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/TrollfaceLock/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/TrollfaceLock/ss3.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/TrollfaceLock/ss4.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/TrollfaceLock/Releases/TrollfaceLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.trollfacelock"
         }
     ]
 }
