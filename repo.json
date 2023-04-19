@@ -468,6 +468,11 @@
                   "Version": "0.6",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.6.misaka",
                   "Description": "New UI (Picker instead of SegmentedControl)"
+              },
+              {
+                  "Version": "0.7",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.6.misaka",
+                  "Description": "Adds option to set custom sounds for: -Phone Dialer keys -Recieve Message -Sent Message (Experimental)"
               }
             ],
             "PackageID": "com.epos.soundmanager"
