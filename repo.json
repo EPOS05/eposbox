@@ -471,7 +471,7 @@
               },
               {
                   "Version": "0.7",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.6.misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.7.misaka",
                   "Description": "Adds option to set custom sounds for: -Phone Dialer keys -Recieve Message -Sent Message (Experimental)"
               }
             ],
