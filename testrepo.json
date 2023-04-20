@@ -694,7 +694,7 @@
                   "Description": "initial release"
               }
             ],
-            "PackageID": "com.epos.auLacclock"
+            "PackageID": "com.epos.aulacclock"
         }
     ]
 }
