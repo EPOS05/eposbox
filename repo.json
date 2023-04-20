@@ -608,6 +608,93 @@
               }
             ],
             "PackageID": "com.epos.nothingclock15"
+        },
+        {
+            "Name": "Stencil Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"16.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/StencilClock/ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your iOS 16 clock font to the 'Stencil' clock font!\n\nPorted to iOS 16 by: @PHUCNGUYENADS",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/StencilClock/ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/StencilClock/Releases/StencilClock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.stencilclock"
+        },
+        {
+            "Name": "EULA Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"16.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/EULAClock/ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your iOS 16 clock font to the 'EULA' clock font!\n\nPorted to iOS 16 by: @PHUCNGUYENADS",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/EULAClock/ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/EULAClock/Releases/EULAClock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.eulaclock"
+        },
+        {
+            "Name": "AuLac Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"16.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/AuLacClock/ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your iOS 16 clock font to the 'AuLac' clock font!\n\nPorted to iOS 16 by: @PHUCNGUYENADS",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/AuLacClock/ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/AuLacClock/Releases/AuLacClock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.auLacclock"
         }
     ]
 }
