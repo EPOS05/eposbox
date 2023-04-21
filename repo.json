@@ -1263,6 +1263,35 @@
               }
             ],
             "PackageID": "com.epos.zombiesatemylock"
+        },
+        {
+            "Name": "3D Fluent Emojis",
+            "Description": "3D Fluent Emojis on iOS",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/3DFluentEmojis/ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your emoji font to the '3D Fluent Emojis' font ported to iOS by @PoomSmart",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/3DFluentEmojis/ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/3DFluentEmojis/Releases/3DFluentEmojis.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.3dfluentemojis"
         }
     ]
 }
