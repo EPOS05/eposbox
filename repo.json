@@ -693,6 +693,576 @@
               }
             ],
             "PackageID": "com.epos.aulacclock"
+        },
+        {
+            "Name": "Bomber Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/BomberLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Bomber Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/BomberLock/Releases/BomberLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.bomberlock"
+        },
+        {
+            "Name": "Boom Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/BoomLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Boom Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/BoomLock/Releases/BoomLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.boomlock"
+        },
+        {
+            "Name": "Gastly Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/GastlyLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Gastly Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/GastlyLock/Releases/GastlyLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.gastlylock"
+        },
+        {
+            "Name": "Glitched Skull Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/GlitchedSkullLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Glitched Skull Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/GlitchedSkullLock/Releases/GlitchedSkullLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.glitchedskulllock"
+        },
+        {
+            "Name": "Greenpois0n Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/GreenpoisonLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Greenpois0n Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/GreenpoisonLock/Releases/GreenpoisonLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.greenpoisonlock"
+        },
+        {
+            "Name": "Hello Kitty Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/HelloKittyLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Hello Kitty Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/HelloKittyLock/Releases/HelloKittyLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.hellokittylock"
+        },
+        {
+            "Name": "Majora's Mask Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MajorasMaskLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Majora's Mask Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MajorasMaskLock/Releases/MajorasMaskLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.majorasmasklock"
+        },
+        {
+            "Name": "Nasa Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/NasaLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Nasa Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/NasaLock/Releases/NasaLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.nasalock"
+        },
+        {
+            "Name": "Pink Circle Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/PinkCircleLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Pink Circle Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/PinkCircleLock/Releases/PinkCircleLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.pinkcirclelock"
+        },
+        {
+            "Name": "Rainbow Star Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/RainbowStarLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Rainbow Star Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/RainbowStarLock/Releases/RainbowStarLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.rainbowstarlock"
+        },
+        {
+            "Name": "Street Fighter Lock - Blanca",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/StreetFighterBlancaLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Street Fighter Lock - Blanca'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/StreetFighterBlancaLock/Releases/StreetFighterBlancaLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.streetfighterblancalock"
+        },
+        {
+            "Name": "Street Fighter Lock - Dhalsim",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/StreetFighterDhalsimLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Street Fighter Lock - Dhalsim'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/StreetFighterDhalsimLock/Releases/StreetFighterDhalsimLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.streetfighterdhalsimlock"
+        },
+        {
+            "Name": "Street Fighter Lock - Ken",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/StreetFighterKenLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Street Fighter Lock - Ken'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/StreetFighterKenLock/Releases/StreetFighterKenLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.streetfighterkenlock"
+        },
+        {
+            "Name": "Street Fighter Lock - Ryu",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/StreetFighterRyuLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Street Fighter Lock - Ryu'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/StreetFighterRyuLock/Releases/StreetFighterRyuLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.streetfighterryulock"
+        },
+        {
+            "Name": "Tails Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/TailsLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Tails Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/TailsLock/Releases/TailsLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.tailslock"
+        },
+        {
+            "Name": "Toad Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ToadLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Toad Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ToadLock/Releases/ToadLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.toadlock"
+        },
+        {
+            "Name": "Togepi Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/TogepiLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Togepi Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/TogepiLock/Releases/TogepiLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.togepilock"
+        },
+        {
+            "Name": "UFO Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/UFOLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'UFO Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/UFOLock/Releases/UFOLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.ufolock"
+        },
+        {
+            "Name": "Zombies Ate My Lock",
+            "Description": "Change your lock icon!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & The_Nobl3_Guy",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "The_Nobl3_Guy (Desginer)",
+                        "Link": "https://twitter.com/The_Nobl3_Guy"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ZombiesAteMyLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 'Zombies Ate My Lock'\n\nDesigned by @The_Nobl3_Guy",
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ZombiesAteMyLock/Releases/ZombiesAteMyLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.zombiesatemylock"
         }
     ]
 }
