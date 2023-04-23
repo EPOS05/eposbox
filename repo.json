@@ -1382,6 +1382,36 @@
               }
             ],
             "PackageID": "com.epos.sicafont"
+        },
+        {
+            "Name": "14 Pro Lock",
+            "Description": "The Lock of a Pro",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029",
+                        "Link": ""
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/14ProLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into 14 Pro series lock glyph\nAlso has a better animation!!",
+			"Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/14ProLock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/14ProLock/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/14ProLock/Releases/14ProLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.14prolock"
         }
     ]
 }
