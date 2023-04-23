@@ -1292,6 +1292,96 @@
               }
             ],
             "PackageID": "com.epos.3dfluentemojis"
+        },
+        {
+            "Name": "Comic Relief Font",
+            "Description": "Change your font!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ComicReliefFont/ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your font to the 'Comic Relief' font ported to iOS by @ev_ynw",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ComicReliefFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ComicReliefFont/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ComicReliefFont/Releases/ComicReliefFont.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.comicrelieffont"
+        },
+        {
+            "Name": "Shoot a Star Font",
+            "Description": "Change your font!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ShootaStarFont/ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your font to the 'Shoot a Star' font ported to iOS by @ev_ynw",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ShootaStarFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ShootaStarFont/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ShootaStarFont/Releases/ShootaStarFont.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.shootastarfont"
+        },
+        {
+            "Name": "Sica Font",
+            "Description": "Change your font!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SicaFont/ico.png",
+            "Category": "Fonts",
+            "Caption": "Change your font to the 'Sica' font ported to iOS by @ev_ynw",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SicaFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SicaFont/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SicaFont/Releases/SicaFont.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.sicafont"
         }
     ]
 }
