@@ -1522,7 +1522,7 @@
         },
         {
             "Name": "FontManager",
-            "Description": "The easiest font changer availabe",
+            "Description": "The easiest font changer available",
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
