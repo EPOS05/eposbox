@@ -1519,6 +1519,36 @@
               }
             ],
             "PackageID": "com.epos.14prolock"
+        },
+        {
+            "Name": "FontManager",
+            "Description": "The easiest font changer availabe",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FontManager/ico.png",
+            "Category": "Fonts",
+            "Caption": "FontManager allows you to change your System & Clock font to a custom one straight through misaka!!",
+			"Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FontManager/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FontManager/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FontManager/Releases/FontManager.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.fontmanager"
         }
     ]
 }
