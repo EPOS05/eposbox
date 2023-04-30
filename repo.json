@@ -79,6 +79,10 @@
                     {
                         "Label": "EPOS",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "p0s3id0n",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
             },
@@ -132,17 +136,21 @@
             "MinIOSVersion":"16.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
-                "Label": "EPOS",
+                "Label": "EPOS & p0s3id0n",
                 "Links": [
                     {
                         "Label": "EPOS",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "p0s3id0n",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/CompileClock/ico.png",
             "Category": "Fonts",
-            "Caption": "Change your iOS 16 clock font to the 'Compile' clock font!\n\nPorted to iOS 16 by: @PHUCNGUYENADS",
+            "Caption": "Change your iOS 16 clock font to the 'Compile' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/CompileClock/ss.png"
             ],
@@ -621,17 +629,21 @@
             "MinIOSVersion":"16.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
-                "Label": "EPOS",
+                "Label": "EPOS & p0s3id0n",
                 "Links": [
                     {
                         "Label": "EPOS",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "p0s3id0n",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/StencilClock/ico.png",
             "Category": "Fonts",
-            "Caption": "Change your iOS 16 clock font to the 'Stencil' clock font!\n\nPorted to iOS 16 by: @PHUCNGUYENADS",
+            "Caption": "Change your iOS 16 clock font to the 'Stencil' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/StencilClock/ss.png"
             ],
@@ -650,17 +662,21 @@
             "MinIOSVersion":"16.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
-                "Label": "EPOS",
+                "Label": "EPOS & p0s3id0n",
                 "Links": [
                     {
                         "Label": "EPOS",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "p0s3id0n",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/EULAClock/ico.png",
             "Category": "Fonts",
-            "Caption": "Change your iOS 16 clock font to the 'EULA' clock font!\n\nPorted to iOS 16 by: @PHUCNGUYENADS",
+            "Caption": "Change your iOS 16 clock font to the 'EULA' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/EULAClock/ss.png"
             ],
@@ -679,17 +695,21 @@
             "MinIOSVersion":"16.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
-                "Label": "EPOS",
+                "Label": "EPOS & p0s3id0n",
                 "Links": [
                     {
                         "Label": "EPOS",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "p0s3id0n",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/AuLacClock/ico.png",
             "Category": "Fonts",
-            "Caption": "Change your iOS 16 clock font to the 'AuLac' clock font!\n\nPorted to iOS 16 by: @PHUCNGUYENADS",
+            "Caption": "Change your iOS 16 clock font to the 'AuLac' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/AuLacClock/ss.png"
             ],
