@@ -1578,6 +1578,36 @@
               }
             ],
             "PackageID": "com.epos.fontmanager"
+        },
+        {
+            "Name": "Wayfinder Clock",
+            "Description": "Wayfinder watch face on iOS",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/WayfinderClock/ico.png",
+            "Category": "Fonts",
+            "Caption": "This tweak changes the appearance of your iOS clock icon to the Wayfinder watch face From WATCH",
+			"Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/WayfinderClock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/WayfinderClock/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/WayfinderClock/Releases/WayfinderClock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.wayfinderclock"
         }
     ]
 }
