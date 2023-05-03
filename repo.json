@@ -77,11 +77,11 @@
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
                     },
                     {
-                        "Label": "p0s3id0n",
+                        "Label": "p0s3id0n (Porting fonts to iOS 16)",
                         "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
@@ -139,11 +139,11 @@
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
                     },
                     {
-                        "Label": "p0s3id0n",
+                        "Label": "p0s3id0n (Porting fonts to iOS 16)",
                         "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
@@ -637,11 +637,11 @@
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
                     },
                     {
-                        "Label": "p0s3id0n",
+                        "Label": "p0s3id0n (Porting fonts to iOS 16)",
                         "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
@@ -670,11 +670,11 @@
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
                     },
                     {
-                        "Label": "p0s3id0n",
+                        "Label": "p0s3id0n (Porting fonts to iOS 16)",
                         "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
@@ -703,11 +703,11 @@
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
                     },
                     {
-                        "Label": "p0s3id0n",
+                        "Label": "p0s3id0n (Porting fonts to iOS 16)",
                         "Link": "https://twitter.com/PHUCNGUYENADS"
                     }
                 ]
@@ -1613,6 +1613,37 @@
               }
             ],
             "PackageID": "com.epos.wayfinderclock"
+        },
+        {
+            "Name": "Disintegrating Emoji Lock",
+            "Description": "just got thanos snapped",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DisintegratingEmojiLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into the disintegrating emoji",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DisintegratingEmojiLock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DisintegratingEmojiLock/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DisintegratingEmojiLock/ss3.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/DisintegratingEmojiLock/Releases/DisintegratingEmojiLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.disintegratingemojilock"
         }
     ]
 }
