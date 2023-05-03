@@ -444,10 +444,10 @@
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SoundManager/ico.jpg",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SoundManager/headerrepo.jpg",
             "Category": "Custom Sound",
-            "Caption": "SoundManager allows you to change your system sounds with ease! Including the option to select your own custom sound!!\n\nThis tweak is still in beta and will be updated with new options and sounds over time :)",
+            "Caption": "SoundManager allows you to change your system sounds with ease. With over 90 included sound options!!\n\nEven including the option to select your own custom sounds!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SoundManager/ss1.png",
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SoundManager/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SoundManager/ss1_2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SoundManager/ss2_2.png"
             ],
 			"Releases": [
               {
@@ -489,7 +489,12 @@
                   "Version": "0.7",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.7.misaka",
                   "Description": "Adds option to set custom sounds for: -Phone Dialer keys -Received Message -Sent Message"
-              }
+              },
+              {
+                "Version": "0.8",
+                "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.8.misaka",
+                "Description": "Sound options update, 64 new included sound options, updated UI"
+            }
             ],
             "PackageID": "com.epos.soundmanager"
         },
