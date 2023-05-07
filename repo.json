@@ -1570,9 +1570,10 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FontManager/ico.png",
             "Category": "Fonts",
-            "Caption": "FontManager allows you to change your System & Clock font to a custom one straight through misaka!!",
+            "Caption": "FontManager allows you to change your System, Clock & Emoji font to a custom one straight through misaka!!",
 			"Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FontManager/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FontManager/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FontManager/ss2_2.png",
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FontManager/ss2.png"
             ],
 			"Releases": [
@@ -1580,6 +1581,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FontManager/Releases/FontManager.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "2.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FontManager/Releases/FontManager2.0.misaka",
+                  "Description": "Emoji support, Reduced tweak size, Font download links, Updated UI"
               }
             ],
             "PackageID": "com.epos.fontmanager"
