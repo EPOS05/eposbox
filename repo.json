@@ -383,13 +383,19 @@
             "Caption": "This tweak gives your Control Center a more modern look and feel!\n\nMade possible with 14DND by nbxy <3",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ModernCC/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ModernCC/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ModernCC/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ModernCC/ss3.png"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ModernCC/Releases/ModernCC.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ModernCC/Releases/ModernCC1.1.misaka",
+                  "Description": "Adds tweak settings that allow users to dissable the ModernCC background color, Makes ModernCC compatible with other CC or UI tweaks."
               }
             ],
             "PackageID": "com.epos.moderncc"
