@@ -1650,6 +1650,42 @@
               }
             ],
             "PackageID": "com.epos.disintegratingemojilock"
+        },
+        {
+            "Name": "FrostedUI",
+            "Description": "Completely change the way iOS looks",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029#8642",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/headerrepo_2.png",
+            "Category": "UI",
+            "Caption": "FrostedUI - Revolutionise the way you view your notifications, control center, app library, 3D touch menus, folders, widgets and even UI alerts",
+			"Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss2_2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss3.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss4.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss5.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss6.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss7.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FrostedUI/Releases/FrostedUI.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.frostedui"
         }
     ]
 }
