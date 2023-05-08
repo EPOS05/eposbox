@@ -1654,7 +1654,7 @@
         {
             "Name": "FrostedUI",
             "Description": "Completely change the way iOS looks",
-            "MinIOSVersion":"15.0",
+            "MinIOSVersion":"16.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
                 "Label": "tyler1029",
