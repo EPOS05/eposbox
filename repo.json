@@ -5,7 +5,7 @@
     "RepositoryIcon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/RepoAssets/EPOSbox_180x180.png",
     "RepositoryWebsite": "https://github.com/EPOS05/MisakaRepoEPOS",
     "Default": {
-        "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/RepoAssets/Header.jpg",
+        "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/RepoAssets/EPOSbox_header.gif",
         "ViewCount": true
     },
     "RepositoryContents": [
