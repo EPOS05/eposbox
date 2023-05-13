@@ -1672,17 +1672,18 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/headerrepo_2.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/headerrepo.gif",
             "Category": "UI",
             "Caption": "FrostedUI - Revolutionise the way you view your notifications, control center, app library, 3D touch menus, folders, widgets and even UI alerts",
 			"Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss_2.png",
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss2_2.png",
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss3.png",
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss4.png",
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss5.png",
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss6.png",
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss7.png"
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss_4.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss2_4.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss3_4.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss4_4.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss5_4.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss6_4.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss7_4.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FrostedUI/ss8_4.png"
             ],
 			"Releases": [
               {
