@@ -1641,6 +1641,64 @@
               }
             ],
             "PackageID": "com.epos.frostedui"
+        },
+        {
+            "Name": "Android Lock",
+            "Description": "A taste of the other side",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/AndroidLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into one avaiable only on Android devices!!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/AndroidLock/gif.gif"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/AndroidLock/Releases/AndroidLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.androidlock"
+        },
+        {
+            "Name": "Mario Lock",
+            "Description": "Here we go!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MarioLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into Mario ✌️",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MarioLock/gif.gif"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MarioLock/Releases/MarioLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.mariolock"
         }
     ]
 }
