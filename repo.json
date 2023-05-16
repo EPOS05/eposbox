@@ -1729,6 +1729,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools2.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.1.misaka",
+                  "Description": "File size fix - removed the home button speed"
               }
             ],
             "PackageID": "com.epos.novulntools2"
