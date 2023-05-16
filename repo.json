@@ -1742,6 +1742,37 @@
               }
             ],
             "PackageID": "com.epos.novulntools2"
+        },
+        {
+            "Name": "CarPlayWP",
+            "Description": "The ultimate CarPlay tweak",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/CarPlayWP/ico.jpg",
+            "Category": "Theme",
+            "Caption": "CarPlayWP gives you the ability to change your CarPlay Wallpaper to whatever you like.\n\nWith just a few click in the tweak settings you can enjoy your very own wallpaper!!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/CarPlayWP/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/CarPlayWP/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/CarPlayWP/ss3.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/CarPlayWP/Releases/CarPlayWP.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.carplaywp"
         }
     ]
 }
