@@ -1845,6 +1845,41 @@
             "PackageID": "com.epos.vivacitysettings"
         },
         {
+            "Name": "Double Bubble Settings",
+            "Description": "Description",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS & tyler1029",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029#8642",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DoubleBubbleSettings/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DoubleBubbleSettings/headerrepo.png",
+            "Category": "Theme",
+            "Caption": "Caption",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DoubleBubbleSettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DoubleBubbleSettings/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.doublebubblesettings"
+        },
+        {
             "Name": "Morandi Settings",
             "Description": "Description",
             "MinIOSVersion":"15.0",
