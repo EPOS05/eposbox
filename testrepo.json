@@ -1776,7 +1776,7 @@
         },
         {
             "Name": "FelicitySettings",
-            "Description": "Description",
+            "Description": "a more colorful & detailed look for your settings",
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
@@ -1795,7 +1795,7 @@
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FelicitySettings/ico.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FelicitySettings/headerrepo_2.png",
             "Category": "Theme",
-            "Caption": "Caption",
+            "Caption": "FelicitySettings takes everything that is great with the default iOS icon design and pushes it further.",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FelicitySettings/ss.png",
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FelicitySettings/ss2.png"
@@ -1811,7 +1811,7 @@
         },
         {
             "Name": "Vivacity Settings",
-            "Description": "Description",
+            "Description": "A Vibrant Theme to Light up Your Settings!",
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
@@ -1830,7 +1830,7 @@
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/VivacitySettings/ico.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/VivacitySettings/headerrepo.png",
             "Category": "Theme",
-            "Caption": "Caption",
+            "Caption": "Vivacity Settings takes everything that is great about default iOS design and gives it a modern and vibrant spin.",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/VivacitySettings/ss.png",
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/VivacitySettings/ss2.png"
@@ -1846,7 +1846,7 @@
         },
         {
             "Name": "Double Bubble Settings",
-            "Description": "Description",
+            "Description": "Double Bubble Settings with MDC",
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
@@ -1865,7 +1865,7 @@
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DoubleBubbleSettings/ico.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DoubleBubbleSettings/headerrepo.png",
             "Category": "Theme",
-            "Caption": "Caption",
+            "Caption": "A modern and fresh rework of bubblegum settings. Features pastel colors that work well with any setup; light or dark!\n\n(currently VPN, FaceID & Wallet icons don't theme properly, if a fix is found we will push out an update.)",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DoubleBubbleSettings/ss.png",
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DoubleBubbleSettings/ss2.png"
@@ -1881,7 +1881,7 @@
         },
         {
             "Name": "Morandi Settings",
-            "Description": "Description",
+            "Description": "Morandi Settings with MDC",
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
@@ -1900,7 +1900,7 @@
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MorandiSettings/ico_2.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MorandiSettings/headerrepo_2.png",
             "Category": "Theme",
-            "Caption": "Caption",
+            "Caption": "Morandi Settings gives your settings a new color and feel in the style of Morandi's paintings.",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MorandiSettings/ss.png",
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MorandiSettings/ss2.png"
