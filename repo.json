@@ -1773,6 +1773,146 @@
               }
             ],
             "PackageID": "com.epos.carplaywp"
+        },
+        {
+            "Name": "FelicitySettings",
+            "Description": "a more colorful & detailed look for your settings",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029#8642",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FelicitySettings/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FelicitySettings/headerrepo_2.png",
+            "Category": "Theme",
+            "Caption": "FelicitySettings takes everything that is great with the default iOS icon design and pushes it further.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FelicitySettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/FelicitySettings/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.felicitysettings"
+        },
+        {
+            "Name": "Vivacity Settings",
+            "Description": "A Vibrant Theme to Light up Your Settings!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029#8642",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/VivacitySettings/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/VivacitySettings/headerrepo.png",
+            "Category": "Theme",
+            "Caption": "Vivacity Settings takes everything that is great about default iOS design and gives it a modern and vibrant spin.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/VivacitySettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/VivacitySettings/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/VivacitySettings/Releases/VivacitySettings.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.vivacitysettings"
+        },
+        {
+            "Name": "Double Bubble Settings",
+            "Description": "Double Bubble Settings with MDC",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029#8642",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DoubleBubbleSettings/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DoubleBubbleSettings/headerrepo.png",
+            "Category": "Theme",
+            "Caption": "A modern and fresh rework of bubblegum settings. Features pastel colors that work well with any setup; light or dark!\n\n(currently VPN, FaceID & Wallet icons don't theme properly, if a fix is found we will push out an update.)",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DoubleBubbleSettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DoubleBubbleSettings/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.doublebubblesettings"
+        },
+        {
+            "Name": "Morandi Settings",
+            "Description": "Morandi Settings with MDC",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029#8642",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MorandiSettings/ico_2.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MorandiSettings/headerrepo_2.png",
+            "Category": "Theme",
+            "Caption": "Morandi Settings gives your settings a new color and feel in the style of Morandi's paintings.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MorandiSettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MorandiSettings/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MorandiSettings/Releases/MorandiSettings.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.morandisettings"
         }
     ]
 }
