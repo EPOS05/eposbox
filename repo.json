@@ -1810,6 +1810,11 @@
                   "Version": "1.1",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.1.misaka",
                   "Description": "Adds option that allows users to set a custom image on top off settings"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.2.misaka",
+                  "Description": "Adds option to set a gap between the custom image and icloud"
               }
             ],
             "PackageID": "com.epos.felicitysettings"
@@ -1850,6 +1855,11 @@
                   "Version": "1.1",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.1.misaka",
                   "Description": "Adds option that allows users to set a custom image on top off settings"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.2.misaka",
+                  "Description": "Adds option to set a gap between the custom image and icloud"
               }
             ],
             "PackageID": "com.epos.vivacitysettings"
@@ -1890,6 +1900,11 @@
                   "Version": "1.1",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.1.misaka",
                   "Description": "Adds option that allows users to set a custom image on top off settings"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.2.misaka",
+                  "Description": "Adds option to set a gap between the custom image and icloud"
               }
             ],
             "PackageID": "com.epos.doublebubblesettings"
@@ -1930,6 +1945,11 @@
                   "Version": "1.1",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.1.misaka",
                   "Description": "Adds option that allows users to set a custom image on top off settings"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.2.misaka",
+                  "Description": "Adds option to set a gap between the custom image and icloud"
               }
             ],
             "PackageID": "com.epos.morandisettings"
