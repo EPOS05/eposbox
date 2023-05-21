@@ -1805,6 +1805,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.1.misaka",
+                  "Description": "Adds option that allows users to set a custom image on top off settings"
               }
             ],
             "PackageID": "com.epos.felicitysettings"
@@ -1840,6 +1845,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/VivacitySettings/Releases/VivacitySettings.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.1.misaka",
+                  "Description": "Adds option that allows users to set a custom image on top off settings"
               }
             ],
             "PackageID": "com.epos.vivacitysettings"
@@ -1875,6 +1885,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.1.misaka",
+                  "Description": "Adds option that allows users to set a custom image on top off settings"
               }
             ],
             "PackageID": "com.epos.doublebubblesettings"
@@ -1910,6 +1925,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MorandiSettings/Releases/MorandiSettings.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.1.misaka",
+                  "Description": "Adds option that allows users to set a custom image on top off settings"
               }
             ],
             "PackageID": "com.epos.morandisettings"
