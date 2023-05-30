@@ -1739,6 +1739,11 @@
                   "Version": "1.2",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.2.misaka",
                   "Description": "File size fix 2"
+              },
+              {
+                  "Version": "1.3",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.3.misaka",
+                  "Description": "Custom settings icons support & Added toggle to enable or disable animation speed changes"
               }
             ],
             "PackageID": "com.epos.novulntools2"
