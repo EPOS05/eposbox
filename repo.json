@@ -1977,7 +1977,8 @@
             "Category": "Settings",
             "Caption": "Debug Stoofs allows you to enable a few debugging options.",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DebugStoofs/ss_2.png"
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DebugStoofs/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/DebugStoofs/ss2.png"
             ],
 			"Releases": [
               {
