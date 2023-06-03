@@ -1988,6 +1988,36 @@
               }
             ],
             "PackageID": "com.epos.debugstoofs"
+        },
+        {
+            "Name": "Classic Settings",
+            "Description": "iOS 6 in your settings",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ClassicSettings/ico.png",
+            "Category": "Theme",
+            "Caption": "Relive the old days with Classic Settings\n\nThis theme changes your settings icons into the iOS 6 icons.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ClassicSettings/gif.gif",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ClassicSettings/gif2.gif"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ClassicSettings/Releases/ClassicSettings.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.classicsettings"
         }
     ]
 }
