@@ -1830,6 +1830,11 @@
                   "Version": "1.3",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.3.misaka",
                   "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
+              },
+              {
+                  "Version": "1.4",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.4.misaka",
+                  "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
               }
             ],
             "PackageID": "com.epos.felicitysettings"
@@ -1880,6 +1885,11 @@
                   "Version": "1.3",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.3.misaka",
                   "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
+              },
+              {
+                  "Version": "1.4",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.4.misaka",
+                  "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
               }
             ],
             "PackageID": "com.epos.vivacitysettings"
@@ -1930,6 +1940,11 @@
                   "Version": "1.3",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.3.misaka",
                   "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
+              },
+              {
+                  "Version": "1.4",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.4.misaka",
+                  "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
               }
             ],
             "PackageID": "com.epos.doublebubblesettings"
@@ -1980,6 +1995,11 @@
                   "Version": "1.3",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.3.misaka",
                   "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
+              },
+              {
+                  "Version": "1.4",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.4.misaka",
+                  "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
               }
             ],
             "PackageID": "com.epos.morandisettings"
@@ -2047,6 +2067,11 @@
                   "Version": "1.1",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.1.misaka",
                   "Description": "-redid shortcuts & measure icons -fixed developer settings icon"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.4.misaka",
+                  "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
               }
             ],
             "PackageID": "com.epos.classicsettings"
