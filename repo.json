@@ -2070,7 +2070,7 @@
               },
               {
                   "Version": "1.2",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.4.misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.2.misaka",
                   "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
               }
             ],
