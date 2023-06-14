@@ -1749,6 +1749,11 @@
                   "Version": "1.4",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.4.misaka",
                   "Description": "slight re-design, changed default icons to the default ios icons, new low power icon that changes dynamically depending on iOS version, fixed VPN tab not working"
+              },
+              {
+                  "Version": "1.5",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.5.misaka",
+                  "Description": "Paste sound no longer requires a reboot, re-designed layout, lowers file size to support more iOS versions"
               }
             ],
             "PackageID": "com.epos.novulntools2"
