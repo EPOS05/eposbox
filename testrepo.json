@@ -2079,6 +2079,36 @@
               }
             ],
             "PackageID": "com.epos.classicsettings"
+        },
+        {
+            "Name": "AppCC",
+            "Description": "Launching apps from the Control Center with ease",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029#8642",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/AppCC/ico.png",
+            "Category": "Control Center",
+            "Caption": "placeholder",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/AppCC/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/AppCC/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/AppCC/Releases/AppCC.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.appcc"
         }
     ]
 }
