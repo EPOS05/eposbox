@@ -1638,6 +1638,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FrostedUI/Releases/FrostedUI.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FrostedUI/Releases/FrostedUI1.1.misaka",
+                  "Description": "added option to change notif and notif shadow color trough tweak settings"
               }
             ],
             "PackageID": "com.epos.frostedui"
@@ -2107,6 +2112,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/AppCC/Releases/AppCC.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/AppCC/Releases/AppCC1.1.misaka",
+                  "Description": "icon option changes"
               }
             ],
             "PackageID": "com.epos.appcc"
