@@ -1488,7 +1488,7 @@
                 "Label": "tyler1029",
                 "Links": [
                     {
-                        "Label": "tyler1029#8642",
+                        "Label": "Discord: @tyler1029",
                         "Link": "https://discord.gg/bbJAqj7np5"
                     }
                 ]
@@ -1614,7 +1614,7 @@
                 "Label": "tyler1029",
                 "Links": [
                     {
-                        "Label": "tyler1029#8642",
+                        "Label": "Discord: @tyler1029",
                         "Link": "https://discord.gg/bbJAqj7np5"
                     }
                 ]
@@ -1643,6 +1643,11 @@
                   "Version": "1.1",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FrostedUI/Releases/FrostedUI1.1.misaka",
                   "Description": "added option to change notif and notif shadow color trough tweak settings"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FrostedUI/Releases/FrostedUI1.2.misaka",
+                  "Description": "Blur Value stepper style instead of the slider & improved titles"
               }
             ],
             "PackageID": "com.epos.frostedui"
@@ -1714,7 +1719,7 @@
                 "Label": "tyler1029",
                 "Links": [
                     {
-                        "Label": "tyler1029#8642",
+                        "Label": "Discord: @tyler1029",
                         "Link": "https://discord.gg/bbJAqj7np5"
                     }
                 ]
@@ -1806,7 +1811,7 @@
                         "Link": "https://twitter.com/RealEPOS"
                     },
                     {
-                        "Label": "tyler1029#8642",
+                        "Label": "Discord: @tyler1029",
                         "Link": "https://discord.gg/bbJAqj7np5"
                     }
                 ]
@@ -1861,7 +1866,7 @@
                         "Link": "https://twitter.com/RealEPOS"
                     },
                     {
-                        "Label": "tyler1029#8642",
+                        "Label": "Discord: @tyler1029",
                         "Link": "https://discord.gg/bbJAqj7np5"
                     }
                 ]
@@ -1916,7 +1921,7 @@
                         "Link": "https://twitter.com/RealEPOS"
                     },
                     {
-                        "Label": "tyler1029#8642",
+                        "Label": "Discord: @tyler1029",
                         "Link": "https://discord.gg/bbJAqj7np5"
                     }
                 ]
@@ -1971,7 +1976,7 @@
                         "Link": "https://twitter.com/RealEPOS"
                     },
                     {
-                        "Label": "tyler1029#8642",
+                        "Label": "Discord: @tyler1029",
                         "Link": "https://discord.gg/bbJAqj7np5"
                     }
                 ]
@@ -2022,7 +2027,7 @@
                 "Label": "tyler1029",
                 "Links": [
                     {
-                        "Label": "tyler1029#8642",
+                        "Label": "Discord: @tyler1029",
                         "Link": "https://discord.gg/bbJAqj7np5"
                     }
                 ]
@@ -2094,7 +2099,7 @@
                 "Label": "tyler1029",
                 "Links": [
                     {
-                        "Label": "tyler1029#8642",
+                        "Label": "Discord: @tyler1029",
                         "Link": "https://discord.gg/bbJAqj7np5"
                     }
                 ]
@@ -2120,6 +2125,36 @@
               }
             ],
             "PackageID": "com.epos.appcc"
+        },
+        {
+            "Name": "LSFootnote",
+            "Description": "a footnote on your lockscreen",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/LSFootnote/ico.jpg",
+            "Category": "Lock Screen",
+            "Caption": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/LSFootnote/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/LSFootnote/ss2_2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/LSFootnote/Releases/LSFootnote.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.lsfootnote"
         }
     ]
 }
