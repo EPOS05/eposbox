@@ -2141,6 +2141,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/LSFootnote/ico_2.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/LSFootnote/headerrepo.png",
             "Category": "Lock Screen",
             "Caption": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
             "Screenshot": [
