@@ -470,8 +470,8 @@
                 "Description": "Sound options update, 64 new included sound options, updated UI"
               },
               {
-                "Version": "v9",
-                "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManagerv9.misaka",
+                "Version": "V9",
+                "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManagerV9.misaka",
                 "Description": "now plays a preview sound when selecting any audio option & some small UI changes"
               }
             ],
