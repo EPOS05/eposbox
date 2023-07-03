@@ -409,40 +409,8 @@
                 "Label": "EPOS",
                 "Links": [
                     {
-                        "Label": "EPOS (Main Dev)",
+                        "Label": "EPOS",
                         "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "fall20c (iOS 15 Fix)",
-                        "Link": "https://twitter.com/fall20c"
-                    },
-                    {
-                        "Label": "Lemin/Cowabunga (Inspiration)",
-                        "Link": "https://twitter.com/LeminLimez"
-                    },
-                    {
-                        "Label": "しまりん (iOS4 & iOS7 Sounds)",
-                        "Link": "https://twitter.com/straight_tamago"
-                    },
-                    {
-                        "Label": "nbxy (DrumKey, PixelShutter, sansKey & Spaghet Sounds)",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    },
-                    {
-                        "Label": "HackZy (OneUI Sounds)",
-                        "Link": "https://github.com/HackZy01"
-                    },
-                    {
-                        "Label": "Coolwcat (Piano Dial Sound)",
-                        "Link": "https://twitter.com/coolwcat"
-                    },
-                    {
-                        "Label": "Z3ROS1X (MagSafe Sound)",
-                        "Link": "https://twitter.com/Z3ROS1X"
-                    },
-                    {
-                        "Label": "The_Nobl3_Guy (PP7 Sound)",
-                        "Link": "https://twitter.com/The_Nobl3_Guy"
                     }
                     
                 ]
@@ -500,7 +468,12 @@
                 "Version": "0.8",
                 "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManager0.8.misaka",
                 "Description": "Sound options update, 64 new included sound options, updated UI"
-            }
+              },
+              {
+                "Version": "V9",
+                "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SoundManager/Releases/SoundManagerV9.misaka",
+                "Description": "now plays a preview sound when selecting any audio option & some small UI changes"
+              }
             ],
             "PackageID": "com.epos.soundmanager"
         },
