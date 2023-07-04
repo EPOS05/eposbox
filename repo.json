@@ -2131,7 +2131,7 @@
             "PackageID": "com.epos.lsfootnote"
         },
         {
-            "Name": "ColorOS",
+            "Name": "ColorBoard",
             "Description": "A slight hint of color",
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"16.1.2",
@@ -2141,30 +2141,34 @@
                     {
                         "Label": "Discord: @tyler1029",
                         "Link": "https://discord.gg/bbJAqj7np5"
+                    },
+                    {
+                        "Label": "Discord: @HackZy - Icon & Header Creator",
+                        "Link": "https://discord.gg/bbJAqj7np5"
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorOS/icon.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorOS/headerrepo.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorBoard/icon.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorBoard/headerrepo.png",
             "Category": "UI",
-            "Caption": "The all-in-one tweak to bring color to your device, Changing 3D touch/menus colors, Dock colors, Notification colors, Folder colors & Control Center modules, background colors & App Library Colors.",
+            "Caption": "The all-in-one tweak to bring color to your device, Changing 3D touch/menu colors, Dock colors, Notification colors, Folder colors & Control Center modules, background colors & App Library Colors.",
 			"Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorOS/ss1.png",
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorOS/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorOS/ss3.png",
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorOS/ss4.png",
-	        	"https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorOS/ss5.png",
-	        	"https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorOS/ss6.png",
-	        	"https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorOS/ss7.png"
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorBoard/ss1.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorBoard/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorBoard/ss3.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorBoard/ss4.png",
+	        	"https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorBoard/ss5.png",
+	        	"https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorBoard/ss6.png",
+	        	"https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorBoard/ss7.png"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ColorOS/Releases/ColorOS.misaka",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ColorBoard/Releases/ColorBoard.misaka",
                   "Description": "initial release"
               }
             ],
-            "PackageID": "com.epos.coloros"
+            "PackageID": "com.epos.colorboard"
 
         }
     ]
