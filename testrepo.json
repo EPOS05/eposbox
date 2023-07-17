@@ -2082,7 +2082,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/AppCC/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/AppCC/ico_3.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/AppCC/headerrepo.png",
             "Category": "Control Center",
             "Caption": "AppCC Allows you to launch any application from the Control Center, It includes some preset applications or you can use a custom Bundle ID to an application currently installed on your device.",
@@ -2123,7 +2123,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/LSFootnote/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/LSFootnote/ico_3.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/LSFootnote/headerrepo.png",
             "Category": "Lock Screen",
             "Caption": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
