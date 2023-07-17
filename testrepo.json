@@ -1700,8 +1700,8 @@
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/NoVulnTools2/ico_2.jpg",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/NoVulnTools2/headerrepo.png",
             "Category": "Settings",
-            "Caption": "NoVulnTools is an all in one toolbox for your devices\nIt has:\n\n• UI Animation Speed\n• Custom side button speed\n• Playing sound upon pasting things\n• Your build version in the CC or status bar\n• Haptic upon wake for iPhone\n• Better battery information\n\nAnd much more.",
-			"Screenshot": [
+            "Caption": "NoVulnTools is an all in one toolbox for your devices\nIt has:\n\n• UI Animation Speed\n• Custom side button speed\n• Playing sound upon pasting things\n• Your build version in the CC or status bar\n• Haptic upon wake for iPhone\n• Better battery information\n\nAnd much more.\n\nOnce you have configured your options head to Settings ➜ General.",
+            "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/NoVulnTools2/ss_3.jpg",
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/NoVulnTools2/ss2_3.jpg",
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/NoVulnTools2/ss3_3.jpg"
@@ -2095,6 +2095,11 @@
                   "Version": "1.1",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/AppCC/Releases/AppCC1.1.misaka",
                   "Description": "icon option changes"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/AppCC/Releases/AppCC1.2.misaka",
+                  "Description": "Added better support for other Control Center tweaks"
               }
             ],
             "PackageID": "com.epos.appcc"
@@ -2151,8 +2156,8 @@
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorBoard/icon.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorBoard/headerrepo.png",
             "Category": "Springboard",
-            "Caption": "The all-in-one tweak to bring color to your device, Changing 3D touch/menu colors, Dock colors, Notification colors, Folder colors & Control Center modules, background colors & App Library Colors.",
-			"Screenshot": [
+            "Caption": "The all-in-one tweak to bring color to your device, Changing 3D touch/menu colors, Dock colors, Notification colors, Folder colors & Control Center modules, background colors & App Library Colors & so much more.",
+            "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorBoard/ss1.png",
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorBoard/ss2.png",
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/ColorBoard/ss3.png",
@@ -2171,6 +2176,11 @@
                   "Version": "1.1",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.1.misaka",
                   "Description": "Bug Fixes \n • Notification Stacking \n • Notification Shadow \n • Notification Dark Secondary Text Color \n Added Features \n • Switcher Blur \n • Spotlight Color \n • Transparent App Library Pods"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.2.misaka",
+                  "Description": "Added Features \n • Notification Badge Color \n Tweak Improvements \n • Option to disable the effects."
               }
             ],
             "PackageID": "com.epos.colorboard"
