@@ -2234,6 +2234,7 @@
                 ]
             },
             "Icon": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MuteAnimation/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MuteAnimation/headerrepo.png",
             "Category": "Springboard",
             "Caption": "Changes your silent pill to a custom image or animation.",
             "Screenshot": [
