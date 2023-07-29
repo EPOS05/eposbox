@@ -2255,6 +2255,35 @@
               }
             ],
             "PackageID": "com.epos.muteanimation"
+        },
+        {
+            "Name": "Pencil Clock Font (iOS 15)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"15.7.1",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/PencilClock15/ico.png",
+            "Category": "Font",
+            "Caption": "Change your iOS 15 clock font to the 'Pencil' clock font!\n\nPorted to iOS 15 by me",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/PencilClock15/ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/PencilClock15/Releases/PencilClock15.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.pencilclock15"
         }
     ]
 }
