@@ -2048,7 +2048,7 @@
         },
         {
             "Name": "Classic Settings",
-            "Description": "iOS 6 in your settings",
+            "Description": "iOS 6 inside your settings",
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
