@@ -287,7 +287,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SpaceshipClock15/ico.png",
             "Category": "Font",
-            "Caption": "Change your iOS 15 clock font to the 'Spaceship' clock font!\n\nPorted to iOS 15 by me :)",
+            "Caption": "Change your iOS 15 clock font to the 'Spaceship' clock font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SpaceshipClock15/ss.png"
             ],
@@ -316,7 +316,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/RetakeClock15/ico.png",
             "Category": "Font",
-            "Caption": "Change your iOS 15 clock font to the 'Retake' clock font!\n\nPorted to iOS 15 by me :)",
+            "Caption": "Change your iOS 15 clock font to the 'Retake' clock font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/RetakeClock15/ss.png"
             ],
@@ -345,7 +345,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/PaintClock/ico.png",
             "Category": "Font",
-            "Caption": "Change your iOS 16 clock font to the 'Paint' clock font!\n\nPorted to iOS 16 by me :)",
+            "Caption": "Change your iOS 16 clock font to the 'Paint' clock font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/PaintClock/ss.png",
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/PaintClock/ss2.png"
@@ -2265,14 +2265,14 @@
                 "Label": "EPOS",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Porting font to iOS 15 & Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
                     }
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/PencilClock15/ico.png",
             "Category": "Font",
-            "Caption": "Change your iOS 15 clock font to the 'Pencil' clock font!\n\nPorted to iOS 15 by me",
+            "Caption": "Change your iOS 15 clock font to the 'Pencil' clock font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/PencilClock15/ss.png"
             ],
@@ -2284,6 +2284,35 @@
               }
             ],
             "PackageID": "com.epos.pencilclock15"
+        },
+        {
+            "Name": "sushiki Clock Font (iOS 15)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"15.7.1",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS (Porting font to iOS 15 & Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/sushikiClock15/ico.png",
+            "Category": "Font",
+            "Caption": "Change your iOS 15 clock font to the 'sushiki' clock font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/sushikiClock15/ss.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/sushikiClock15/Releases/sushikiClock15.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.sushikiclock15"
         }
     ]
 }
