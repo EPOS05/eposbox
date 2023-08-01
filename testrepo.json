@@ -1514,17 +1514,17 @@
               {
                   "Version": "2.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FontManager/Releases/FontManager2.0.misaka",
-                  "Description": "-Emoji support, -Reduced tweak size, -Font download links, -Updated UI"
+                  "Description": "-Emoji support -Reduced tweak size -Font download links -Updated UI"
               },
               {
                   "Version": "V3",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FontManager/Releases/FontManagerV3.misaka",
-                  "Description": "-Added Keycaps.ttc & PingFang.ttc support, -Updated the UI to make it look more like SoundManager"
+                  "Description": "-Added Keycaps.ttc & PingFang.ttc support -Updated the UI to make it look more like SoundManager"
               },
               {
                   "Version": "V4",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/FontManager/Releases/FontManagerV4.misaka",
-                  "Description": "-Added Arabic font support, -Small UI changes"
+                  "Description": "-Added Arabic fonts support -Minor UI changes"
               }
             ],
             "PackageID": "com.epos.fontmanager"
