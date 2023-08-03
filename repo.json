@@ -1349,7 +1349,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/3DFluentEmojis/ico.png",
             "Category": "Emoji",
-            "Caption": "Change your emoji font to the '3D Fluent Emojis'\n\n font ported to iOS by @PoomSmart\n\nBeware that using this Emoji font on versions higher than 16.4 may result in some emoji's not showing due to them not being included in this font.",
+            "Caption": "Change your emoji font to the '3D Fluent Emojis'\n\nFont ported to iOS by @PoomSmart\n\nBeware that using this Emoji font on versions higher than 16.4 may result in some emoji's not showing due to them not being included in this font.",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/3DFluentEmojis/ss.png"
             ],
