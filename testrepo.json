@@ -1,6 +1,6 @@
 {
     "RepositoryName": "EPOSbox (test)",
-    "RepositoryDescription": "The MDC repo for you 🍃",
+    "RepositoryDescription": "The MDC & KFD repo made for you 🍃",
     "RepositoryAuthor": "EPOS",
     "RepositoryIcon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/RepoAssets/leafEPOSbox_repo.jpg",
     "RepositoryWebsite": "https://github.com/EPOS05/MisakaRepoEPOS",
@@ -13,7 +13,7 @@
             "Name": "Engage Charging Sound",
             "Description": "Change your charging sound!",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -42,7 +42,7 @@
             "Name": "Bronkoh Font",
             "Description": "Change your font!",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -72,7 +72,7 @@
             "Name": "Exciter Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion":"16.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
@@ -105,7 +105,7 @@
             "Name": "Meloso Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion":"16.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -134,7 +134,7 @@
             "Name": "Compile Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion":"16.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
@@ -245,7 +245,7 @@
             "Name": "Quicksand Font 100%",
             "Description": "Change your font!",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -333,7 +333,7 @@
             "Name": "Paint Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion":"16.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -368,7 +368,7 @@
             "Name": "ModernCC",
             "Description": "Give your Control Center a modern look",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -404,7 +404,7 @@
             "Name": "SoundManager",
             "Description": "The only sound changer you'll ever need!",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -481,7 +481,7 @@
             "Name": "Quicksand Font 85%",
             "Description": "Change your font!",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -511,7 +511,7 @@
             "Name": "Tomorrow Clock Font (iOS 16)",
             "Description": "a breath of fresh air",
             "MinIOSVersion":"16.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS & HackZy",
                 "Links": [
@@ -611,7 +611,7 @@
             "Name": "Stencil Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion":"16.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
@@ -644,7 +644,7 @@
             "Name": "EULA Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion":"16.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
@@ -677,7 +677,7 @@
             "Name": "AuLac Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion":"16.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
                 "Links": [
@@ -1366,7 +1366,7 @@
             "Name": "Comic Relief Font",
             "Description": "Change your font!",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1396,7 +1396,7 @@
             "Name": "Shoot a Star Font",
             "Description": "Change your font!",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1426,7 +1426,7 @@
             "Name": "Sica Font",
             "Description": "Change your font!",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1487,7 +1487,7 @@
             "Name": "FontManager",
             "Description": "The easiest font changer available",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1533,7 +1533,7 @@
             "Name": "Wayfinder Clock",
             "Description": "Wayfinder watch face on iOS",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1754,7 +1754,7 @@
             "Name": "CarPlayWP",
             "Description": "The ultimate CarPlay tweak",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
