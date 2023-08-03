@@ -1336,8 +1336,8 @@
         {
             "Name": "3D Fluent Emojis",
             "Description": "3D Fluent Emojis on iOS",
-            "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MinIOSVersion":"15.4",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -1349,7 +1349,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/3DFluentEmojis/ico.png",
             "Category": "Emoji",
-            "Caption": "Change your emoji font to the '3D Fluent Emojis' font ported to iOS by @PoomSmart",
+            "Caption": "Change your emoji font to the '3D Fluent Emojis'\n\nBeware that using this Emoji font on versions higher than 16.4 may result in some emoji's not showing because those are not included in this font.\n\n font ported to iOS by @PoomSmart",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/3DFluentEmojis/ss.png"
             ],
