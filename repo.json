@@ -1336,7 +1336,7 @@
         {
             "Name": "3D Fluent Emojis",
             "Description": "3D Fluent Emojis on iOS",
-            "MinIOSVersion":"15.4",
+            "MinIOSVersion":"15.0",
             "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "EPOS",
