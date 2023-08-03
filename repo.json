@@ -1456,7 +1456,7 @@
             "Name": "14 Pro Lock",
             "Description": "The Lock of a Pro",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -1592,7 +1592,7 @@
             "Name": "FrostedUI",
             "Description": "Completely change the way iOS looks",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -2025,7 +2025,7 @@
             "Name": "Debug Stoofs",
             "Description": "Enable debug options",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -2102,7 +2102,7 @@
             "Name": "AppCC",
             "Description": "Launching apps from the Control Center with ease",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
