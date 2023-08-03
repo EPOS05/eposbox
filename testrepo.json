@@ -2174,7 +2174,7 @@
             "Name": "ColorBoard",
             "Description": "A slight hint of color",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -2216,6 +2216,11 @@
                   "Version": "1.2",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.2.misaka",
                   "Description": "Added Features \n • Notification Badge Color \n Tweak Improvements \n • Option to disable the effects."
+              },
+              {
+                  "Version": "1.3",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.3.misaka",
+                  "Description": "Fixed Badge Color, & added support for kfd."
               }
             ],
             "PackageID": "com.epos.colorboard"
