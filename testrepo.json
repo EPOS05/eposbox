@@ -2328,6 +2328,74 @@
               }
             ],
             "PackageID": "com.epos.sushikiclock15"
+        },
+        {
+            "Name": "NothingOS Font",
+            "Description": "Change your font!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"17.0",
+            "Author": {
+                "Label": "CyberNeel & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Discord: @cyberneel (Porting font to iOS)",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/NothingOSFont/ico.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'NothingOS' font ported to iOS by CyberNeel",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/NothingOSFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/NothingOSFont/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/NothingOSFont/Releases/NothingOSFont.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.nothingosfont"
+        },
+        {
+            "Name": "Minecraft Font",
+            "Description": "Change your font!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"17.0",
+            "Author": {
+                "Label": "dis667 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Discord: @.no4n1k (Porting font to iOS)",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MinecraftFont/ico.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Minecraft' font ported to iOS by dis667",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MinecraftFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MinecraftFont/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MinecraftFont/Releases/MinecraftFont.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.minecraftfont"
         }
     ]
 }
