@@ -2396,6 +2396,39 @@
               }
             ],
             "PackageID": "com.epos.minecraftfont"
+        },
+        {
+            "Name": "QuickActionColor",
+            "Description": "Give your lockscreen a unique look",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"17.0",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/QuickActionColor/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/QuickActionColor/headerrepo.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lockscreen toggle color.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/QuickActionColor/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/QuickActionColor/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/QuickActionColor/ss3.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/QuickActionColor/ss4.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/QuickActionColor/Releases/QuickActionColor.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.quickactioncolor"
         }
     ]
 }
