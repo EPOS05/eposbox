@@ -2337,7 +2337,7 @@
         {
             "Name": "NothingOS Font",
             "Description": "Change your font!",
-            "MinIOSVersion":"15.0",
+            "MinIOSVersion":"16.0",
             "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "CyberNeel & EPOS",
@@ -2371,7 +2371,7 @@
         {
             "Name": "Minecraft Font",
             "Description": "Change your font!",
-            "MinIOSVersion":"15.0",
+            "MinIOSVersion":"16.0",
             "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "dis667 & EPOS",
