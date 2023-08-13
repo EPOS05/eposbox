@@ -2385,14 +2385,20 @@
             "Category": "Font",
             "Caption": "Change your font to the 'Minecraft' font ported to iOS by dis667",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MinecraftFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MinecraftFont/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MinecraftFont/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MinecraftFont/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/MinecraftFont/ss3.png"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MinecraftFont/Releases/MinecraftFont.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MinecraftFont/Releases/MinecraftFont1.1.misaka",
+                  "Description": "Fixed 5GUC and added polish"
               }
             ],
             "PackageID": "com.epos.minecraftfont"
