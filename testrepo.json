@@ -2440,6 +2440,38 @@
               }
             ],
             "PackageID": "com.epos.quickactioncolor"
+        },
+        {
+            "Name": "SettingsManager",
+            "Description": "all in one settings customizer",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                    
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SettingsManager/ico.png",
+            "Category": "Theme",
+            "Caption": "SettingsManager allows you to customize your settings icons to your own custom images and also give you the ability to add a custom image on the top of your settings list!!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SettingsManager/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SettingsManager/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SettingsManager/ss3.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "V1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SettingsManager/Releases/SettingsManager.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.settingsmanager"
         }
     ]
 }
