@@ -2443,7 +2443,7 @@
         },
         {
             "Name": "SettingsManager",
-            "Description": "all in one settings customizer",
+            "Description": "The all in one settings customizer",
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
@@ -2458,7 +2458,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SettingsManager/ico.png",
             "Category": "Theme",
-            "Caption": "SettingsManager allows you to customize your settings icons to your own custom images and also give you the ability to add a custom image on the top of your settings list!!",
+            "Caption": "SettingsManager allows you to change your settings icons to your own custom icons!!\n\nIt also give you the ability to add a custom image on the top of your settings list!\n\n(More features planned for future releases)",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SettingsManager/ss.png",
                 "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/Tweaks/SettingsManager/ss2.png",
