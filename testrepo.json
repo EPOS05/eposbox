@@ -2469,6 +2469,11 @@
                   "Version": "V1",
                   "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SettingsManager/Releases/SettingsManager.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "V1.1",
+                  "Package": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/SettingsManager/Releases/SettingsManagerV1.1.misaka",
+                  "Description": "Fixed mail icon option from not showing"
               }
             ],
             "PackageID": "com.epos.settingsmanager"
