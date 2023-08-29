@@ -10,4 +10,5 @@ You can add my repo using the following URL: https://raw.githubusercontent.com/E
 
 [add repo](misaka://addrepo=https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json) 
 
-[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/user/repository/subscription)
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
+
