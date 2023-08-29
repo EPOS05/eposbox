@@ -8,10 +8,8 @@ Download the misaka public beta now on the misakaProject⭐ [Discord server](htt
 ## Repo
 You can add my repo using the following URL: https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json
 
-<a href="https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json" class="button icon add">Add to misaka</a>
-
 [![Button Icon]][Link]
 <!----------------------------------------------------------------------------->
-[Link]: # 'Link with example title.'
+[Link]: misaka://addrepo=https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json 'Add to misaka'
 <!---------------------------------[ Buttons ]--------------------------------->
 [Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
