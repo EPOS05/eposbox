@@ -7,3 +7,5 @@ Download the misaka public beta now on the misakaProject⭐ [Discord server](htt
 
 ## Repo
 You can add my repo using the following URL: https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json
+
+<a href="misaka://addrepo=https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json" class="button icon add">Add to misaka</a>
