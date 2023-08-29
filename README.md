@@ -12,4 +12,4 @@ You can add my repo using the following URL: https://raw.githubusercontent.com/E
 <!----------------------------------------------------------------------------->
 [Link]: misaka://addrepo=https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json 'Add to misaka'
 <!---------------------------------[ Buttons ]--------------------------------->
-[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[Button Icon]: 
