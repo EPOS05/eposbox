@@ -44,17 +44,21 @@
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"17.0",
             "Author": {
-                "Label": "EPOS",
+                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
                 "Links": [
                     {
                         "Label": "EPOS",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
+                        "Link": "https://twitter.com/ev_ynw"
                     }
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/iconew.png",
             "Category": "Font",
-            "Caption": "Change your font to the 'Bronkoh' font ported to iOS by @ev_ynw",
+            "Caption": "Change your font to the 'Bronkoh' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/ss.png",
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/ss2.png"
