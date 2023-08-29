@@ -47,7 +47,7 @@
                 "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
                     },
                     {
@@ -111,17 +111,21 @@
             "MinIOSVersion":"16.0",
             "MaxIOSVersion":"17.0",
             "Author": {
-                "Label": "EPOS",
+                "Label": "EPOS & Alexman",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Alexman (Porting fonts to iOS 16)",
+                        "Link": "https://twitter.com/Alexman1979"
                     }
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/ico.png",
             "Category": "Font",
-            "Caption": "Change your iOS 16 clock font to the 'Meloso' clock font!\n\nPorted to iOS 16 by: @Alexman1979",
+            "Caption": "Change your iOS 16 clock font to the 'Meloso' clock font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/ss.png"
             ],
@@ -173,17 +177,21 @@
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"15.7.1",
             "Author": {
-                "Label": "EPOS",
+                "Label": "EPOS & Alexman",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Alexman (Porting font to iOS 15)",
+                        "Link": "https://twitter.com/Alexman1979"
                     }
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock15/ico.png",
             "Category": "Font",
-            "Caption": "Change your iOS 15 clock font to the 'Meloso / Kroppen FwO' clock font!\n\nPorted to iOS 15 by: @Alexman1979",
+            "Caption": "Change your iOS 15 clock font to the 'Meloso / Kroppen FwO' clock font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock15/ss.png"
             ],
@@ -251,17 +259,21 @@
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"17.0",
             "Author": {
-                "Label": "EPOS",
+                "Label": "EPOS & Alexman",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Alexman (Porting font to iOS)",
+                        "Link": "https://twitter.com/Alexman1979"
                     }
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/iconew.png",
             "Category": "Font",
-            "Caption": "Change your font to the 'Quicksand 100%' font ported to iOS by @Alexman1979",
+            "Caption": "Change your font to the 'Quicksand 100%' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/ss.png",
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/ss2.png"
@@ -487,17 +499,21 @@
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"17.0",
             "Author": {
-                "Label": "EPOS",
+                "Label": "EPOS & Alexman",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Alexman (Porting font to iOS)",
+                        "Link": "https://twitter.com/Alexman1979"
                     }
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/iconew.png",
             "Category": "Font",
-            "Caption": "Change your font to the 'Quicksand 85%' font ported to iOS by @Alexman1979",
+            "Caption": "Change your font to the 'Quicksand 85%' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/ss.png",
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/ss2.png"
@@ -1343,11 +1359,15 @@
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"17.0",
             "Author": {
-                "Label": "EPOS",
+                "Label": "EPOS & PS",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "PS (Porting font to iOS)",
+                        "Link": "https://twitter.com/PoomSmart"
                     }
                 ]
             },
@@ -1372,17 +1392,21 @@
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"17.0",
             "Author": {
-                "Label": "EPOS",
+                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
+                        "Link": "https://twitter.com/ev_ynw"
                     }
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/iconew.png",
             "Category": "Font",
-            "Caption": "Change your font to the 'Comic Relief' font ported to iOS by @ev_ynw",
+            "Caption": "Change your font to the 'Comic Relief' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/ss.png",
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/ss2.png"
@@ -1402,17 +1426,21 @@
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"17.0",
             "Author": {
-                "Label": "EPOS",
+                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
+                        "Link": "https://twitter.com/ev_ynw"
                     }
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/iconew.png",
             "Category": "Font",
-            "Caption": "Change your font to the 'Shoot a Star' font ported to iOS by @ev_ynw",
+            "Caption": "Change your font to the 'Shoot a Star' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/ss.png",
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/ss2.png"
@@ -1432,17 +1460,21 @@
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"17.0",
             "Author": {
-                "Label": "EPOS",
+                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
+                        "Link": "https://twitter.com/ev_ynw"
                     }
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/iconew.png",
             "Category": "Font",
-            "Caption": "Change your font to the 'Sica' font ported to iOS by @ev_ynw",
+            "Caption": "Change your font to the 'Sica' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/ss.png",
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/ss2.png"
@@ -2344,7 +2376,7 @@
             "MinIOSVersion":"16.0",
             "MaxIOSVersion":"17.0",
             "Author": {
-                "Label": "CyberNeel & EPOS",
+                "Label": "EPOS & CyberNeel",
                 "Links": [
                     {
                         "Label": "EPOS (Tweak Dev)",
@@ -2358,7 +2390,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ico.png",
             "Category": "Font",
-            "Caption": "Change your font to the 'NothingOS' font ported to iOS by CyberNeel",
+            "Caption": "Change your font to the 'NothingOS' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ss.png",
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ss2.png"
@@ -2378,7 +2410,7 @@
             "MinIOSVersion":"16.0",
             "MaxIOSVersion":"17.0",
             "Author": {
-                "Label": "dis667 & EPOS",
+                "Label": "EPOS & dis667",
                 "Links": [
                     {
                         "Label": "EPOS (Tweak Dev)",
@@ -2392,7 +2424,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ico.png",
             "Category": "Font",
-            "Caption": "Change your font to the 'Minecraft' font ported to iOS by dis667",
+            "Caption": "Change your font to the 'Minecraft' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss_2.png",
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss2.png",
