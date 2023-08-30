@@ -1936,6 +1936,85 @@
             "PackageID": "com.epos.3dfluentemojis"
         },
         {
+            "Name": "14 Pro Lock",
+            "Description": "The Lock of a Pro",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/ico.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lock into the 14 Pro series lock glyph\nAlso has a better animation!!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/gif.gif",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/Releases/14ProLock.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/Releases/14ProLock1.1.misaka",
+                    "Description": "Quick fix - wasnt working on iPhone XR"
+                }
+            ],
+            "PackageID": "com.epos.14prolock"
+        },
+        {
+            "Name": "Android Lock",
+            "Description": "A taste of the other side",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AndroidLock/ico_2.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lock into one avaiable only on Android devices!!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AndroidLock/gif.gif"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AndroidLock/Releases/AndroidLock.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.androidlock"
+        },
+        {
             "Name": "Trollface Lock",
             "Description": "The Lock of a Troll",
             "MinIOSVersion": "15.0",
@@ -1971,6 +2050,78 @@
                 }
             ],
             "PackageID": "com.epos.trollfacelock"
+        },
+        {
+            "Name": "Disintegrating Emoji Lock",
+            "Description": "just got thanos snapped",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DisintegratingEmojiLock/ico_2.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lock into the disintegrating emoji",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DisintegratingEmojiLock/gif.gif"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DisintegratingEmojiLock/Releases/DisintegratingEmojiLock.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.disintegratingemojilock"
+        },
+        {
+            "Name": "Mario Lock",
+            "Description": "Here we go!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MarioLock/ico_2.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lock into Mario ✌️",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MarioLock/gif.gif"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MarioLock/Releases/MarioLock.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.mariolock"
         },
         {
             "Name": "Bomber Lock",
@@ -2731,157 +2882,6 @@
                 }
             ],
             "PackageID": "com.epos.zombiesatemylock"
-        },
-        {
-            "Name": "14 Pro Lock",
-            "Description": "The Lock of a Pro",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "tyler1029",
-                "Links": [
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/ico.png",
-            "Category": "Lock Screen",
-            "Caption": "Changes your lock into the 14 Pro series lock glyph\nAlso has a better animation!!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/gif.gif",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/Releases/14ProLock.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/Releases/14ProLock1.1.misaka",
-                    "Description": "Quick fix - wasnt working on iPhone XR"
-                }
-            ],
-            "PackageID": "com.epos.14prolock"
-        },
-        {
-            "Name": "Disintegrating Emoji Lock",
-            "Description": "just got thanos snapped",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DisintegratingEmojiLock/ico_2.png",
-            "Category": "Lock Screen",
-            "Caption": "Changes your lock into the disintegrating emoji",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DisintegratingEmojiLock/gif.gif"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DisintegratingEmojiLock/Releases/DisintegratingEmojiLock.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.disintegratingemojilock"
-        },
-        {
-            "Name": "Android Lock",
-            "Description": "A taste of the other side",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AndroidLock/ico_2.png",
-            "Category": "Lock Screen",
-            "Caption": "Changes your lock into one avaiable only on Android devices!!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AndroidLock/gif.gif"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AndroidLock/Releases/AndroidLock.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.androidlock"
-        },
-        {
-            "Name": "Mario Lock",
-            "Description": "Here we go!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MarioLock/ico_2.png",
-            "Category": "Lock Screen",
-            "Caption": "Changes your lock into Mario ✌️",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MarioLock/gif.gif"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MarioLock/Releases/MarioLock.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.mariolock"
         }
     ]
 }
