@@ -536,6 +536,115 @@
             "PackageID": "com.epos.quickactioncolor"
         },
         {
+            "Name": "LSFootnote",
+            "Description": "a footnote on your lockscreen",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ico_3.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/headerrepo.png",
+            "Category": "Lock Screen",
+            "Caption": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/Releases/LSFootnote.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.lsfootnote"
+        },
+        {
+            "Name": "MuteAnimation",
+            "Description": "Custom mute animations or image",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/headerrepo.png",
+            "Category": "Springboard",
+            "Caption": "Changes your silent pill to a custom image or animation.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/gif_2.gif",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/Releases/MuteAnimation.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/Releases/MuteAnimation1.1.misaka",
+                    "Description": "Added an option to adjust the position of the animation or custom image."
+                }
+            ],
+            "PackageID": "com.epos.muteanimation"
+        },
+        {
+            "Name": "Debug Stoofs",
+            "Description": "Enable debug options",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/ico.jpg",
+            "Category": "Settings",
+            "Caption": "Debug Stoofs allows you to enable a few debugging options.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/Releases/DebugStoofs.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.debugstoofs"
+        },
+        {
             "Name": "Engage Charging Sound",
             "Description": "Change your charging sound!",
             "MinIOSVersion": "15.0",
@@ -2582,36 +2691,6 @@
             "PackageID": "com.epos.morandisettings"
         },
         {
-            "Name": "Debug Stoofs",
-            "Description": "Enable debug options",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "tyler1029",
-                "Links": [
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/ico.jpg",
-            "Category": "Settings",
-            "Caption": "Debug Stoofs allows you to enable a few debugging options.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/ss_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/Releases/DebugStoofs.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.debugstoofs"
-        },
-        {
             "Name": "Classic Settings",
             "Description": "iOS 6 inside your settings",
             "MinIOSVersion": "15.0",
@@ -2657,85 +2736,6 @@
                 }
             ],
             "PackageID": "com.epos.classicsettings"
-        },
-        {
-            "Name": "LSFootnote",
-            "Description": "a footnote on your lockscreen",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "tyler1029",
-                "Links": [
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ico_3.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/headerrepo.png",
-            "Category": "Lock Screen",
-            "Caption": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ss_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/Releases/LSFootnote.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.lsfootnote"
-        },
-        {
-            "Name": "MuteAnimation",
-            "Description": "Custom mute animations or image",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "tyler1029 & EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/headerrepo.png",
-            "Category": "Springboard",
-            "Caption": "Changes your silent pill to a custom image or animation.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/gif_2.gif",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/Releases/MuteAnimation.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/Releases/MuteAnimation1.1.misaka",
-                    "Description": "Added an option to adjust the position of the animation or custom image."
-                }
-            ],
-            "PackageID": "com.epos.muteanimation"
         },
         {
             "Name": "Pencil Clock Font (iOS 15)",
