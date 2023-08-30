@@ -694,6 +694,79 @@
             "PackageID": "com.epos.debugstoofs"
         },
         {
+            "Name": "Wayfinder Clock",
+            "Description": "Wayfinder watch face on iOS",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/ico.png",
+            "Category": "Clock",
+            "Caption": "This tweak changes the appearance of your iOS clock icon to the Wayfinder watch face From WATCH",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/Releases/WayfinderClock.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.wayfinderclock"
+        },
+        {
+            "Name": "Engage Charging Sound",
+            "Description": "Change your charging sound!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EngageSound/ico.png",
+            "Category": "Sound",
+            "Caption": "Change your default charging sound to the Apple AirPower wireless charging sound",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EngageSound/vid.mov"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EngageSound/Releases/EngageSound.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.engage"
+        },
+        {
             "Name": "Classic Settings",
             "Description": "iOS 6 inside your settings",
             "MinIOSVersion": "15.0",
@@ -979,79 +1052,6 @@
                 }
             ],
             "PackageID": "com.epos.morandisettings"
-        },
-        {
-            "Name": "Wayfinder Clock",
-            "Description": "Wayfinder watch face on iOS",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/ico.png",
-            "Category": "Clock",
-            "Caption": "This tweak changes the appearance of your iOS clock icon to the Wayfinder watch face From WATCH",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/Releases/WayfinderClock.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.wayfinderclock"
-        },
-        {
-            "Name": "Engage Charging Sound",
-            "Description": "Change your charging sound!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EngageSound/ico.png",
-            "Category": "Sound",
-            "Caption": "Change your default charging sound to the Apple AirPower wireless charging sound",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EngageSound/vid.mov"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EngageSound/Releases/EngageSound.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.engage"
         },
         {
             "Name": "Nothing Clock Font (iOS 15)",
