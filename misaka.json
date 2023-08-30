@@ -10,8 +10,8 @@
     },
     "RepositoryContents": [
         {
-            "Name": "Engage Charging Sound",
-            "Description": "Change your charging sound!",
+            "Name": "FontManager",
+            "Description": "The easiest font changer available",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
@@ -30,447 +30,37 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EngageSound/ico.png",
-            "Category": "Sound",
-            "Caption": "Change your default charging sound to the Apple AirPower wireless charging sound",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EngageSound/vid.mov"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EngageSound/Releases/EngageSound.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.engage"
-        },
-        {
-            "Name": "Bronkoh Font",
-            "Description": "Change your font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
-                        "Link": "https://twitter.com/ev_ynw"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/iconew.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/ico_2.png",
             "Category": "Font",
-            "Caption": "Change your font to the 'Bronkoh' font!",
+            "Caption": "FontManager allows you to change your System, Clock & Emoji font to a custom one straight through misaka!!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/ss_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/ss2_3.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/ss3_2.png"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/Releases/BronkohFont.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.bronkoh"
-        },
-        {
-            "Name": "Exciter Clock Font (iOS 16)",
-            "Description": "Change your clock font!",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & p0s3id0n",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "p0s3id0n (Porting fonts to iOS 16)",
-                        "Link": "https://twitter.com/PHUCNGUYENADS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/ico.png",
-            "Category": "Font",
-            "Caption": "Change your iOS 16 clock font to the 'Exciter' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/ss.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/Releases/ExciterClock.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.exciter"
-        },
-        {
-            "Name": "Meloso Clock Font (iOS 16)",
-            "Description": "Change your clock font!",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & Alexman",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "Alexman (Porting fonts to iOS 16)",
-                        "Link": "https://twitter.com/Alexman1979"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/ico.png",
-            "Category": "Font",
-            "Caption": "Change your iOS 16 clock font to the 'Meloso' clock font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/ss.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/Releases/MelosoClock.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.meloso"
-        },
-        {
-            "Name": "Compile Clock Font (iOS 16)",
-            "Description": "Change your clock font!",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & p0s3id0n",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "p0s3id0n (Porting fonts to iOS 16)",
-                        "Link": "https://twitter.com/PHUCNGUYENADS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/ico.png",
-            "Category": "Font",
-            "Caption": "Change your iOS 16 clock font to the 'Compile' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/ss.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/Releases/CompileClock.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.compile"
-        },
-        {
-            "Name": "Meloso Clock Font (iOS 15)",
-            "Description": "Change your clock font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Author": {
-                "Label": "EPOS & Alexman",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "Alexman (Porting font to iOS 15)",
-                        "Link": "https://twitter.com/Alexman1979"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock15/ico.png",
-            "Category": "Font",
-            "Caption": "Change your iOS 15 clock font to the 'Meloso / Kroppen FwO' clock font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock15/ss.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock15/Releases/MelosoClock15.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.meloso15"
-        },
-        {
-            "Name": "Gradient Passcode & Phone",
-            "Description": "Change your passcode & phone keys!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "EPOS & Z3ROS1X",
-                "Links": [
-                    {
-                        "Label": "EPOS (Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "Z3ROS1X (Designer)",
-                        "Link": "https://twitter.com/Z3ROS1X"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/ico.jpg",
-            "Category": "Theme",
-            "Caption": "Change your Passcode & Phone Dialer keys to this beautiful Gradient Theme designed by ⦅ᴢᴇʀɵsɪx⦆",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/ss.jpg",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/ss2.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/Releases/GradientPassPhone.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/Releases/FontManager.misaka",
                     "Description": "initial release"
                 },
                 {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/Releases/GradientPassPhone1.1.misaka",
-                    "Description": "Fixed phone keys light mode variant not theming"
+                    "Version": "2.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/Releases/FontManager2.0.misaka",
+                    "Description": "-Emoji support -Reduced tweak size -Font download links -Updated UI"
                 },
                 {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/Releases/GradientPassPhone1.2.misaka",
-                    "Description": "Fixed scaling issue & added support for all devices"
+                    "Version": "V3",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/Releases/FontManagerV3.misaka",
+                    "Description": "-Added Keycaps.ttc & PingFang.ttc support -Updated the UI to make it look more like SoundManager"
                 },
                 {
-                    "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/Releases/GradientPassPhone1.3.misaka",
-                    "Description": "Reduces file size & improves support (Kumiki FIX)"
+                    "Version": "V4",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/Releases/FontManagerV4.misaka",
+                    "Description": "-Added Arabic fonts support -Minor UI changes"
                 }
             ],
-            "PackageID": "com.epos.gradient"
-        },
-        {
-            "Name": "Quicksand Font 100%",
-            "Description": "Change your font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & Alexman",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "Alexman (Porting font to iOS)",
-                        "Link": "https://twitter.com/Alexman1979"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/iconew.png",
-            "Category": "Font",
-            "Caption": "Change your font to the 'Quicksand 100%' font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/Releases/QuicksandFont.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.quicksand"
-        },
-        {
-            "Name": "Spaceship Clock Font (iOS 15)",
-            "Description": "Change your clock font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS (Porting font to iOS 15 & Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SpaceshipClock15/ico.png",
-            "Category": "Font",
-            "Caption": "Change your iOS 15 clock font to the 'Spaceship' clock font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SpaceshipClock15/ss.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SpaceshipClock15/Releases/SpaceshipClock15.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.spaceship15"
-        },
-        {
-            "Name": "Retake Clock Font (iOS 15)",
-            "Description": "Change your clock font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS (Porting font to iOS 15 & Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/RetakeClock15/ico.png",
-            "Category": "Font",
-            "Caption": "Change your iOS 15 clock font to the 'Retake' clock font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/RetakeClock15/ss.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/RetakeClock15/Releases/RetakeClock15.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.retake15"
-        },
-        {
-            "Name": "Paint Clock Font (iOS 16)",
-            "Description": "Change your clock font!",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS (Porting fonts to iOS 16 & Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/ico.png",
-            "Category": "Font",
-            "Caption": "Change your iOS 16 clock font to the 'Paint' clock font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/Releases/PaintClock.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/Releases/PaintClock1.1.misaka",
-                    "Description": "Fixed some clock variants showing [?]"
-                }
-            ],
-            "PackageID": "com.epos.paint"
-        },
-        {
-            "Name": "ModernCC",
-            "Description": "Give your Control Center a modern look",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ico.png",
-            "Category": "Control Center",
-            "Caption": "This tweak gives your Control Center a more modern look and feel!\n\nMade possible with 14DND by nbxy <3",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ss3.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/Releases/ModernCC.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/Releases/ModernCC1.1.misaka",
-                    "Description": "Adds tweak settings that allow users to dissable the ModernCC background color, Makes ModernCC compatible with other CC or UI tweaks."
-                }
-            ],
-            "PackageID": "com.epos.moderncc"
+            "PackageID": "com.epos.fontmanager"
         },
         {
             "Name": "SoundManager",
@@ -556,8 +146,44 @@
             "PackageID": "com.epos.soundmanager"
         },
         {
-            "Name": "Quicksand Font 85%",
-            "Description": "Change your font!",
+            "Name": "SettingsManager",
+            "Description": "The all in one settings customizer",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/ico.png",
+            "Category": "Theme",
+            "Caption": "SettingsManager allows you to change your settings icons to your own custom icons!!\n\nIt also give you the ability to add a custom image on the top of your settings list!\n\n(More features planned for future releases)",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/ss3.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "V1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/Releases/SettingsManager.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "V1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/Releases/SettingsManagerV1.1.misaka",
+                    "Description": "Fixed mail icon option from not showing"
+                }
+            ],
+            "PackageID": "com.epos.settingsmanager"
+        },
+        {
+            "Name": "NoVulnTools2",
+            "Description": "The best toolbox for your device",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
@@ -568,6 +194,1020 @@
                 ]
             },
             "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/ico_3.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/headerrepo_2.png",
+            "Category": "Settings",
+            "Caption": "NoVulnTools is an all in one toolbox for your devices\nIt has:\n\n• UI Animation Speed\n• Custom side button speed\n• Playing sound upon pasting things\n• Your build version in the CC or status bar\n• Haptic upon wake for iPhone\n• Better battery information\n\nAnd much more.\n\nOnce you have configured your options head to Settings ➜ General.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/ss_3.jpg",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/ss2_3.jpg",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/ss3_3.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/Releases/NoVulnTools2.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.1.misaka",
+                    "Description": "File size fix - removed the home button speed"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.2.misaka",
+                    "Description": "File size fix 2"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.3.misaka",
+                    "Description": "Custom settings icons support & Added toggle to enable or disable animation speed changes"
+                },
+                {
+                    "Version": "1.4",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.4.misaka",
+                    "Description": "slight re-design, changed default icons to the default ios icons, new low power icon that changes dynamically depending on iOS version, fixed VPN tab not working"
+                },
+                {
+                    "Version": "1.5",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.5.misaka",
+                    "Description": "Paste sound no longer requires a reboot, re-designed layout, lowers file size to support more iOS versions"
+                }
+            ],
+            "PackageID": "com.epos.novulntools2"
+        },
+        {
+            "Name": "ColorBoard",
+            "Description": "A slight hint of color",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    },
+                    {
+                        "Label": "Discord: @HackZy - Icon & Header Creator",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ico_2.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/headerrepo_2.png",
+            "Category": "Springboard",
+            "Caption": "The all-in-one tweak to bring color to your device, Changing 3D touch/menu colors, Dock colors, Notification colors, Folder colors & Control Center modules, background colors & App Library Colors & so much more.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss1.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss3.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss5.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss6.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss7.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/Releases/ColorBoard.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/Releases/ColorBoard1.1.misaka",
+                    "Description": "Bug Fixes \n • Notification Stacking \n • Notification Shadow \n • Notification Dark Secondary Text Color \n Added Features \n • Switcher Blur \n • Spotlight Color \n • Transparent App Library Pods"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/Releases/ColorBoard1.2.misaka",
+                    "Description": "Added Features \n • Notification Badge Color \n Tweak Improvements \n • Option to disable the effects."
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/Releases/ColorBoard1.3.misaka",
+                    "Description": "Fixed Badge Color, & added support for kfd."
+                },
+                {
+                    "Version": "1.4 Beta",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/Releases/ColorBoard1.4.misaka",
+                    "Description": "Added opacity values to Dock, Control Center & Folder colors & a option to make the control center modules & toggles clear."
+                }
+            ],
+            "PackageID": "com.epos.colorboard"
+        },
+        {
+            "Name": "QuickActionColor",
+            "Description": "Give your lockscreen a unique look",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/headerrepo.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lockscreen toggle color.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss3.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss4.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/Releases/QuickActionColor.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.quickactioncolor"
+        },
+        {
+            "Name": "AppCC",
+            "Description": "Launching apps from the Control Center with ease",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/ico_3.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/headerrepo.png",
+            "Category": "Control Center",
+            "Caption": "AppCC Allows you to launch any application from the Control Center, It includes some preset applications or you can use a custom Bundle ID to an application currently installed on your device.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/ss2_2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/Releases/AppCC.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/Releases/AppCC1.1.misaka",
+                    "Description": "icon option changes"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/Releases/AppCC1.2.misaka",
+                    "Description": "Added better support for other Control Center tweaks"
+                }
+            ],
+            "PackageID": "com.epos.appcc"
+        },
+        {
+            "Name": "CarPlayWP",
+            "Description": "The ultimate CarPlay tweak",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CarPlayWP/ico.jpg",
+            "Category": "Springboard",
+            "Caption": "CarPlayWP gives you the ability to change your CarPlay Wallpaper to whatever you like.\n\nWith just a few clicks in the tweak settings you can enjoy your very own wallpaper!!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CarPlayWP/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CarPlayWP/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CarPlayWP/ss3.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CarPlayWP/Releases/CarPlayWP.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.carplaywp"
+        },
+        {
+            "Name": "MuteAnimation",
+            "Description": "Custom mute animations or image",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/headerrepo.png",
+            "Category": "Springboard",
+            "Caption": "Changes your silent pill to a custom image or animation.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/gif_2.gif",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/Releases/MuteAnimation.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/Releases/MuteAnimation1.1.misaka",
+                    "Description": "Added an option to adjust the position of the animation or custom image."
+                }
+            ],
+            "PackageID": "com.epos.muteanimation"
+        },
+        {
+            "Name": "LSFootnote",
+            "Description": "a footnote on your lockscreen",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ico_3.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/headerrepo.png",
+            "Category": "Lock Screen",
+            "Caption": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/Releases/LSFootnote.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.lsfootnote"
+        },
+        {
+            "Name": "FrostedUI",
+            "Description": "Completely change the way iOS looks",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/headerrepo.gif",
+            "Category": "Springboard",
+            "Caption": "FrostedUI - Revolutionise the way you view your notifications, control center, app library, 3D touch menus, folders, widgets and even UI alerts",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss2_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss3_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss4_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss5_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss6_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss7_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss8_4.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/Releases/FrostedUI.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/Releases/FrostedUI1.1.misaka",
+                    "Description": "added option to change notif and notif shadow color trough tweak settings"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/Releases/FrostedUI1.2.misaka",
+                    "Description": "Blur Value stepper style instead of the slider & improved titles"
+                }
+            ],
+            "PackageID": "com.epos.frostedui"
+        },
+        {
+            "Name": "ModernCC",
+            "Description": "Give your Control Center a modern look",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ico.png",
+            "Category": "Control Center",
+            "Caption": "This tweak gives your Control Center a more modern look and feel!\n\nMade possible with 14DND by nbxy <3",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ss3.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/Releases/ModernCC.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/Releases/ModernCC1.1.misaka",
+                    "Description": "Adds tweak settings that allow users to dissable the ModernCC background color, Makes ModernCC compatible with other CC or UI tweaks."
+                }
+            ],
+            "PackageID": "com.epos.moderncc"
+        },
+        {
+            "Name": "Gradient Passcode & Phone",
+            "Description": "Change your passcode & phone keys!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "EPOS & Z3ROS1X",
+                "Links": [
+                    {
+                        "Label": "EPOS (Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Z3ROS1X (Designer)",
+                        "Link": "https://twitter.com/Z3ROS1X"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/ico.jpg",
+            "Category": "Theme",
+            "Caption": "Change your Passcode & Phone Dialer keys to this beautiful Gradient Theme designed by ⦅ᴢᴇʀɵsɪx⦆",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/ss.jpg",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/ss2.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/Releases/GradientPassPhone.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/Releases/GradientPassPhone1.1.misaka",
+                    "Description": "Fixed phone keys light mode variant not theming"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/Releases/GradientPassPhone1.2.misaka",
+                    "Description": "Fixed scaling issue & added support for all devices"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/Releases/GradientPassPhone1.3.misaka",
+                    "Description": "Reduces file size & improves support (Kumiki FIX)"
+                }
+            ],
+            "PackageID": "com.epos.gradient"
+        },
+        {
+            "Name": "Wayfinder Clock",
+            "Description": "Wayfinder watch face on iOS",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/ico.png",
+            "Category": "Clock",
+            "Caption": "This tweak changes the appearance of your iOS clock icon to the Wayfinder watch face From WATCH",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/Releases/WayfinderClock.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.wayfinderclock"
+        },
+        {
+            "Name": "Engage Charging Sound",
+            "Description": "Change your charging sound!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EngageSound/ico.png",
+            "Category": "Sound",
+            "Caption": "Change your default charging sound to the Apple AirPower wireless charging sound",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EngageSound/vid.mov"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EngageSound/Releases/EngageSound.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.engage"
+        },
+        {
+            "Name": "Debug Stoofs",
+            "Description": "Enable debug options",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/ico.jpg",
+            "Category": "Settings",
+            "Caption": "Debug Stoofs allows you to enable a few debugging options.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/Releases/DebugStoofs.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.debugstoofs"
+        },
+        {
+            "Name": "Classic Settings",
+            "Description": "iOS 6 inside your settings",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ico_2.png",
+            "Category": "Theme",
+            "Caption": "Relive the old days with Classic Settings\n\nThis theme changes your settings icons into the iOS 6 icons.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss2_3.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss3_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss4_3.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.1.misaka",
+                    "Description": "-redid shortcuts & measure icons -fixed developer settings icon"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.2.misaka",
+                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.3.misaka",
+                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
+                }
+            ],
+            "PackageID": "com.epos.classicsettings"
+        },
+        {
+            "Name": "FelicitySettings",
+            "Description": "a more colorful & detailed look for your settings",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/headerrepo_2.png",
+            "Category": "Theme",
+            "Caption": "FelicitySettings takes everything that is great with the default iOS icon design and pushes it further.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.1.misaka",
+                    "Description": "Adds option that allows users to set a custom image on top off settings"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.2.misaka",
+                    "Description": "Adds option to set a gap between the custom image and icloud"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.3.misaka",
+                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
+                },
+                {
+                    "Version": "1.4",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.4.misaka",
+                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
+                },
+                {
+                    "Version": "1.5",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.5.misaka",
+                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
+                }
+            ],
+            "PackageID": "com.epos.felicitysettings"
+        },
+        {
+            "Name": "Vivacity Settings",
+            "Description": "A Vibrant Theme to Light up Your Settings!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/headerrepo.png",
+            "Category": "Theme",
+            "Caption": "Vivacity Settings takes everything that is great about default iOS design and gives it a modern and vibrant spin.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.1.misaka",
+                    "Description": "Adds option that allows users to set a custom image on top off settings"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.2.misaka",
+                    "Description": "Adds option to set a gap between the custom image and icloud"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.3.misaka",
+                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
+                },
+                {
+                    "Version": "1.4",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.4.misaka",
+                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
+                },
+                {
+                    "Version": "1.5",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.5.misaka",
+                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
+                }
+            ],
+            "PackageID": "com.epos.vivacitysettings"
+        },
+        {
+            "Name": "Double Bubble Settings",
+            "Description": "Double Bubble Settings with MDC",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/headerrepo.png",
+            "Category": "Theme",
+            "Caption": "A modern and fresh rework of bubblegum settings. Features pastel colors that work well with any setup; light or dark!\n\n(currently VPN, FaceID & Wallet icons don't theme properly, if a fix is found we will push out an update.)",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.1.misaka",
+                    "Description": "Adds option that allows users to set a custom image on top off settings"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.2.misaka",
+                    "Description": "Adds option to set a gap between the custom image and icloud"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.3.misaka",
+                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
+                },
+                {
+                    "Version": "1.4",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.4.misaka",
+                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
+                },
+                {
+                    "Version": "1.5",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.5.misaka",
+                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
+                }
+            ],
+            "PackageID": "com.epos.doublebubblesettings"
+        },
+        {
+            "Name": "Morandi Settings",
+            "Description": "Morandi Settings with MDC",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/ico_2.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/headerrepo_2.png",
+            "Category": "Theme",
+            "Caption": "Morandi Settings gives your settings a new color and feel in the style of Morandi's paintings.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.1.misaka",
+                    "Description": "Adds option that allows users to set a custom image on top off settings"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.2.misaka",
+                    "Description": "Adds option to set a gap between the custom image and icloud"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.3.misaka",
+                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
+                },
+                {
+                    "Version": "1.4",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.4.misaka",
+                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
+                },
+                {
+                    "Version": "1.5",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.5.misaka",
+                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
+                }
+            ],
+            "PackageID": "com.epos.morandisettings"
+        },
+        {
+            "Name": "Nothing Clock Font (iOS 15)",
+            "Description": "a breath of fresh air",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS (Porting font to iOS 15 & Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "HackZy (Extracting font from OS)",
+                        "Link": "https://github.com/HackZy01"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingClock15/ico.png",
+            "Category": "Font",
+            "Caption": "Change your iOS 15 clock font to the Nothing clock font!\n\nPorted to iOS 15 by me and extracted from Nothing OS by HackZy",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingClock15/ss.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingClock15/Releases/NothingClock15.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.nothingclock15"
+        },
+        {
+            "Name": "Pencil Clock Font (iOS 15)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS (Porting font to iOS 15 & Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PencilClock15/ico.png",
+            "Category": "Font",
+            "Caption": "Change your iOS 15 clock font to the 'Pencil' clock font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PencilClock15/ss.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PencilClock15/Releases/PencilClock15.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.pencilclock15"
+        },
+        {
+            "Name": "sushiki Clock Font (iOS 15)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS (Porting font to iOS 15 & Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/sushikiClock15/ico.png",
+            "Category": "Font",
+            "Caption": "Change your iOS 15 clock font to the 'sushiki' clock font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/sushikiClock15/ss.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/sushikiClock15/Releases/sushikiClock15.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.sushikiclock15"
+        },
+        {
+            "Name": "Spaceship Clock Font (iOS 15)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS (Porting font to iOS 15 & Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SpaceshipClock15/ico.png",
+            "Category": "Font",
+            "Caption": "Change your iOS 15 clock font to the 'Spaceship' clock font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SpaceshipClock15/ss.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SpaceshipClock15/Releases/SpaceshipClock15.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.spaceship15"
+        },
+        {
+            "Name": "Retake Clock Font (iOS 15)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS (Porting font to iOS 15 & Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/RetakeClock15/ico.png",
+            "Category": "Font",
+            "Caption": "Change your iOS 15 clock font to the 'Retake' clock font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/RetakeClock15/ss.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/RetakeClock15/Releases/RetakeClock15.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.retake15"
+        },
+        {
+            "Name": "Meloso Clock Font (iOS 15)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+            "Author": {
                 "Label": "EPOS & Alexman",
                 "Links": [
                     {
@@ -575,26 +1215,25 @@
                         "Link": "https://twitter.com/RealEPOS"
                     },
                     {
-                        "Label": "Alexman (Porting font to iOS)",
+                        "Label": "Alexman (Porting font to iOS 15)",
                         "Link": "https://twitter.com/Alexman1979"
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/iconew.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock15/ico.png",
             "Category": "Font",
-            "Caption": "Change your font to the 'Quicksand 85%' font!",
+            "Caption": "Change your iOS 15 clock font to the 'Meloso / Kroppen FwO' clock font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock15/ss.png"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/Releases/QuicksandFont85.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock15/Releases/MelosoClock15.misaka",
                     "Description": "initial release"
                 }
             ],
-            "PackageID": "com.epos.quicksand85"
+            "PackageID": "com.epos.meloso15"
         },
         {
             "Name": "Tomorrow Clock Font (iOS 16)",
@@ -641,12 +1280,12 @@
             "PackageID": "com.epos.tomorrowclock"
         },
         {
-            "Name": "Trollface Lock",
-            "Description": "The Lock of a Troll",
-            "MinIOSVersion": "15.0",
+            "Name": "Paint Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
+                "MinIOSVersion_CustomLabel": "16.0",
                 "MaxIOSVersion_CustomLabel": "16.6b1",
                 "Build": [
                     "20G5026e"
@@ -656,59 +1295,151 @@
                 "Label": "EPOS",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Porting fonts to iOS 16 & Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/ico_2.png",
-            "Category": "Lock Screen",
-            "Caption": "Changes your lock into a Trollface\n\nOriginally released by haxi0 for Cowabunga",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/ico.png",
+            "Category": "Font",
+            "Caption": "Change your iOS 16 clock font to the 'Paint' clock font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/ss0.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/ss1.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/ss2.png"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/Releases/TrollfaceLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/Releases/PaintClock.misaka",
                     "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/Releases/PaintClock1.1.misaka",
+                    "Description": "Fixed some clock variants showing [?]"
                 }
             ],
-            "PackageID": "com.epos.trollfacelock"
+            "PackageID": "com.epos.paint"
         },
         {
-            "Name": "Nothing Clock Font (iOS 15)",
-            "Description": "a breath of fresh air",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
+            "Name": "Meloso Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "16.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
-                "Label": "EPOS",
+                "Label": "EPOS & Alexman",
                 "Links": [
                     {
-                        "Label": "EPOS (Porting font to iOS 15 & Tweak Dev)",
+                        "Label": "EPOS (Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
                     },
                     {
-                        "Label": "HackZy (Extracting font from OS)",
-                        "Link": "https://github.com/HackZy01"
+                        "Label": "Alexman (Porting fonts to iOS 16)",
+                        "Link": "https://twitter.com/Alexman1979"
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingClock15/ico.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/ico.png",
             "Category": "Font",
-            "Caption": "Change your iOS 15 clock font to the Nothing clock font!\n\nPorted to iOS 15 by me and extracted from Nothing OS by HackZy",
+            "Caption": "Change your iOS 16 clock font to the 'Meloso' clock font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingClock15/ss.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/ss.png"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingClock15/Releases/NothingClock15.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/Releases/MelosoClock.misaka",
                     "Description": "initial release"
                 }
             ],
-            "PackageID": "com.epos.nothingclock15"
+            "PackageID": "com.epos.meloso"
+        },
+        {
+            "Name": "Exciter Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "16.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & p0s3id0n",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "p0s3id0n (Porting fonts to iOS 16)",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/ico.png",
+            "Category": "Font",
+            "Caption": "Change your iOS 16 clock font to the 'Exciter' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/ss.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/Releases/ExciterClock.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.exciter"
+        },
+        {
+            "Name": "Compile Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "16.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & p0s3id0n",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "p0s3id0n (Porting fonts to iOS 16)",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/ico.png",
+            "Category": "Font",
+            "Caption": "Change your iOS 16 clock font to the 'Compile' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/ss.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/Releases/CompileClock.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.compile"
         },
         {
             "Name": "Stencil Clock Font (iOS 16)",
@@ -829,6 +1560,568 @@
                 }
             ],
             "PackageID": "com.epos.aulacclock"
+        },
+        {
+            "Name": "NothingOS Font",
+            "Description": "Change your font!",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "16.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & CyberNeel",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "cyberneel - Discord (Porting font to iOS)",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ico.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'NothingOS' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/Releases/NothingOSFont.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.nothingosfont"
+        },
+        {
+            "Name": "Minecraft Font",
+            "Description": "Change your font!",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "16.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & dis667",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": ".no4n1k - Discord (Porting font to iOS)",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ico.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Minecraft' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss3.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/Releases/MinecraftFont.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/Releases/MinecraftFont1.1.misaka",
+                    "Description": "Fixed 5GUC and added polish"
+                }
+            ],
+            "PackageID": "com.epos.minecraftfont"
+        },
+        {
+            "Name": "Bronkoh Font",
+            "Description": "Change your font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
+                        "Link": "https://twitter.com/ev_ynw"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/iconew.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Bronkoh' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/Releases/BronkohFont.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.bronkoh"
+        },
+        {
+            "Name": "Quicksand Font 100%",
+            "Description": "Change your font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & Alexman",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Alexman (Porting font to iOS)",
+                        "Link": "https://twitter.com/Alexman1979"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/iconew.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Quicksand 100%' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/Releases/QuicksandFont.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.quicksand"
+        },
+        {
+            "Name": "Quicksand Font 85%",
+            "Description": "Change your font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & Alexman",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Alexman (Porting font to iOS)",
+                        "Link": "https://twitter.com/Alexman1979"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/iconew.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Quicksand 85%' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/Releases/QuicksandFont85.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.quicksand85"
+        },
+        {
+            "Name": "Shoot a Star Font",
+            "Description": "Change your font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
+                        "Link": "https://twitter.com/ev_ynw"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/iconew.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Shoot a Star' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/Releases/ShootaStarFont.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.shootastarfont"
+        },
+        {
+            "Name": "Comic Relief Font",
+            "Description": "Change your font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
+                        "Link": "https://twitter.com/ev_ynw"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/iconew.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Comic Relief' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/Releases/ComicReliefFont.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.comicrelieffont"
+        },
+        {
+            "Name": "Sica Font",
+            "Description": "Change your font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
+                        "Link": "https://twitter.com/ev_ynw"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/iconew.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Sica' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/Releases/SicaFont.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.sicafont"
+        },
+        {
+            "Name": "3D Fluent Emojis",
+            "Description": "3D Fluent Emojis on iOS",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & PS",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "PS (Porting font to iOS)",
+                        "Link": "https://twitter.com/PoomSmart"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/ico.png",
+            "Category": "Emoji",
+            "Caption": "Change your emoji font to the '3D Fluent Emojis' font!\n\nBeware that using this Emoji font on versions higher than 16.4 may result in some Emojis not showing due to them not being included in this font.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/ss.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/Releases/3DFluentEmojis.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.3dfluentemojis"
+        },
+        {
+            "Name": "14 Pro Lock",
+            "Description": "The Lock of a Pro",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/ico.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lock into the 14 Pro series lock glyph\nAlso has a better animation!!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/gif.gif",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/Releases/14ProLock.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/Releases/14ProLock1.1.misaka",
+                    "Description": "Quick fix - wasnt working on iPhone XR"
+                }
+            ],
+            "PackageID": "com.epos.14prolock"
+        },
+        {
+            "Name": "Android Lock",
+            "Description": "A taste of the other side",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AndroidLock/ico_2.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lock into one avaiable only on Android devices!!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AndroidLock/gif.gif"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AndroidLock/Releases/AndroidLock.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.androidlock"
+        },
+        {
+            "Name": "Trollface Lock",
+            "Description": "The Lock of a Troll",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/ico_2.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lock into a Trollface\n\nOriginally released by haxi0 for Cowabunga",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/ss0.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/ss1.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/Releases/TrollfaceLock.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.trollfacelock"
+        },
+        {
+            "Name": "Disintegrating Emoji Lock",
+            "Description": "just got thanos snapped",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DisintegratingEmojiLock/ico_2.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lock into the disintegrating emoji",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DisintegratingEmojiLock/gif.gif"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DisintegratingEmojiLock/Releases/DisintegratingEmojiLock.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.disintegratingemojilock"
+        },
+        {
+            "Name": "Mario Lock",
+            "Description": "Here we go!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MarioLock/ico_2.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lock into Mario ✌️",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MarioLock/gif.gif"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MarioLock/Releases/MarioLock.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.mariolock"
         },
         {
             "Name": "Bomber Lock",
@@ -1589,1299 +2882,6 @@
                 }
             ],
             "PackageID": "com.epos.zombiesatemylock"
-        },
-        {
-            "Name": "3D Fluent Emojis",
-            "Description": "3D Fluent Emojis on iOS",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & PS",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "PS (Porting font to iOS)",
-                        "Link": "https://twitter.com/PoomSmart"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/ico.png",
-            "Category": "Emoji",
-            "Caption": "Change your emoji font to the '3D Fluent Emojis' font!\n\nBeware that using this Emoji font on versions higher than 16.4 may result in some Emojis not showing due to them not being included in this font.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/ss.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/Releases/3DFluentEmojis.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.3dfluentemojis"
-        },
-        {
-            "Name": "Comic Relief Font",
-            "Description": "Change your font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
-                        "Link": "https://twitter.com/ev_ynw"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/iconew.png",
-            "Category": "Font",
-            "Caption": "Change your font to the 'Comic Relief' font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/Releases/ComicReliefFont.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.comicrelieffont"
-        },
-        {
-            "Name": "Shoot a Star Font",
-            "Description": "Change your font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
-                        "Link": "https://twitter.com/ev_ynw"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/iconew.png",
-            "Category": "Font",
-            "Caption": "Change your font to the 'Shoot a Star' font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/Releases/ShootaStarFont.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.shootastarfont"
-        },
-        {
-            "Name": "Sica Font",
-            "Description": "Change your font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
-                        "Link": "https://twitter.com/ev_ynw"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/iconew.png",
-            "Category": "Font",
-            "Caption": "Change your font to the 'Sica' font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/Releases/SicaFont.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.sicafont"
-        },
-        {
-            "Name": "14 Pro Lock",
-            "Description": "The Lock of a Pro",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "tyler1029",
-                "Links": [
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/ico.png",
-            "Category": "Lock Screen",
-            "Caption": "Changes your lock into the 14 Pro series lock glyph\nAlso has a better animation!!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/gif.gif",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/Releases/14ProLock.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/Releases/14ProLock1.1.misaka",
-                    "Description": "Quick fix - wasnt working on iPhone XR"
-                }
-            ],
-            "PackageID": "com.epos.14prolock"
-        },
-        {
-            "Name": "FontManager",
-            "Description": "The easiest font changer available",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/ico_2.png",
-            "Category": "Font",
-            "Caption": "FontManager allows you to change your System, Clock & Emoji font to a custom one straight through misaka!!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/ss_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/ss2_3.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/ss3_2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/Releases/FontManager.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "2.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/Releases/FontManager2.0.misaka",
-                    "Description": "-Emoji support -Reduced tweak size -Font download links -Updated UI"
-                },
-                {
-                    "Version": "V3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/Releases/FontManagerV3.misaka",
-                    "Description": "-Added Keycaps.ttc & PingFang.ttc support -Updated the UI to make it look more like SoundManager"
-                },
-                {
-                    "Version": "V4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/Releases/FontManagerV4.misaka",
-                    "Description": "-Added Arabic fonts support -Minor UI changes"
-                }
-            ],
-            "PackageID": "com.epos.fontmanager"
-        },
-        {
-            "Name": "Wayfinder Clock",
-            "Description": "Wayfinder watch face on iOS",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/ico.png",
-            "Category": "Clock",
-            "Caption": "This tweak changes the appearance of your iOS clock icon to the Wayfinder watch face From WATCH",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/Releases/WayfinderClock.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.wayfinderclock"
-        },
-        {
-            "Name": "Disintegrating Emoji Lock",
-            "Description": "just got thanos snapped",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DisintegratingEmojiLock/ico_2.png",
-            "Category": "Lock Screen",
-            "Caption": "Changes your lock into the disintegrating emoji",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DisintegratingEmojiLock/gif.gif"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DisintegratingEmojiLock/Releases/DisintegratingEmojiLock.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.disintegratingemojilock"
-        },
-        {
-            "Name": "FrostedUI",
-            "Description": "Completely change the way iOS looks",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "tyler1029",
-                "Links": [
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/headerrepo.gif",
-            "Category": "Springboard",
-            "Caption": "FrostedUI - Revolutionise the way you view your notifications, control center, app library, 3D touch menus, folders, widgets and even UI alerts",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss2_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss3_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss4_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss5_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss6_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss7_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss8_4.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/Releases/FrostedUI.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/Releases/FrostedUI1.1.misaka",
-                    "Description": "added option to change notif and notif shadow color trough tweak settings"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/Releases/FrostedUI1.2.misaka",
-                    "Description": "Blur Value stepper style instead of the slider & improved titles"
-                }
-            ],
-            "PackageID": "com.epos.frostedui"
-        },
-        {
-            "Name": "Android Lock",
-            "Description": "A taste of the other side",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AndroidLock/ico_2.png",
-            "Category": "Lock Screen",
-            "Caption": "Changes your lock into one avaiable only on Android devices!!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AndroidLock/gif.gif"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AndroidLock/Releases/AndroidLock.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.androidlock"
-        },
-        {
-            "Name": "Mario Lock",
-            "Description": "Here we go!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MarioLock/ico_2.png",
-            "Category": "Lock Screen",
-            "Caption": "Changes your lock into Mario ✌️",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MarioLock/gif.gif"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MarioLock/Releases/MarioLock.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.mariolock"
-        },
-        {
-            "Name": "NoVulnTools2",
-            "Description": "The best toolbox for your device",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "tyler1029",
-                "Links": [
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/ico_3.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/headerrepo_2.png",
-            "Category": "Settings",
-            "Caption": "NoVulnTools is an all in one toolbox for your devices\nIt has:\n\n• UI Animation Speed\n• Custom side button speed\n• Playing sound upon pasting things\n• Your build version in the CC or status bar\n• Haptic upon wake for iPhone\n• Better battery information\n\nAnd much more.\n\nOnce you have configured your options head to Settings ➜ General.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/ss_3.jpg",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/ss2_3.jpg",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/ss3_3.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/Releases/NoVulnTools2.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.1.misaka",
-                    "Description": "File size fix - removed the home button speed"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.2.misaka",
-                    "Description": "File size fix 2"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.3.misaka",
-                    "Description": "Custom settings icons support & Added toggle to enable or disable animation speed changes"
-                },
-                {
-                    "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.4.misaka",
-                    "Description": "slight re-design, changed default icons to the default ios icons, new low power icon that changes dynamically depending on iOS version, fixed VPN tab not working"
-                },
-                {
-                    "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.5.misaka",
-                    "Description": "Paste sound no longer requires a reboot, re-designed layout, lowers file size to support more iOS versions"
-                }
-            ],
-            "PackageID": "com.epos.novulntools2"
-        },
-        {
-            "Name": "CarPlayWP",
-            "Description": "The ultimate CarPlay tweak",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CarPlayWP/ico.jpg",
-            "Category": "Springboard",
-            "Caption": "CarPlayWP gives you the ability to change your CarPlay Wallpaper to whatever you like.\n\nWith just a few clicks in the tweak settings you can enjoy your very own wallpaper!!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CarPlayWP/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CarPlayWP/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CarPlayWP/ss3.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CarPlayWP/Releases/CarPlayWP.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.carplaywp"
-        },
-        {
-            "Name": "FelicitySettings",
-            "Description": "a more colorful & detailed look for your settings",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "tyler1029 & EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/headerrepo_2.png",
-            "Category": "Theme",
-            "Caption": "FelicitySettings takes everything that is great with the default iOS icon design and pushes it further.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.1.misaka",
-                    "Description": "Adds option that allows users to set a custom image on top off settings"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.2.misaka",
-                    "Description": "Adds option to set a gap between the custom image and icloud"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.3.misaka",
-                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
-                },
-                {
-                    "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.4.misaka",
-                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
-                },
-                {
-                    "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.5.misaka",
-                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
-                }
-            ],
-            "PackageID": "com.epos.felicitysettings"
-        },
-        {
-            "Name": "Vivacity Settings",
-            "Description": "A Vibrant Theme to Light up Your Settings!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "tyler1029 & EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/headerrepo.png",
-            "Category": "Theme",
-            "Caption": "Vivacity Settings takes everything that is great about default iOS design and gives it a modern and vibrant spin.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.1.misaka",
-                    "Description": "Adds option that allows users to set a custom image on top off settings"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.2.misaka",
-                    "Description": "Adds option to set a gap between the custom image and icloud"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.3.misaka",
-                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
-                },
-                {
-                    "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.4.misaka",
-                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
-                },
-                {
-                    "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.5.misaka",
-                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
-                }
-            ],
-            "PackageID": "com.epos.vivacitysettings"
-        },
-        {
-            "Name": "Double Bubble Settings",
-            "Description": "Double Bubble Settings with MDC",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "tyler1029 & EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/headerrepo.png",
-            "Category": "Theme",
-            "Caption": "A modern and fresh rework of bubblegum settings. Features pastel colors that work well with any setup; light or dark!\n\n(currently VPN, FaceID & Wallet icons don't theme properly, if a fix is found we will push out an update.)",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.1.misaka",
-                    "Description": "Adds option that allows users to set a custom image on top off settings"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.2.misaka",
-                    "Description": "Adds option to set a gap between the custom image and icloud"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.3.misaka",
-                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
-                },
-                {
-                    "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.4.misaka",
-                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
-                },
-                {
-                    "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.5.misaka",
-                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
-                }
-            ],
-            "PackageID": "com.epos.doublebubblesettings"
-        },
-        {
-            "Name": "Morandi Settings",
-            "Description": "Morandi Settings with MDC",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "tyler1029 & EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/ico_2.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/headerrepo_2.png",
-            "Category": "Theme",
-            "Caption": "Morandi Settings gives your settings a new color and feel in the style of Morandi's paintings.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.1.misaka",
-                    "Description": "Adds option that allows users to set a custom image on top off settings"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.2.misaka",
-                    "Description": "Adds option to set a gap between the custom image and icloud"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.3.misaka",
-                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
-                },
-                {
-                    "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.4.misaka",
-                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
-                },
-                {
-                    "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.5.misaka",
-                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
-                }
-            ],
-            "PackageID": "com.epos.morandisettings"
-        },
-        {
-            "Name": "Debug Stoofs",
-            "Description": "Enable debug options",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "tyler1029",
-                "Links": [
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/ico.jpg",
-            "Category": "Settings",
-            "Caption": "Debug Stoofs allows you to enable a few debugging options.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/ss_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/Releases/DebugStoofs.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.debugstoofs"
-        },
-        {
-            "Name": "Classic Settings",
-            "Description": "iOS 6 inside your settings",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ico_2.png",
-            "Category": "Theme",
-            "Caption": "Relive the old days with Classic Settings\n\nThis theme changes your settings icons into the iOS 6 icons.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss2_3.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss3_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss4_3.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.1.misaka",
-                    "Description": "-redid shortcuts & measure icons -fixed developer settings icon"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.2.misaka",
-                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.3.misaka",
-                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
-                }
-            ],
-            "PackageID": "com.epos.classicsettings"
-        },
-        {
-            "Name": "AppCC",
-            "Description": "Launching apps from the Control Center with ease",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "tyler1029",
-                "Links": [
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/ico_3.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/headerrepo.png",
-            "Category": "Control Center",
-            "Caption": "AppCC Allows you to launch any application from the Control Center, It includes some preset applications or you can use a custom Bundle ID to an application currently installed on your device.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/ss2_2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/Releases/AppCC.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/Releases/AppCC1.1.misaka",
-                    "Description": "icon option changes"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/Releases/AppCC1.2.misaka",
-                    "Description": "Added better support for other Control Center tweaks"
-                }
-            ],
-            "PackageID": "com.epos.appcc"
-        },
-        {
-            "Name": "LSFootnote",
-            "Description": "a footnote on your lockscreen",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "tyler1029",
-                "Links": [
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ico_3.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/headerrepo.png",
-            "Category": "Lock Screen",
-            "Caption": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ss_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/Releases/LSFootnote.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.lsfootnote"
-        },
-        {
-            "Name": "ColorBoard",
-            "Description": "A slight hint of color",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "tyler1029",
-                "Links": [
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    },
-                    {
-                        "Label": "Discord: @HackZy - Icon & Header Creator",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ico_2.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/headerrepo_2.png",
-            "Category": "Springboard",
-            "Caption": "The all-in-one tweak to bring color to your device, Changing 3D touch/menu colors, Dock colors, Notification colors, Folder colors & Control Center modules, background colors & App Library Colors & so much more.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss1.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss3.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss5.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss6.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss7.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/Releases/ColorBoard.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/Releases/ColorBoard1.1.misaka",
-                    "Description": "Bug Fixes \n • Notification Stacking \n • Notification Shadow \n • Notification Dark Secondary Text Color \n Added Features \n • Switcher Blur \n • Spotlight Color \n • Transparent App Library Pods"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/Releases/ColorBoard1.2.misaka",
-                    "Description": "Added Features \n • Notification Badge Color \n Tweak Improvements \n • Option to disable the effects."
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/Releases/ColorBoard1.3.misaka",
-                    "Description": "Fixed Badge Color, & added support for kfd."
-                },
-                {
-                    "Version": "1.4 Beta",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/Releases/ColorBoard1.4.misaka",
-                    "Description": "Added opacity values to Dock, Control Center & Folder colors & a option to make the control center modules & toggles clear."
-                }
-            ],
-            "PackageID": "com.epos.colorboard"
-        },
-        {
-            "Name": "MuteAnimation",
-            "Description": "Custom mute animations or image",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "tyler1029 & EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/headerrepo.png",
-            "Category": "Springboard",
-            "Caption": "Changes your silent pill to a custom image or animation.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/gif_2.gif",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/Releases/MuteAnimation.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/Releases/MuteAnimation1.1.misaka",
-                    "Description": "Added an option to adjust the position of the animation or custom image."
-                }
-            ],
-            "PackageID": "com.epos.muteanimation"
-        },
-        {
-            "Name": "Pencil Clock Font (iOS 15)",
-            "Description": "Change your clock font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS (Porting font to iOS 15 & Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PencilClock15/ico.png",
-            "Category": "Font",
-            "Caption": "Change your iOS 15 clock font to the 'Pencil' clock font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PencilClock15/ss.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PencilClock15/Releases/PencilClock15.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.pencilclock15"
-        },
-        {
-            "Name": "sushiki Clock Font (iOS 15)",
-            "Description": "Change your clock font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "15.7.1",
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS (Porting font to iOS 15 & Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/sushikiClock15/ico.png",
-            "Category": "Font",
-            "Caption": "Change your iOS 15 clock font to the 'sushiki' clock font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/sushikiClock15/ss.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/sushikiClock15/Releases/sushikiClock15.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.sushikiclock15"
-        },
-        {
-            "Name": "NothingOS Font",
-            "Description": "Change your font!",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & CyberNeel",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "cyberneel - Discord (Porting font to iOS)",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ico.png",
-            "Category": "Font",
-            "Caption": "Change your font to the 'NothingOS' font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/Releases/NothingOSFont.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.nothingosfont"
-        },
-        {
-            "Name": "Minecraft Font",
-            "Description": "Change your font!",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & dis667",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": ".no4n1k - Discord (Porting font to iOS)",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ico.png",
-            "Category": "Font",
-            "Caption": "Change your font to the 'Minecraft' font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss3.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/Releases/MinecraftFont.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/Releases/MinecraftFont1.1.misaka",
-                    "Description": "Fixed 5GUC and added polish"
-                }
-            ],
-            "PackageID": "com.epos.minecraftfont"
-        },
-        {
-            "Name": "QuickActionColor",
-            "Description": "Give your lockscreen a unique look",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "tyler1029",
-                "Links": [
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/headerrepo.png",
-            "Category": "Lock Screen",
-            "Caption": "Changes your lockscreen toggle color.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss3.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss4.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/Releases/QuickActionColor.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.quickactioncolor"
-        },
-        {
-            "Name": "SettingsManager",
-            "Description": "The all in one settings customizer",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/ico.png",
-            "Category": "Theme",
-            "Caption": "SettingsManager allows you to change your settings icons to your own custom icons!!\n\nIt also give you the ability to add a custom image on the top of your settings list!\n\n(More features planned for future releases)",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/ss3.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "V1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/Releases/SettingsManager.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "V1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/Releases/SettingsManagerV1.1.misaka",
-                    "Description": "Fixed mail icon option from not showing"
-                }
-            ],
-            "PackageID": "com.epos.settingsmanager"
         }
     ]
 }
