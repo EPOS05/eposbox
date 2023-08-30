@@ -313,6 +313,46 @@
             "PackageID": "com.epos.colorboard"
         },
         {
+            "Name": "QuickActionColor",
+            "Description": "Give your lockscreen a unique look",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/headerrepo.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lockscreen toggle color.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss3.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss4.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/Releases/QuickActionColor.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.quickactioncolor"
+        },
+        {
             "Name": "AppCC",
             "Description": "Launching apps from the Control Center with ease",
             "MinIOSVersion": "15.0",
@@ -397,46 +437,6 @@
                 }
             ],
             "PackageID": "com.epos.carplaywp"
-        },
-        {
-            "Name": "QuickActionColor",
-            "Description": "Give your lockscreen a unique look",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "tyler1029",
-                "Links": [
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/headerrepo.png",
-            "Category": "Lock Screen",
-            "Caption": "Changes your lockscreen toggle color.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss3.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/ss4.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/Releases/QuickActionColor.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.quickactioncolor"
         },
         {
             "Name": "MuteAnimation",
