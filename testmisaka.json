@@ -1236,291 +1236,6 @@
             "PackageID": "com.epos.meloso15"
         },
         {
-            "Name": "Bronkoh Font",
-            "Description": "Change your font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
-                        "Link": "https://twitter.com/ev_ynw"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/iconew.png",
-            "Category": "Font",
-            "Caption": "Change your font to the 'Bronkoh' font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/Releases/BronkohFont.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.bronkoh"
-        },
-        {
-            "Name": "Exciter Clock Font (iOS 16)",
-            "Description": "Change your clock font!",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & p0s3id0n",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "p0s3id0n (Porting fonts to iOS 16)",
-                        "Link": "https://twitter.com/PHUCNGUYENADS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/ico.png",
-            "Category": "Font",
-            "Caption": "Change your iOS 16 clock font to the 'Exciter' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/ss.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/Releases/ExciterClock.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.exciter"
-        },
-        {
-            "Name": "Meloso Clock Font (iOS 16)",
-            "Description": "Change your clock font!",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & Alexman",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "Alexman (Porting fonts to iOS 16)",
-                        "Link": "https://twitter.com/Alexman1979"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/ico.png",
-            "Category": "Font",
-            "Caption": "Change your iOS 16 clock font to the 'Meloso' clock font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/ss.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/Releases/MelosoClock.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.meloso"
-        },
-        {
-            "Name": "Compile Clock Font (iOS 16)",
-            "Description": "Change your clock font!",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & p0s3id0n",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "p0s3id0n (Porting fonts to iOS 16)",
-                        "Link": "https://twitter.com/PHUCNGUYENADS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/ico.png",
-            "Category": "Font",
-            "Caption": "Change your iOS 16 clock font to the 'Compile' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/ss.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/Releases/CompileClock.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.compile"
-        },
-        {
-            "Name": "Quicksand Font 100%",
-            "Description": "Change your font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & Alexman",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "Alexman (Porting font to iOS)",
-                        "Link": "https://twitter.com/Alexman1979"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/iconew.png",
-            "Category": "Font",
-            "Caption": "Change your font to the 'Quicksand 100%' font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/Releases/QuicksandFont.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.quicksand"
-        },
-        {
-            "Name": "Paint Clock Font (iOS 16)",
-            "Description": "Change your clock font!",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS (Porting fonts to iOS 16 & Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/ico.png",
-            "Category": "Font",
-            "Caption": "Change your iOS 16 clock font to the 'Paint' clock font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/Releases/PaintClock.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/Releases/PaintClock1.1.misaka",
-                    "Description": "Fixed some clock variants showing [?]"
-                }
-            ],
-            "PackageID": "com.epos.paint"
-        },
-        {
-            "Name": "Quicksand Font 85%",
-            "Description": "Change your font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & Alexman",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "Alexman (Porting font to iOS)",
-                        "Link": "https://twitter.com/Alexman1979"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/iconew.png",
-            "Category": "Font",
-            "Caption": "Change your font to the 'Quicksand 85%' font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/Releases/QuicksandFont85.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.quicksand85"
-        },
-        {
             "Name": "Tomorrow Clock Font (iOS 16)",
             "Description": "a breath of fresh air",
             "MinIOSVersion": "16.0",
@@ -1565,12 +1280,12 @@
             "PackageID": "com.epos.tomorrowclock"
         },
         {
-            "Name": "Trollface Lock",
-            "Description": "The Lock of a Troll",
-            "MinIOSVersion": "15.0",
+            "Name": "Paint Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
+                "MinIOSVersion_CustomLabel": "16.0",
                 "MaxIOSVersion_CustomLabel": "16.6b1",
                 "Build": [
                     "20G5026e"
@@ -1580,26 +1295,151 @@
                 "Label": "EPOS",
                 "Links": [
                     {
-                        "Label": "EPOS",
+                        "Label": "EPOS (Porting fonts to iOS 16 & Tweak Dev)",
                         "Link": "https://twitter.com/RealEPOS"
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/ico_2.png",
-            "Category": "Lock Screen",
-            "Caption": "Changes your lock into a Trollface\n\nOriginally released by haxi0 for Cowabunga",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/ico.png",
+            "Category": "Font",
+            "Caption": "Change your iOS 16 clock font to the 'Paint' clock font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/ss0.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/ss1.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/ss2.png"
             ],
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/Releases/TrollfaceLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/Releases/PaintClock.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/Releases/PaintClock1.1.misaka",
+                    "Description": "Fixed some clock variants showing [?]"
+                }
+            ],
+            "PackageID": "com.epos.paint"
+        },
+        {
+            "Name": "Meloso Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "16.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & Alexman",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Alexman (Porting fonts to iOS 16)",
+                        "Link": "https://twitter.com/Alexman1979"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/ico.png",
+            "Category": "Font",
+            "Caption": "Change your iOS 16 clock font to the 'Meloso' clock font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/ss.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/Releases/MelosoClock.misaka",
                     "Description": "initial release"
                 }
             ],
-            "PackageID": "com.epos.trollfacelock"
+            "PackageID": "com.epos.meloso"
+        },
+        {
+            "Name": "Exciter Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "16.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & p0s3id0n",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "p0s3id0n (Porting fonts to iOS 16)",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/ico.png",
+            "Category": "Font",
+            "Caption": "Change your iOS 16 clock font to the 'Exciter' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/ss.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/Releases/ExciterClock.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.exciter"
+        },
+        {
+            "Name": "Compile Clock Font (iOS 16)",
+            "Description": "Change your clock font!",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "16.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & p0s3id0n",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "p0s3id0n (Porting fonts to iOS 16)",
+                        "Link": "https://twitter.com/PHUCNGUYENADS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/ico.png",
+            "Category": "Font",
+            "Caption": "Change your iOS 16 clock font to the 'Compile' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/ss.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/Releases/CompileClock.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.compile"
         },
         {
             "Name": "Stencil Clock Font (iOS 16)",
@@ -1720,6 +1560,417 @@
                 }
             ],
             "PackageID": "com.epos.aulacclock"
+        },
+        {
+            "Name": "NothingOS Font",
+            "Description": "Change your font!",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "16.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & CyberNeel",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "cyberneel - Discord (Porting font to iOS)",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ico.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'NothingOS' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/Releases/NothingOSFont.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.nothingosfont"
+        },
+        {
+            "Name": "Minecraft Font",
+            "Description": "Change your font!",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "16.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & dis667",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": ".no4n1k - Discord (Porting font to iOS)",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ico.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Minecraft' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss3.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/Releases/MinecraftFont.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/Releases/MinecraftFont1.1.misaka",
+                    "Description": "Fixed 5GUC and added polish"
+                }
+            ],
+            "PackageID": "com.epos.minecraftfont"
+        },
+        {
+            "Name": "Bronkoh Font",
+            "Description": "Change your font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
+                        "Link": "https://twitter.com/ev_ynw"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/iconew.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Bronkoh' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/Releases/BronkohFont.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.bronkoh"
+        },
+        {
+            "Name": "Quicksand Font 100%",
+            "Description": "Change your font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & Alexman",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Alexman (Porting font to iOS)",
+                        "Link": "https://twitter.com/Alexman1979"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/iconew.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Quicksand 100%' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/Releases/QuicksandFont.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.quicksand"
+        },
+        {
+            "Name": "Quicksand Font 85%",
+            "Description": "Change your font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & Alexman",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Alexman (Porting font to iOS)",
+                        "Link": "https://twitter.com/Alexman1979"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/iconew.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Quicksand 85%' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/Releases/QuicksandFont85.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.quicksand85"
+        },
+        {
+            "Name": "Shoot a Star Font",
+            "Description": "Change your font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
+                        "Link": "https://twitter.com/ev_ynw"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/iconew.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Shoot a Star' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/Releases/ShootaStarFont.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.shootastarfont"
+        },
+        {
+            "Name": "Comic Relief Font",
+            "Description": "Change your font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
+                        "Link": "https://twitter.com/ev_ynw"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/iconew.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Comic Relief' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/Releases/ComicReliefFont.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.comicrelieffont"
+        },
+        {
+            "Name": "Sica Font",
+            "Description": "Change your font!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
+                        "Link": "https://twitter.com/ev_ynw"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/iconew.png",
+            "Category": "Font",
+            "Caption": "Change your font to the 'Sica' font!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/Releases/SicaFont.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.sicafont"
+        },
+        {
+            "Name": "3D Fluent Emojis",
+            "Description": "3D Fluent Emojis on iOS",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS & PS",
+                "Links": [
+                    {
+                        "Label": "EPOS (Tweak Dev)",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "PS (Porting font to iOS)",
+                        "Link": "https://twitter.com/PoomSmart"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/ico.png",
+            "Category": "Emoji",
+            "Caption": "Change your emoji font to the '3D Fluent Emojis' font!\n\nBeware that using this Emoji font on versions higher than 16.4 may result in some Emojis not showing due to them not being included in this font.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/ss.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/Releases/3DFluentEmojis.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.3dfluentemojis"
+        },
+        {
+            "Name": "Trollface Lock",
+            "Description": "The Lock of a Troll",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/ico_2.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lock into a Trollface\n\nOriginally released by haxi0 for Cowabunga",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/ss0.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/ss1.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/Releases/TrollfaceLock.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.trollfacelock"
         },
         {
             "Name": "Bomber Lock",
@@ -2482,169 +2733,6 @@
             "PackageID": "com.epos.zombiesatemylock"
         },
         {
-            "Name": "3D Fluent Emojis",
-            "Description": "3D Fluent Emojis on iOS",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & PS",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "PS (Porting font to iOS)",
-                        "Link": "https://twitter.com/PoomSmart"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/ico.png",
-            "Category": "Emoji",
-            "Caption": "Change your emoji font to the '3D Fluent Emojis' font!\n\nBeware that using this Emoji font on versions higher than 16.4 may result in some Emojis not showing due to them not being included in this font.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/ss.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/Releases/3DFluentEmojis.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.3dfluentemojis"
-        },
-        {
-            "Name": "Comic Relief Font",
-            "Description": "Change your font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
-                        "Link": "https://twitter.com/ev_ynw"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/iconew.png",
-            "Category": "Font",
-            "Caption": "Change your font to the 'Comic Relief' font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/Releases/ComicReliefFont.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.comicrelieffont"
-        },
-        {
-            "Name": "Shoot a Star Font",
-            "Description": "Change your font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
-                        "Link": "https://twitter.com/ev_ynw"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/iconew.png",
-            "Category": "Font",
-            "Caption": "Change your font to the 'Shoot a Star' font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/Releases/ShootaStarFont.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.shootastarfont"
-        },
-        {
-            "Name": "Sica Font",
-            "Description": "Change your font!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "ᴇνеʟʏɴ‎٭˚ ༘ (Porting font to iOS)",
-                        "Link": "https://twitter.com/ev_ynw"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/iconew.png",
-            "Category": "Font",
-            "Caption": "Change your font to the 'Sica' font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/Releases/SicaFont.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.sicafont"
-        },
-        {
             "Name": "14 Pro Lock",
             "Description": "The Lock of a Pro",
             "MinIOSVersion": "15.0",
@@ -2794,94 +2882,6 @@
                 }
             ],
             "PackageID": "com.epos.mariolock"
-        },
-        {
-            "Name": "NothingOS Font",
-            "Description": "Change your font!",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & CyberNeel",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "cyberneel - Discord (Porting font to iOS)",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ico.png",
-            "Category": "Font",
-            "Caption": "Change your font to the 'NothingOS' font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/Releases/NothingOSFont.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.nothingosfont"
-        },
-        {
-            "Name": "Minecraft Font",
-            "Description": "Change your font!",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS & dis667",
-                "Links": [
-                    {
-                        "Label": "EPOS (Tweak Dev)",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": ".no4n1k - Discord (Porting font to iOS)",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ico.png",
-            "Category": "Font",
-            "Caption": "Change your font to the 'Minecraft' font!",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss3.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/Releases/MinecraftFont.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/Releases/MinecraftFont1.1.misaka",
-                    "Description": "Fixed 5GUC and added polish"
-                }
-            ],
-            "PackageID": "com.epos.minecraftfont"
         }
     ]
 }
