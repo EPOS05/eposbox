@@ -313,103 +313,6 @@
             "PackageID": "com.epos.colorboard"
         },
         {
-            "Name": "FrostedUI",
-            "Description": "Completely change the way iOS looks",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "tyler1029",
-                "Links": [
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/headerrepo.gif",
-            "Category": "Springboard",
-            "Caption": "FrostedUI - Revolutionise the way you view your notifications, control center, app library, 3D touch menus, folders, widgets and even UI alerts",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss2_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss3_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss4_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss5_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss6_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss7_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss8_4.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/Releases/FrostedUI.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/Releases/FrostedUI1.1.misaka",
-                    "Description": "added option to change notif and notif shadow color trough tweak settings"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/Releases/FrostedUI1.2.misaka",
-                    "Description": "Blur Value stepper style instead of the slider & improved titles"
-                }
-            ],
-            "PackageID": "com.epos.frostedui"
-        },
-        {
-            "Name": "ModernCC",
-            "Description": "Give your Control Center a modern look",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ico.png",
-            "Category": "Control Center",
-            "Caption": "This tweak gives your Control Center a more modern look and feel!\n\nMade possible with 14DND by nbxy <3",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ss3.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/Releases/ModernCC.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/Releases/ModernCC1.1.misaka",
-                    "Description": "Adds tweak settings that allow users to dissable the ModernCC background color, Makes ModernCC compatible with other CC or UI tweaks."
-                }
-            ],
-            "PackageID": "com.epos.moderncc"
-        },
-        {
             "Name": "AppCC",
             "Description": "Launching apps from the Control Center with ease",
             "MinIOSVersion": "15.0",
@@ -613,6 +516,103 @@
                 }
             ],
             "PackageID": "com.epos.lsfootnote"
+        },
+        {
+            "Name": "FrostedUI",
+            "Description": "Completely change the way iOS looks",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/headerrepo.gif",
+            "Category": "Springboard",
+            "Caption": "FrostedUI - Revolutionise the way you view your notifications, control center, app library, 3D touch menus, folders, widgets and even UI alerts",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss2_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss3_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss4_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss5_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss6_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss7_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss8_4.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/Releases/FrostedUI.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/Releases/FrostedUI1.1.misaka",
+                    "Description": "added option to change notif and notif shadow color trough tweak settings"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/Releases/FrostedUI1.2.misaka",
+                    "Description": "Blur Value stepper style instead of the slider & improved titles"
+                }
+            ],
+            "PackageID": "com.epos.frostedui"
+        },
+        {
+            "Name": "ModernCC",
+            "Description": "Give your Control Center a modern look",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ico.png",
+            "Category": "Control Center",
+            "Caption": "This tweak gives your Control Center a more modern look and feel!\n\nMade possible with 14DND by nbxy <3",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ss3.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/Releases/ModernCC.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/Releases/ModernCC1.1.misaka",
+                    "Description": "Adds tweak settings that allow users to dissable the ModernCC background color, Makes ModernCC compatible with other CC or UI tweaks."
+                }
+            ],
+            "PackageID": "com.epos.moderncc"
         },
         {
             "Name": "Gradient Passcode & Phone",
