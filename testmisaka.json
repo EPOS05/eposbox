@@ -536,37 +536,6 @@
             "PackageID": "com.epos.quickactioncolor"
         },
         {
-            "Name": "LSFootnote",
-            "Description": "a footnote on your lockscreen",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "tyler1029",
-                "Links": [
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ico_3.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/headerrepo.png",
-            "Category": "Lock Screen",
-            "Caption": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ss_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/Releases/LSFootnote.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.lsfootnote"
-        },
-        {
             "Name": "MuteAnimation",
             "Description": "Custom mute animations or image",
             "MinIOSVersion": "15.0",
@@ -613,6 +582,37 @@
                 }
             ],
             "PackageID": "com.epos.muteanimation"
+        },
+        {
+            "Name": "LSFootnote",
+            "Description": "a footnote on your lockscreen",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ico_3.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/headerrepo.png",
+            "Category": "Lock Screen",
+            "Caption": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/Releases/LSFootnote.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.lsfootnote"
         },
         {
             "Name": "Gradient Passcode & Phone",
@@ -692,6 +692,293 @@
                 }
             ],
             "PackageID": "com.epos.debugstoofs"
+        },
+        {
+            "Name": "Classic Settings",
+            "Description": "iOS 6 inside your settings",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ico_2.png",
+            "Category": "Theme",
+            "Caption": "Relive the old days with Classic Settings\n\nThis theme changes your settings icons into the iOS 6 icons.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss2_3.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss3_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss4_3.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.1.misaka",
+                    "Description": "-redid shortcuts & measure icons -fixed developer settings icon"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.2.misaka",
+                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.3.misaka",
+                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
+                }
+            ],
+            "PackageID": "com.epos.classicsettings"
+        },
+        {
+            "Name": "Vivacity Settings",
+            "Description": "A Vibrant Theme to Light up Your Settings!",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/headerrepo.png",
+            "Category": "Theme",
+            "Caption": "Vivacity Settings takes everything that is great about default iOS design and gives it a modern and vibrant spin.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.1.misaka",
+                    "Description": "Adds option that allows users to set a custom image on top off settings"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.2.misaka",
+                    "Description": "Adds option to set a gap between the custom image and icloud"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.3.misaka",
+                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
+                },
+                {
+                    "Version": "1.4",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.4.misaka",
+                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
+                },
+                {
+                    "Version": "1.5",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.5.misaka",
+                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
+                }
+            ],
+            "PackageID": "com.epos.vivacitysettings"
+        },
+        {
+            "Name": "FelicitySettings",
+            "Description": "a more colorful & detailed look for your settings",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/headerrepo_2.png",
+            "Category": "Theme",
+            "Caption": "FelicitySettings takes everything that is great with the default iOS icon design and pushes it further.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.1.misaka",
+                    "Description": "Adds option that allows users to set a custom image on top off settings"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.2.misaka",
+                    "Description": "Adds option to set a gap between the custom image and icloud"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.3.misaka",
+                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
+                },
+                {
+                    "Version": "1.4",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.4.misaka",
+                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
+                },
+                {
+                    "Version": "1.5",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.5.misaka",
+                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
+                }
+            ],
+            "PackageID": "com.epos.felicitysettings"
+        },
+        {
+            "Name": "Double Bubble Settings",
+            "Description": "Double Bubble Settings with MDC",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/headerrepo.png",
+            "Category": "Theme",
+            "Caption": "A modern and fresh rework of bubblegum settings. Features pastel colors that work well with any setup; light or dark!\n\n(currently VPN, FaceID & Wallet icons don't theme properly, if a fix is found we will push out an update.)",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.1.misaka",
+                    "Description": "Adds option that allows users to set a custom image on top off settings"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.2.misaka",
+                    "Description": "Adds option to set a gap between the custom image and icloud"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.3.misaka",
+                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
+                },
+                {
+                    "Version": "1.4",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.4.misaka",
+                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
+                },
+                {
+                    "Version": "1.5",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.5.misaka",
+                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
+                }
+            ],
+            "PackageID": "com.epos.doublebubblesettings"
+        },
+        {
+            "Name": "Morandi Settings",
+            "Description": "Morandi Settings with MDC",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "tyler1029 - Discord",
+                        "Link": "https://discord.gg/vGByEU7UzX"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/ico_2.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/headerrepo_2.png",
+            "Category": "Theme",
+            "Caption": "Morandi Settings gives your settings a new color and feel in the style of Morandi's paintings.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings.misaka",
+                    "Description": "initial release"
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.1.misaka",
+                    "Description": "Adds option that allows users to set a custom image on top off settings"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.2.misaka",
+                    "Description": "Adds option to set a gap between the custom image and icloud"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.3.misaka",
+                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
+                },
+                {
+                    "Version": "1.4",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.4.misaka",
+                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
+                },
+                {
+                    "Version": "1.5",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.5.misaka",
+                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
+                }
+            ],
+            "PackageID": "com.epos.morandisettings"
         },
         {
             "Name": "Engage Charging Sound",
@@ -2449,293 +2736,6 @@
                 }
             ],
             "PackageID": "com.epos.mariolock"
-        },
-        {
-            "Name": "FelicitySettings",
-            "Description": "a more colorful & detailed look for your settings",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "tyler1029 & EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/headerrepo_2.png",
-            "Category": "Theme",
-            "Caption": "FelicitySettings takes everything that is great with the default iOS icon design and pushes it further.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.1.misaka",
-                    "Description": "Adds option that allows users to set a custom image on top off settings"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.2.misaka",
-                    "Description": "Adds option to set a gap between the custom image and icloud"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.3.misaka",
-                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
-                },
-                {
-                    "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.4.misaka",
-                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
-                },
-                {
-                    "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.5.misaka",
-                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
-                }
-            ],
-            "PackageID": "com.epos.felicitysettings"
-        },
-        {
-            "Name": "Vivacity Settings",
-            "Description": "A Vibrant Theme to Light up Your Settings!",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "tyler1029 & EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/headerrepo.png",
-            "Category": "Theme",
-            "Caption": "Vivacity Settings takes everything that is great about default iOS design and gives it a modern and vibrant spin.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.1.misaka",
-                    "Description": "Adds option that allows users to set a custom image on top off settings"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.2.misaka",
-                    "Description": "Adds option to set a gap between the custom image and icloud"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.3.misaka",
-                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
-                },
-                {
-                    "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.4.misaka",
-                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
-                },
-                {
-                    "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/Releases/VivacitySettings1.5.misaka",
-                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
-                }
-            ],
-            "PackageID": "com.epos.vivacitysettings"
-        },
-        {
-            "Name": "Double Bubble Settings",
-            "Description": "Double Bubble Settings with MDC",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "tyler1029 & EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/headerrepo.png",
-            "Category": "Theme",
-            "Caption": "A modern and fresh rework of bubblegum settings. Features pastel colors that work well with any setup; light or dark!\n\n(currently VPN, FaceID & Wallet icons don't theme properly, if a fix is found we will push out an update.)",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.1.misaka",
-                    "Description": "Adds option that allows users to set a custom image on top off settings"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.2.misaka",
-                    "Description": "Adds option to set a gap between the custom image and icloud"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.3.misaka",
-                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
-                },
-                {
-                    "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.4.misaka",
-                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
-                },
-                {
-                    "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.5.misaka",
-                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
-                }
-            ],
-            "PackageID": "com.epos.doublebubblesettings"
-        },
-        {
-            "Name": "Morandi Settings",
-            "Description": "Morandi Settings with MDC",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "tyler1029 & EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    },
-                    {
-                        "Label": "tyler1029 - Discord",
-                        "Link": "https://discord.gg/vGByEU7UzX"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/ico_2.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/headerrepo_2.png",
-            "Category": "Theme",
-            "Caption": "Morandi Settings gives your settings a new color and feel in the style of Morandi's paintings.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.1.misaka",
-                    "Description": "Adds option that allows users to set a custom image on top off settings"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.2.misaka",
-                    "Description": "Adds option to set a gap between the custom image and icloud"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.3.misaka",
-                    "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
-                },
-                {
-                    "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.4.misaka",
-                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
-                },
-                {
-                    "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/Releases/MorandiSettings1.5.misaka",
-                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
-                }
-            ],
-            "PackageID": "com.epos.morandisettings"
-        },
-        {
-            "Name": "Classic Settings",
-            "Description": "iOS 6 inside your settings",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ico_2.png",
-            "Category": "Theme",
-            "Caption": "Relive the old days with Classic Settings\n\nThis theme changes your settings icons into the iOS 6 icons.",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss2_3.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss3_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss4_3.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings.misaka",
-                    "Description": "initial release"
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.1.misaka",
-                    "Description": "-redid shortcuts & measure icons -fixed developer settings icon"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.2.misaka",
-                    "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/Releases/ClassicSettings1.3.misaka",
-                    "Description": "Decreases file size (fixes iOS 15.1 issues)"
-                }
-            ],
-            "PackageID": "com.epos.classicsettings"
         },
         {
             "Name": "Pencil Clock Font (iOS 15)",
