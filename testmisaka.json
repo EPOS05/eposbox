@@ -58,6 +58,11 @@
                     "Version": "V4",
                     "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/Releases/FontManagerV4.misaka",
                     "Description": "-Added Arabic fonts support -Minor UI changes"
+                },
+                {
+                    "Version": "V5",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/Releases/FontManagerV5.misaka",
+                    "Description": "-Added KeycapPad & PhoneKeyCaps fonts support -Added automatic keyboard cache clearing"
                 }
             ],
             "PackageID": "com.epos.fontmanager"
