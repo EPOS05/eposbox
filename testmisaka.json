@@ -13,19 +13,19 @@
             "name": "SoundManager",
             "bundleid": "com.epos.settingsmanager",
             "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/rec.png",
-            "showname": true
+            "showname": false
         },
         {
             "name": "MuteAnimation",
             "bundleid": "com.epos.muteanimation",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/headerrepo.png",
-            "showname": true
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/rec.png",
+            "showname": false
         },
         {
             "name": "NoVulnTools2",
             "bundleid": "com.epos.novulntools2",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/headerrepo_2.png",
-            "showname": true
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/rec.png",
+            "showname": false
         }
     ],
     "RepositoryContents": [
