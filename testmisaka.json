@@ -625,6 +625,43 @@
             "PackageID": "com.epos.moderncc"
         },
         {
+            "Name": "Pulsar LS UI",
+            "Description": "Pulsar on your lockscreen",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PulsarLSUI/ico_2.png",
+            "Category": "Lock Screen",
+            "Caption": "Change your lockscreen flashlight and camera icons into Pulsar\n\nInspired by Pulsar Control Center UI made by Phuc Do",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PulsarLSUI/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PulsarLSUI/ss2.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PulsarLSUI/Releases/PulsarLSUI.misaka",
+                    "Description": "initial release"
+                }
+            ],
+            "PackageID": "com.epos.pulsarlsui"
+        },
+        {
             "Name": "Gradient Passcode & Phone",
             "Description": "Change your passcode & phone keys!",
             "MinIOSVersion": "15.0",
@@ -672,43 +709,6 @@
                 }
             ],
             "PackageID": "com.epos.gradient"
-        },
-        {
-            "Name": "Pulsar LS UI",
-            "Description": "Pulsar on your lockscreen",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "EPOS",
-                "Links": [
-                    {
-                        "Label": "EPOS",
-                        "Link": "https://twitter.com/RealEPOS"
-                    }
-                ]
-            },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PulsarLSUI/ico_2.png",
-            "Category": "Lock Screen",
-            "Caption": "Change your lockscreen flashlight and camera icons into Pulsar\n\nInspired by Pulsar Control Center UI made by Phuc Do",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PulsarLSUI/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PulsarLSUI/ss2.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PulsarLSUI/Releases/PulsarLSUI.misaka",
-                    "Description": "initial release"
-                }
-            ],
-            "PackageID": "com.epos.pulsarlsui"
         },
         {
             "Name": "Wayfinder Clock",
