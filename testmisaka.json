@@ -694,7 +694,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PulsarLSUI/ico.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PulsarLSUI/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Change your lockscreen flashlight and camera icons into Pulsar\n\nInspired by Pulsar Control Center UI made by Phuc Do",
             "Screenshot": [
