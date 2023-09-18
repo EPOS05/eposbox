@@ -706,6 +706,11 @@
                     "Version": "1.3",
                     "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/Releases/GradientPassPhone1.3.misaka",
                     "Description": "Reduces file size & improves support (Kumiki FIX)"
+                },
+                {
+                    "Version": "1.4",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/Releases/GradientPassPhone1.4.misaka",
+                    "Description": "Added %Misaka_Regex% & Reduces tweak size"
                 }
             ],
             "PackageID": "com.epos.gradient"
