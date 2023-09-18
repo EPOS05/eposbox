@@ -665,7 +665,14 @@
             "Name": "Gradient Passcode & Phone",
             "Description": "Change your passcode & phone keys!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "EPOS & Z3ROS1X",
                 "Links": [
