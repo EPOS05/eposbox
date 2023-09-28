@@ -12,21 +12,21 @@
         {
             "name": "FrostedUI",
             "bundleid": "com.epos.frostedui",
-            "banner": "RepoAssets/Featured/FrostedUI.png",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/FrostedUI.png",
             "showname": false,
             "square": false
         },
         {
             "name": "Tomorrow Clock Font (iOS 16)",
             "bundleid": "com.epos.tomorrowclock",
-            "banner": "RepoAssets/Featured/TomorrowClock_Square.png",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/TomorrowClock_Square.png",
             "showname": false,
             "square": true
         },
         {
             "name": "Pulsar LS UI",
             "bundleid": "com.epos.pulsarlsui",
-            "banner": "RepoAssets/Featured/PulsarLSUI_Square.png",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/PulsarLSUI_Square.png",
             "showname": false,
             "square": true
         }
