@@ -1,8 +1,8 @@
 {
-    "RepositoryName": "EPOSbox (test)",
+    "RepositoryName": "EPOSbox",
     "RepositoryDescription": "The MDC & KFD repo made for you 🍃",
     "RepositoryAuthor": "EPOS",
-    "RepositoryIcon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/whyareyouhere.gif",
+    "RepositoryIcon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/leafEPOSbox_repo.jpg",
     "RepositoryWebsite": "https://github.com/EPOS05/EPOSbox",
     "Default": {
         "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/EPOSbox_header.gif",
