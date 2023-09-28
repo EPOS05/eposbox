@@ -10,20 +10,19 @@
     },
     "featured": [
         {
-            "name": "SoundManager",
-            "bundleid": "com.epos.soundmanager",
-            "banner": "RepoAssets/Featured/SoundManager.png",
-            "showname": false
-        },
-        {
-            "name": "FontManager",
-            "bundleid": "com.epos.fontmanager",
+            "name": "FrostedUI",
+            "bundleid": "com.epos.frostedui",
             "banner": "RepoAssets/Featured/temp.png"
         },
         {
-            "name": "SettingsManager",
-            "bundleid": "com.epos.settingsmanager",
+            "name": "Classic Settings",
+            "bundleid": "com.epos.classicsettings",
             "banner": "RepoAssets/Featured/temp2.png"
+        },
+        {
+            "name": "Pulsar LS UI",
+            "bundleid": "com.epos.pulsarlsui",
+            "banner": "RepoAssets/Featured/temp3.png"
         }
     ],
     "RepositoryContents": [
