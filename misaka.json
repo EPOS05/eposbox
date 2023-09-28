@@ -10,14 +10,14 @@
     },
     "featured": [
         {
-            "name": "FrostedUI",
-            "bundleid": "com.epos.frostedui",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/temp.png",
+            "name": "Tomorrow Clock Font (iOS 16)",
+            "bundleid": "com.epos.tomorrowclock",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/temp2.png",
             "showname": "true"
         },
         {
-            "name": "Tomorrow Clock Font (iOS 16)",
-            "bundleid": "com.epos.tomorrowclock",
+            "name": "Paint Clock Font (iOS 16)",
+            "bundleid": "com.epos.paint",
             "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/temp2.png",
             "showname": "true"
         },
