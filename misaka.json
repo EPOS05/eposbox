@@ -10,22 +10,22 @@
     },
     "featured": [
         {
-          "name": "SoundManager",
-          "bundleid": "com.epos.soundmanager",
-          "banner": "RepoAssets/Featured/SoundManager.png",
-          "showname": false
+            "name": "SoundManager",
+            "bundleid": "com.epos.soundmanager",
+            "banner": "RepoAssets/Featured/SoundManager.png",
+            "showname": false
         },
         {
-          "name": "FontManager",
-          "bundleid": "com.epos.fontmanager",
-          "banner": "RepoAssets/Featured/temp.png"
+            "name": "FontManager",
+            "bundleid": "com.epos.fontmanager",
+            "banner": "RepoAssets/Featured/temp.png"
         },
         {
-          "name": "SettingsManager",
-          "bundleid": "com.epos.settingsmanager",
-          "banner": "RepoAssets/Featured/temp2.png"
+            "name": "SettingsManager",
+            "bundleid": "com.epos.settingsmanager",
+            "banner": "RepoAssets/Featured/temp2.png"
         }
-      ],
+    ],
     "RepositoryContents": [
         {
             "Name": "FontManager",
