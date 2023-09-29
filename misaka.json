@@ -10,9 +10,9 @@
     },
     "featured": [
         {
-            "name": "FrostedUI",
-            "bundleid": "com.epos.frostedui",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/FrostedUI.png",
+            "name": "MuteAnimation",
+            "bundleid": "com.epos.muteanimation",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/headerrepo.png",
             "showname": false,
             "square": false
         },
