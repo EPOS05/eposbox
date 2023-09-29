@@ -19,14 +19,14 @@
         {
             "name": "Tomorrow Clock Font (iOS 16)",
             "bundleid": "com.epos.tomorrowclock",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/TomorrowClock_Square.png",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TomorrowClock/ico.png",
             "showname": false,
             "square": true
         },
         {
             "name": "Pulsar LS UI",
             "bundleid": "com.epos.pulsarlsui",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/PulsarLSUI_Square.png",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PulsarLSUI/ico_2.png",
             "showname": false,
             "square": true
         }
