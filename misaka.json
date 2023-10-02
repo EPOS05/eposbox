@@ -8,7 +8,22 @@
         "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/EPOSbox_header.gif",
         "ViewCount": true
     },
+    "RepositoryAccent": "#6177f6",
     "featured": [
+        {
+            "name": "SoundManager",
+            "bundleid": "com.epos.soundmanager",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/headerrepo_2.png",
+            "showname": false,
+            "square": false
+        },
+        {
+            "name": "QuickActionColor",
+            "bundleid": "com.epos.quickactioncolor",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/headerrepo.png",
+            "showname": false,
+            "square": false
+        },
         {
             "name": "MuteAnimation",
             "bundleid": "com.epos.muteanimation",
@@ -17,9 +32,23 @@
             "square": false
         },
         {
+            "name": "ModernCC",
+            "bundleid": "com.epos.moderncc",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ico.png",
+            "showname": false,
+            "square": true
+        },
+        {
             "name": "Tomorrow Clock Font (iOS 16)",
             "bundleid": "com.epos.tomorrowclock",
             "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TomorrowClock/ico.png",
+            "showname": false,
+            "square": true
+        },
+        {
+            "name": "Wayfinder Clock",
+            "bundleid": "com.epos.wayfinderclock",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/ico.png",
             "showname": false,
             "square": true
         },
