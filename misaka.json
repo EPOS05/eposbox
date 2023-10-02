@@ -39,6 +39,13 @@
             "square": false
         },
         {
+            "name": "FontManager",
+            "bundleid": "com.epos.fontmanager",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/ico_2.png",
+            "showname": false,
+            "square": true
+        },
+        {
             "name": "ModernCC",
             "bundleid": "com.epos.moderncc",
             "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ico.png",
