@@ -117,17 +117,17 @@
                     "Description": "-Emoji support -Reduced tweak size -Font download links -Updated UI"
                 },
                 {
-                    "Version": "V3",
+                    "Version": "3.0",
                     "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/Releases/FontManagerV3.misaka",
                     "Description": "-Added Keycaps.ttc & PingFang.ttc support -Updated the UI to make it look more like SoundManager"
                 },
                 {
-                    "Version": "V4",
+                    "Version": "4.0",
                     "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/Releases/FontManagerV4.misaka",
                     "Description": "-Added Arabic fonts support -Minor UI changes"
                 },
                 {
-                    "Version": "V5",
+                    "Version": "5.0",
                     "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/Releases/FontManagerV5.misaka",
                     "Description": "-Added KeycapPad & PhoneKeyCaps fonts support -Added automatic keyboard cache clearing"
                 }
@@ -211,9 +211,9 @@
                     "Description": "Sound options update, 64 new included sound options, updated UI"
                 },
                 {
-                    "Version": "V9",
+                    "Version": "9.0",
                     "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/Releases/SoundManagerV9.misaka",
-                    "Description": "now plays a preview sound when selecting any audio option & some small UI changes"
+                    "Description": "-Now plays a preview sound when selecting any audio option -Some small UI changes -Changed version naming scheme (no longer beta)"
                 }
             ],
             "PackageID": "com.epos.soundmanager"
@@ -243,12 +243,12 @@
             ],
             "Releases": [
                 {
-                    "Version": "V1",
+                    "Version": "1.0",
                     "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/Releases/SettingsManager.misaka",
                     "Description": "initial release"
                 },
                 {
-                    "Version": "V1.1",
+                    "Version": "1.1",
                     "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/Releases/SettingsManagerV1.1.misaka",
                     "Description": "Fixed mail icon option from not showing"
                 }
