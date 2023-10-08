@@ -11,6 +11,13 @@
     "RepositoryAccent": "#1de4bb",
     "featured": [
         {
+            "name": "FontManager",
+            "bundleid": "com.epos.fontmanager",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/FontManager.png",
+            "showname": false,
+            "square": false
+        },
+        {
             "name": "SoundManager",
             "bundleid": "com.epos.soundmanager",
             "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/SoundManager.png",
@@ -37,13 +44,6 @@
             "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/headerrepo.png",
             "showname": false,
             "square": false
-        },
-        {
-            "name": "FontManager",
-            "bundleid": "com.epos.fontmanager",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/ico_3.png",
-            "showname": false,
-            "square": true
         },
         {
             "name": "ModernCC",
@@ -2204,7 +2204,7 @@
         },
         {
             "Name": "Disintegrating Emoji Lock",
-            "Description": "just got thanos snapped",
+            "Description": "bro just got thanos snapped",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
