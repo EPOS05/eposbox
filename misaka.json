@@ -97,7 +97,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/ico_3.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/ico_2.png",
             "Category": "Font",
             "Caption": "FontManager allows you to change your System, Clock & Emoji font to a custom one straight through misaka!!",
             "Screenshot": [
@@ -156,7 +156,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/ico_3.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/ico_2.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/headerrepo_2.png",
             "Category": "Sound",
             "Caption": "SoundManager allows you to change your system sounds with ease. With over 90 included sound options!!\n\nEven including the option to select your own custom sounds!",
@@ -233,7 +233,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/ico.png",
             "Category": "Theme",
             "Caption": "SettingsManager allows you to change your settings icons to your own custom icons!!\n\nIt also give you the ability to add a custom image on the top of your settings list!\n\n(More features planned for future releases)",
             "Screenshot": [
