@@ -87,7 +87,6 @@
                     "20G5026e"
                 ]
             },
-            "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -146,7 +145,6 @@
                     "20G5026e"
                 ]
             },
-            "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -223,7 +221,6 @@
             "Description": "The all in one settings customizer",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
-            "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
