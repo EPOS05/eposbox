@@ -3,7 +3,7 @@
 The MDC & KFD repo made for you 🍃
 
 ## Repo
-Click [here](https://lrdsnow.github.io/lrdsnow/pkgviewer.html?repourl=https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json) to see what's available on EPOSbox
+Click [here](https://lrdsnow.github.io/lrdsnow/purekfd/pkgviewer.html?repourl=https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json) to see what's available on EPOSbox
 
 You can add EPOSbox to misaka or PureKFD using the following URL: https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json
 
