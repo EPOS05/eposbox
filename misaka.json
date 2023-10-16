@@ -13,14 +13,14 @@
         {
             "name": "FontManager",
             "bundleid": "com.epos.fontmanager",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/FontManager_2.png",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/FontManager_blue.png",
             "showname": false,
             "square": false
         },
         {
             "name": "SoundManager",
             "bundleid": "com.epos.soundmanager",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/SoundManager_3.png",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/SoundManager_blue.png",
             "showname": false,
             "square": false
         },
