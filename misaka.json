@@ -97,7 +97,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "FontManager allows you to change your System, Clock & Emoji font to a custom one straight through misaka!!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/ss_4.png",
@@ -231,7 +231,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/ico.png",
-            "Category": "Theme",
+            "Category": "Themes",
             "Caption": "SettingsManager allows you to change your settings icons to your own custom icons!!\n\nIt also give you the ability to add a custom image on the top of your settings list!\n\n(More features planned for future releases)",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/ss.png",
@@ -343,7 +343,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ico_2.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/headerrepo_2.png",
-            "Category": "Springboard",
+            "Category": "SpringBoard",
             "Caption": "The all-in-one tweak to bring color to your device, Changing 3D touch/menu colors, Dock colors, Notification colors, Folder colors & Control Center modules, background colors & App Library Colors & so much more.",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ss1.png",
@@ -498,7 +498,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CarPlayWP/ico.jpg",
-            "Category": "Springboard",
+            "Category": "SpringBoard",
             "Caption": "CarPlayWP gives you the ability to change your CarPlay Wallpaper to whatever you like.\n\nWith just a few clicks in the tweak settings you can enjoy your very own wallpaper!!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CarPlayWP/ss.png",
@@ -541,7 +541,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/ico.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/headerrepo.png",
-            "Category": "Springboard",
+            "Category": "SpringBoard",
             "Caption": "Changes your silent pill to a custom image or animation.",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/gif_2.gif",
@@ -616,7 +616,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ico.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/headerrepo.gif",
-            "Category": "Springboard",
+            "Category": "SpringBoard",
             "Caption": "FrostedUI - Revolutionise the way you view your notifications, control center, app library, 3D touch menus, folders, widgets and even UI alerts",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/ss_4.png",
@@ -753,7 +753,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/ico.jpg",
-            "Category": "Theme",
+            "Category": "Passcode Theme",
             "Caption": "Change your Passcode & Phone Dialer keys to this beautiful Gradient Theme designed by ⦅ᴢᴇʀɵsɪx⦆",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/ss.jpg",
@@ -907,7 +907,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ico_2.png",
-            "Category": "Theme",
+            "Category": "Themes",
             "Caption": "Relive the old days with Classic Settings\n\nThis theme changes your settings icons into the iOS 6 icons.",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ss_2.png",
@@ -959,7 +959,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/ico.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/headerrepo_2.png",
-            "Category": "Theme",
+            "Category": "Themes",
             "Caption": "FelicitySettings takes everything that is great with the default iOS icon design and pushes it further.",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/ss.png",
@@ -1019,7 +1019,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/ico.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/headerrepo.png",
-            "Category": "Theme",
+            "Category": "Themes",
             "Caption": "Vivacity Settings takes everything that is great about default iOS design and gives it a modern and vibrant spin.",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/ss.png",
@@ -1079,7 +1079,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/ico.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/headerrepo.png",
-            "Category": "Theme",
+            "Category": "Themes",
             "Caption": "A modern and fresh rework of bubblegum settings. Features pastel colors that work well with any setup; light or dark!\n\n(currently VPN, FaceID & Wallet icons don't theme properly, if a fix is found we will push out an update.)",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/ss.png",
@@ -1139,7 +1139,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/ico_2.png",
             "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/headerrepo_2.png",
-            "Category": "Theme",
+            "Category": "Themes",
             "Caption": "Morandi Settings gives your settings a new color and feel in the style of Morandi's paintings.",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/ss.png",
@@ -1199,7 +1199,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingClock15/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your iOS 15 clock font to the Nothing clock font!\n\nPorted to iOS 15 by me and extracted from Nothing OS by HackZy",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingClock15/ss.png"
@@ -1229,7 +1229,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PencilClock15/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your iOS 15 clock font to the 'Pencil' clock font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PencilClock15/ss.png"
@@ -1259,7 +1259,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/sushikiClock15/ico_3.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your iOS 15 clock font to the 'sushiki' clock font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/sushikiClock15/ss.png"
@@ -1289,7 +1289,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SpaceshipClock15/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your iOS 15 clock font to the 'Spaceship' clock font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SpaceshipClock15/ss.png"
@@ -1319,7 +1319,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/RetakeClock15/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your iOS 15 clock font to the 'Retake' clock font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/RetakeClock15/ss.png"
@@ -1353,7 +1353,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock15/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your iOS 15 clock font to the 'Meloso / Kroppen FwO' clock font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock15/ss.png"
@@ -1394,7 +1394,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TomorrowClock/ico.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "A unique clock font that gives your device a fresh and modern look\n\nBorn from a collab between me and HackZy\nGoes really well with OneCC",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TomorrowClock/ss.png",
@@ -1435,7 +1435,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your iOS 16 clock font to the 'Paint' clock font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/ss.png",
@@ -1482,7 +1482,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your iOS 16 clock font to the 'Meloso' clock font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/ss.png"
@@ -1523,7 +1523,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your iOS 16 clock font to the 'Exciter' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/ss.png"
@@ -1564,7 +1564,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your iOS 16 clock font to the 'Compile' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/ss.png"
@@ -1605,7 +1605,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/StencilClock/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your iOS 16 clock font to the 'Stencil' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/StencilClock/ss.png"
@@ -1646,7 +1646,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EULAClock/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your iOS 16 clock font to the 'EULA' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EULAClock/ss.png"
@@ -1687,7 +1687,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AuLacClock/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your iOS 16 clock font to the 'AuLac' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AuLacClock/ss.png"
@@ -1728,7 +1728,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your font to the 'NothingOS' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/ss.png",
@@ -1770,7 +1770,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your font to the 'Minecraft' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/ss_2.png",
@@ -1818,7 +1818,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your font to the 'Bronkoh' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/ss.png",
@@ -1860,7 +1860,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your font to the 'Quicksand 100%' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/ss.png",
@@ -1902,7 +1902,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your font to the 'Quicksand 85%' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/ss.png",
@@ -1944,7 +1944,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your font to the 'Shoot a Star' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/ss.png",
@@ -1986,7 +1986,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your font to the 'Comic Relief' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/ss.png",
@@ -2028,7 +2028,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/ico_2.png",
-            "Category": "Font",
+            "Category": "Fonts",
             "Caption": "Change your font to the 'Sica' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/ss.png",
