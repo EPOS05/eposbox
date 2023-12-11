@@ -17,4 +17,4 @@ https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json
 ## PureKFD
 [Download the latest PureKFD IPA here](https://github.com/Lrdsnow/PureKFD/releases/latest)
 
-<a href='https://discord.gg/hEua3xmgCp'><img align='center' alt='Discord' src='https://img.shields.io/discord/1156843198799421490?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
+<a href='https://discord.gg/hEua3xmgCp'><img align='center' alt='Discord' src='https://img.shields.io/discord/1140456506119176224?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
