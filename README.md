@@ -5,8 +5,10 @@ The MDC & KFD repo made for you 🍃
 ## Repo
 Click [here](https://lrdsnow.github.io/lrdsnow/purekfd/pkgviewer.html?repourl=https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json) to see what's available on EPOSbox
 
-You can add EPOSbox to misaka or PureKFD using the following URL: https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json
-
+Add the following URL to misaka or PureKFD to start using EPOSbox:
+```
+https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json
+```
 ## misaka
 - Download the misaka public beta now on the misakaProject⭐ [Discord server](https://discord.gg/KSExeZVAGX)
 
