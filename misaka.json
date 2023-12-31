@@ -2119,15 +2119,20 @@
             },
             "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/ico.png",
             "Category": "Emoji",
-            "Caption": "Change your emoji font to the '3D Fluent Emojis' font!\n\nBeware that using this Emoji font on versions higher than 16.4 may result in some Emojis not showing due to them not being included in this font.",
+            "Caption": "Change your emoji font to the '3D Fluent Emojis' font!",
             "Screenshot": [
                 "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/ss.png"
             ],
             "Releases": [
                 {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/Releases/3DFluentEmojis.misaka",
-                    "Description": "initial release"
+                    "Version": "14.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/Releases/3DFluentEmojis14.misaka",
+                    "Description": "Unicode 14.0"
+                },
+                {
+                    "Version": "15.0",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/Releases/3DFluentEmojis15.misaka",
+                    "Description": "Unicode 15.0"
                 }
             ],
             "PackageID": "com.epos.3dfluentemojis"
