@@ -79,14 +79,7 @@
             "Name": "FontManager",
             "Description": "The easiest font changer available",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -137,14 +130,7 @@
             "Name": "SoundManager",
             "Description": "The only sound changer you'll ever need!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -220,14 +206,7 @@
             "Name": "SettingsManager",
             "Description": "The all in one settings customizer",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -263,14 +242,7 @@
             "Name": "NoVulnTools2",
             "Description": "The best toolbox for your device",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -327,14 +299,7 @@
             "Name": "ColorBoard",
             "Description": "A slight hint of color",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -399,14 +364,7 @@
             "Name": "QuickActionColor",
             "Description": "Give your lockscreen a unique look",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -439,14 +397,7 @@
             "Name": "AppCC",
             "Description": "Launching apps from the Control Center with ease",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -487,14 +438,7 @@
             "Name": "CarPlayWP",
             "Description": "The ultimate CarPlay tweak",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -525,14 +469,7 @@
             "Name": "MuteAnimation",
             "Description": "Custom mute animations or image",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "tyler1029 & EPOS",
                 "Links": [
@@ -573,14 +510,7 @@
             "Name": "LSFootnote",
             "Description": "a footnote on your lockscreen",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -611,14 +541,7 @@
             "Name": "FrostedUI",
             "Description": "Completely change the way iOS looks",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -665,14 +588,7 @@
             "Name": "ModernCC",
             "Description": "Give your Control Center a modern look",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -708,14 +624,7 @@
             "Name": "Pulsar LS UI",
             "Description": "Pulsar on your lockscreen",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -745,14 +654,7 @@
             "Name": "Gradient Passcode & Phone",
             "Description": "Change your passcode & phone keys!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & Z3ROS1X",
                 "Links": [
@@ -806,14 +708,7 @@
             "Name": "Wayfinder Clock",
             "Description": "Wayfinder watch face on iOS",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -843,14 +738,7 @@
             "Name": "Engage Charging Sound",
             "Description": "Change your charging sound!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS",
@@ -910,14 +798,7 @@
             "Name": "Classic Settings",
             "Description": "iOS 6 inside your settings",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -964,14 +845,7 @@
             "Name": "FelicitySettings",
             "Description": "a more colorful & detailed look for your settings",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "tyler1029 & EPOS",
                 "Links": [
@@ -1031,14 +905,7 @@
             "Name": "Vivacity Settings",
             "Description": "A Vibrant Theme to Light up Your Settings!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "tyler1029 & EPOS",
                 "Links": [
@@ -1098,14 +965,7 @@
             "Name": "Double Bubble Settings",
             "Description": "Double Bubble Settings with MDC",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "tyler1029 & EPOS",
                 "Links": [
@@ -1165,14 +1025,7 @@
             "Name": "Morandi Settings",
             "Description": "Morandi Settings with MDC",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "tyler1029 & EPOS",
                 "Links": [
@@ -1420,14 +1273,7 @@
             "Name": "Tomorrow Clock Font (iOS 16)",
             "Description": "a breath of fresh air",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & HackZy",
@@ -1465,14 +1311,7 @@
             "Name": "Paint Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS",
@@ -1508,14 +1347,7 @@
             "Name": "Meloso Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & Alexman",
@@ -1549,14 +1381,7 @@
             "Name": "Exciter Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
@@ -1590,14 +1415,7 @@
             "Name": "Compile Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
@@ -1631,14 +1449,7 @@
             "Name": "Stencil Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
@@ -1672,14 +1483,7 @@
             "Name": "EULA Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
@@ -1713,14 +1517,7 @@
             "Name": "AuLac Clock Font (iOS 16)",
             "Description": "Change your clock font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & p0s3id0n",
@@ -1754,14 +1551,7 @@
             "Name": "NothingOS Font",
             "Description": "Change your font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & CyberNeel",
@@ -1796,14 +1586,7 @@
             "Name": "Minecraft Font",
             "Description": "Change your font!",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & dis667",
@@ -1844,14 +1627,7 @@
             "Name": "Bronkoh Font",
             "Description": "Change your font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
@@ -1886,14 +1662,7 @@
             "Name": "Quicksand Font 100%",
             "Description": "Change your font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & Alexman",
@@ -1928,14 +1697,7 @@
             "Name": "Quicksand Font 85%",
             "Description": "Change your font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & Alexman",
@@ -1970,14 +1732,7 @@
             "Name": "Shoot a Star Font",
             "Description": "Change your font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
@@ -2012,14 +1767,7 @@
             "Name": "Comic Relief Font",
             "Description": "Change your font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
@@ -2054,14 +1802,7 @@
             "Name": "Sica Font",
             "Description": "Change your font!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "accent":"#1de4bb",
             "Author": {
                 "Label": "EPOS & ᴇνеʟʏɴ‎٭˚ ༘",
@@ -2096,14 +1837,7 @@
             "Name": "3D Fluent Emojis",
             "Description": "3D Fluent Emojis on iOS",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & PS",
                 "Links": [
@@ -2141,14 +1875,7 @@
             "Name": "14 Pro Lock",
             "Description": "The Lock of a Pro",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -2184,14 +1911,7 @@
             "Name": "Android Lock",
             "Description": "A taste of the other side",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -2220,14 +1940,7 @@
             "Name": "Trollface Lock",
             "Description": "The Lock of a Troll",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -2257,14 +1970,7 @@
             "Name": "Disintegrating Emoji Lock",
             "Description": "bro just got thanos snapped",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -2293,14 +1999,7 @@
             "Name": "Mario Lock",
             "Description": "Here we go!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS",
                 "Links": [
@@ -2329,14 +2028,7 @@
             "Name": "Bomber Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2369,14 +2061,7 @@
             "Name": "Boom Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2409,14 +2094,7 @@
             "Name": "Gastly Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2449,14 +2127,7 @@
             "Name": "Glitched Skull Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2489,14 +2160,7 @@
             "Name": "Greenpois0n Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2529,14 +2193,7 @@
             "Name": "Hello Kitty Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2569,14 +2226,7 @@
             "Name": "Majora's Mask Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2609,14 +2259,7 @@
             "Name": "Nasa Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2649,14 +2292,7 @@
             "Name": "Pink Circle Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2689,14 +2325,7 @@
             "Name": "Rainbow Star Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2729,14 +2358,7 @@
             "Name": "Street Fighter Lock - Blanca",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2769,14 +2391,7 @@
             "Name": "Street Fighter Lock - Dhalsim",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2809,14 +2424,7 @@
             "Name": "Street Fighter Lock - Ken",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2849,14 +2457,7 @@
             "Name": "Street Fighter Lock - Ryu",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2889,14 +2490,7 @@
             "Name": "Tails Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2929,14 +2523,7 @@
             "Name": "Toad Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -2969,14 +2556,7 @@
             "Name": "Togepi Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -3009,14 +2589,7 @@
             "Name": "UFO Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
@@ -3049,14 +2622,7 @@
             "Name": "Zombies Ate My Lock",
             "Description": "Change your lock icon!",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
+            "MaxIOSVersion": "16.7.4",
             "Author": {
                 "Label": "EPOS & The_Nobl3_Guy",
                 "Links": [
