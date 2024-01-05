@@ -34,42 +34,42 @@
         {
             "name": "QuickActionColor",
             "bundleid": "com.epos.quickactioncolor",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/headerrepo.png",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/QuickActionColor.png",
             "showname": false,
             "square": false
         },
         {
             "name": "MuteAnimation",
             "bundleid": "com.epos.muteanimation",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/headerrepo.png",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/MuteAnimation.png",
             "showname": false,
             "square": false
         },
         {
             "name": "ModernCC",
             "bundleid": "com.epos.moderncc",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ico.png",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/ModernCC.png",
             "showname": false,
             "square": true
         },
         {
             "name": "Tomorrow Clock Font (iOS 16)",
             "bundleid": "com.epos.tomorrowclock",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TomorrowClock/ico.png",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/TomorrowClock.png",
             "showname": false,
             "square": true
         },
         {
             "name": "Wayfinder Clock",
             "bundleid": "com.epos.wayfinderclock",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/ico.png",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/WayfinderClock.png",
             "showname": false,
             "square": true
         },
         {
             "name": "Pulsar LS UI",
             "bundleid": "com.epos.pulsarlsui",
-            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PulsarLSUI/ico_2.png",
+            "banner": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/RepoAssets/Featured/PulsarLSUI.png",
             "showname": false,
             "square": true
         }
