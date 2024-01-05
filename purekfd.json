@@ -81,7 +81,7 @@
             "category": "Fonts",
             "icon": "Assets/Tweaks/FontManager/ico_2.png",
             "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/FontManager/FontManagerV5.purekfd",
+            "path": "Tweaks_PureKFD/FontManager/FontManager5.0.purekfd",
             "screenshots": [
                 "Assets/Tweaks/FontManager/ss_4.png",
                 "Assets/Tweaks/FontManager/ss2_3.png",
@@ -98,7 +98,7 @@
             "category": "Sound",
             "icon": "Assets/Tweaks/SoundManager/ico_2.png",
             "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/SoundManager/SoundManagerV9.purekfd",
+            "path": "Tweaks_PureKFD/SoundManager/SoundManager9.0.purekfd",
             "screenshots": [
                 "Assets/Tweaks/SoundManager/ss1_3.png",
                 "Assets/Tweaks/SoundManager/ss2_3.png"
@@ -114,7 +114,7 @@
             "category": "Themes",
             "icon": "Assets/Tweaks/SettingsManager/ico.png",
             "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/SettingsManager/SettingsManagerV1.1.purekfd",
+            "path": "Tweaks_PureKFD/SettingsManager/SettingsManager1.1.purekfd",
             "screenshots": [
                 "Assets/Tweaks/SettingsManager/ss.png",
                 "Assets/Tweaks/SettingsManager/ss2.png",
