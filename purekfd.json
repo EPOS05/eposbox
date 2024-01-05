@@ -74,9 +74,11 @@
             "bundleid": "com.epos.fontmanager",
             "author": "EPOS",
             "description": "The easiest font changer available",
+            "version": "5.0",
             "long_description": "FontManager allows you to change your System, Clock & Emoji font to a custom one straight through purekfd!!",
             "category": "Fonts",
             "icon": "Tweaks/FontManager/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/FontManager/Releases/FontManagerV5.purekfd",
             "screenshots": [
                 "Tweaks/FontManager/ss_4.png",
@@ -89,9 +91,11 @@
             "bundleid": "com.epos.soundmanager",
             "author": "EPOS",
             "description": "The only sound changer you'll ever need!",
+            "version": "9.0",
             "long_description": "SoundManager allows you to change your system sounds with ease. With over 90 included sound options!!\n\nEven including the option to select your own custom sounds!",
             "category": "Sound",
             "icon": "Tweaks/SoundManager/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/SoundManager/Releases/SoundManagerV9.purekfd",
             "screenshots": [
                 "Tweaks/SoundManager/ss1_3.png",
@@ -103,9 +107,11 @@
             "bundleid": "com.epos.settingsmanager",
             "author": "EPOS",
             "description": "The all in one settings customizer",
+            "version": "1.1",
             "long_description": "SettingsManager allows you to change your settings icons to your own custom icons!!\n\nIt also give you the ability to add a custom image on the top of your settings list!\n\n(More features planned for future releases)",
             "category": "Themes",
             "icon": "Tweaks/SettingsManager/ico.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/SettingsManager/Releases/SettingsManagerV1.1.purekfd",
             "screenshots": [
                 "Tweaks/SettingsManager/ss.png",
@@ -118,9 +124,11 @@
             "bundleid": "com.epos.novulntools2",
             "author": "tyler1029",
             "description": "The best toolbox for your device",
+            "version": "1.5",
             "long_description": "NoVulnTools is an all in one toolbox for your devices\nIt has:\n\n\u2022 UI Animation Speed\n\u2022 Custom side button speed\n\u2022 Playing sound upon pasting things\n\u2022 Your build version in the CC or status bar\n\u2022 Haptic upon wake for iPhone\n\u2022 Better battery information\n\nAnd much more.\n\nOnce you have configured your options head to Settings \u279c General.",
             "category": "Settings",
             "icon": "Tweaks/NoVulnTools2/ico_3.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/NoVulnTools2/Releases/NoVulnTools21.5.purekfd",
             "screenshots": [
                 "Tweaks/NoVulnTools2/ss_3.jpg",
@@ -133,9 +141,11 @@
             "bundleid": "com.epos.colorboard",
             "author": "tyler1029",
             "description": "A slight hint of color",
+            "version": "1.5",
             "long_description": "The all-in-one tweak to bring color to your device, Changing 3D touch/menu colors, Dock colors, Notification colors, Folder colors & Control Center modules, background colors & App Library Colors & so much more.",
             "category": "SpringBoard",
             "icon": "Tweaks/ColorBoard/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/ColorBoard/Releases/ColorBoard1.5.purekfd",
             "screenshots": [
                 "Tweaks/ColorBoard/ss1.png",
@@ -152,9 +162,11 @@
             "bundleid": "com.epos.quickactioncolor",
             "author": "tyler1029",
             "description": "Give your lockscreen a unique look",
+            "version": "1.0",
             "long_description": "Changes your lockscreen toggle color.",
             "category": "Lock Screen",
             "icon": "Tweaks/QuickActionColor/ico.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/QuickActionColor/Releases/QuickActionColor.purekfd",
             "screenshots": [
                 "Tweaks/QuickActionColor/ss.png",
@@ -168,9 +180,11 @@
             "bundleid": "com.epos.appcc",
             "author": "tyler1029",
             "description": "Launching apps from the Control Center with ease",
+            "version": "1.2",
             "long_description": "AppCC Allows you to launch any application from the Control Center, It includes some preset applications or you can use a custom Bundle ID to an application currently installed on your device.",
             "category": "Control Center",
             "icon": "Tweaks/AppCC/ico_3.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/AppCC/Releases/AppCC1.2.purekfd",
             "screenshots": [
                 "Tweaks/AppCC/ss.png",
@@ -182,9 +196,11 @@
             "bundleid": "com.epos.carplaywp",
             "author": "EPOS",
             "description": "The ultimate CarPlay tweak",
+            "version": "1.0",
             "long_description": "CarPlayWP gives you the ability to change your CarPlay Wallpaper to whatever you like.\n\nWith just a few clicks in the tweak settings you can enjoy your very own wallpaper!!",
             "category": "SpringBoard",
             "icon": "Tweaks/CarPlayWP/ico.jpg",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/CarPlayWP/Releases/CarPlayWP.purekfd",
             "screenshots": [
                 "Tweaks/CarPlayWP/ss.png",
@@ -197,9 +213,11 @@
             "bundleid": "com.epos.muteanimation",
             "author": "tyler1029 & EPOS",
             "description": "Custom mute animations or image",
+            "version": "1.1",
             "long_description": "Changes your silent pill to a custom image or animation.",
             "category": "SpringBoard",
             "icon": "Tweaks/MuteAnimation/ico.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/MuteAnimation/Releases/MuteAnimation1.1.purekfd",
             "screenshots": [
                 "Tweaks/MuteAnimation/gif_2.gif",
@@ -212,9 +230,11 @@
             "bundleid": "com.epos.lsfootnote",
             "author": "tyler1029",
             "description": "a footnote on your lockscreen",
+            "version": "1.0",
             "long_description": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
             "category": "Lock Screen",
             "icon": "Tweaks/LSFootnote/ico_3.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/LSFootnote/Releases/LSFootnote.purekfd",
             "screenshots": [
                 "Tweaks/LSFootnote/ss_2.png",
@@ -226,9 +246,11 @@
             "bundleid": "com.epos.frostedui",
             "author": "tyler1029",
             "description": "Completely change the way iOS looks",
+            "version": "1.2",
             "long_description": "FrostedUI - Revolutionise the way you view your notifications, control center, app library, 3D touch menus, folders, widgets and even UI alerts",
             "category": "SpringBoard",
             "icon": "Tweaks/FrostedUI/ico.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/FrostedUI/Releases/FrostedUI1.2.purekfd",
             "screenshots": [
                 "Tweaks/FrostedUI/ss_4.png",
@@ -246,9 +268,11 @@
             "bundleid": "com.epos.moderncc",
             "author": "EPOS",
             "description": "Give your Control Center a modern look",
+            "version": "1.1",
             "long_description": "This tweak gives your Control Center a more modern look and feel!\n\nMade possible with 14DND by nbxy <3",
             "category": "Control Center",
             "icon": "Tweaks/ModernCC/ico.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/ModernCC/Releases/ModernCC1.1.purekfd",
             "screenshots": [
                 "Tweaks/ModernCC/ss.png",
@@ -261,9 +285,11 @@
             "bundleid": "com.epos.pulsarlsui",
             "author": "EPOS",
             "description": "Pulsar on your lockscreen",
+            "version": "1.0",
             "long_description": "Change your lockscreen flashlight and camera icons into Pulsar\n\nInspired by Pulsar Control Center UI made by Phuc Do",
             "category": "Lock Screen",
             "icon": "Tweaks/PulsarLSUI/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/PulsarLSUI/Releases/PulsarLSUI.purekfd",
             "screenshots": [
                 "Tweaks/PulsarLSUI/ss.png",
@@ -275,9 +301,11 @@
             "bundleid": "com.epos.gradient",
             "author": "EPOS & Z3ROS1X",
             "description": "Change your passcode & phone keys!",
+            "version": "1.4",
             "long_description": "Change your Passcode & Phone Dialer keys to this beautiful Gradient Theme designed by \u2985\u1d22\u1d07\u0280\u0275s\u026ax\u2986",
             "category": "Passcode Theme",
             "icon": "Tweaks/GradientPassPhone/ico.jpg",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/GradientPassPhone/Releases/GradientPassPhone1.4.purekfd",
             "screenshots": [
                 "Tweaks/GradientPassPhone/ss.jpg",
@@ -289,9 +317,11 @@
             "bundleid": "com.epos.wayfinderclock",
             "author": "EPOS",
             "description": "Wayfinder watch face on iOS",
+            "version": "1.0",
             "long_description": "This tweak changes the appearance of your iOS clock icon to the Wayfinder watch face From \uf8ffWATCH",
             "category": "Clock",
             "icon": "Tweaks/WayfinderClock/ico.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/WayfinderClock/Releases/WayfinderClock.purekfd",
             "screenshots": [
                 "Tweaks/WayfinderClock/ss.png",
@@ -303,9 +333,11 @@
             "bundleid": "com.epos.engage",
             "author": "EPOS",
             "description": "Change your charging sound!",
+            "version": "1.0",
             "long_description": "Change your default charging sound to the Apple AirPower wireless charging sound",
             "category": "Sound",
             "icon": "Tweaks/EngageSound/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/EngageSound/Releases/EngageSound.purekfd",
             "screenshots": [
                 "Tweaks/EngageSound/vid.mov"
@@ -316,9 +348,11 @@
             "bundleid": "com.epos.debugstoofs",
             "author": "tyler1029",
             "description": "Enable debug options",
+            "version": "1.0",
             "long_description": "Debug Stoofs allows you to enable a few debugging options.",
             "category": "Settings",
             "icon": "Tweaks/DebugStoofs/ico.jpg",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/DebugStoofs/Releases/DebugStoofs.purekfd",
             "screenshots": [
                 "Tweaks/DebugStoofs/ss_2.png",
@@ -330,9 +364,11 @@
             "bundleid": "com.epos.classicsettings",
             "author": "EPOS",
             "description": "iOS 6 inside your settings",
+            "version": "1.3",
             "long_description": "Relive the old days with Classic Settings\n\nThis theme changes your settings icons into the iOS 6 icons.",
             "category": "Themes",
             "icon": "Tweaks/ClassicSettings/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/ClassicSettings/Releases/ClassicSettings1.3.purekfd",
             "screenshots": [
                 "Tweaks/ClassicSettings/ss_2.png",
@@ -346,9 +382,11 @@
             "bundleid": "com.epos.felicitysettings",
             "author": "tyler1029 & EPOS",
             "description": "a more colorful & detailed look for your settings",
+            "version": "1.5",
             "long_description": "FelicitySettings takes everything that is great with the default iOS icon design and pushes it further.",
             "category": "Themes",
             "icon": "Tweaks/FelicitySettings/ico.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/FelicitySettings/Releases/FelicitySettings1.5.purekfd",
             "screenshots": [
                 "Tweaks/FelicitySettings/ss.png",
@@ -360,9 +398,11 @@
             "bundleid": "com.epos.vivacitysettings",
             "author": "tyler1029 & EPOS",
             "description": "A Vibrant Theme to Light up Your Settings!",
+            "version": "1.5",
             "long_description": "Vivacity Settings takes everything that is great about default iOS design and gives it a modern and vibrant spin.",
             "category": "Themes",
             "icon": "Tweaks/VivacitySettings/ico.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/VivacitySettings/Releases/VivacitySettings1.5.purekfd",
             "screenshots": [
                 "Tweaks/VivacitySettings/ss.png",
@@ -374,9 +414,11 @@
             "bundleid": "com.epos.doublebubblesettings",
             "author": "tyler1029 & EPOS",
             "description": "Double Bubble Settings with MDC",
+            "version": "1.5",
             "long_description": "A modern and fresh rework of bubblegum settings. Features pastel colors that work well with any setup; light or dark!\n\n(currently VPN, FaceID & Wallet icons don't theme properly, if a fix is found we will push out an update.)",
             "category": "Themes",
             "icon": "Tweaks/DoubleBubbleSettings/ico.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/DoubleBubbleSettings/Releases/DoubleBubbleSettings1.5.purekfd",
             "screenshots": [
                 "Tweaks/DoubleBubbleSettings/ss.png",
@@ -388,9 +430,11 @@
             "bundleid": "com.epos.morandisettings",
             "author": "tyler1029 & EPOS",
             "description": "Morandi Settings with MDC",
+            "version": "1.5",
             "long_description": "Morandi Settings gives your settings a new color and feel in the style of Morandi's paintings.",
             "category": "Themes",
             "icon": "Tweaks/MorandiSettings/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/MorandiSettings/Releases/MorandiSettings1.5.purekfd",
             "screenshots": [
                 "Tweaks/MorandiSettings/ss.png",
@@ -402,9 +446,11 @@
             "bundleid": "com.epos.nothingclock15",
             "author": "EPOS",
             "description": "a breath of fresh air",
+            "version": "1.0",
             "long_description": "Change your iOS 15 clock font to the Nothing clock font!\n\nPorted to iOS 15 by me and extracted from Nothing OS by HackZy",
             "category": "Fonts",
             "icon": "Tweaks/NothingClock15/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/NothingClock15/Releases/NothingClock15.purekfd",
             "screenshots": [
                 "Tweaks/NothingClock15/ss.png"
@@ -415,9 +461,11 @@
             "bundleid": "com.epos.pencilclock15",
             "author": "EPOS",
             "description": "Change your clock font!",
+            "version": "1.0",
             "long_description": "Change your iOS 15 clock font to the 'Pencil' clock font!",
             "category": "Fonts",
             "icon": "Tweaks/PencilClock15/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/PencilClock15/Releases/PencilClock15.purekfd",
             "screenshots": [
                 "Tweaks/PencilClock15/ss.png"
@@ -428,9 +476,11 @@
             "bundleid": "com.epos.sushikiclock15",
             "author": "EPOS",
             "description": "Change your clock font!",
+            "version": "1.0",
             "long_description": "Change your iOS 15 clock font to the 'sushiki' clock font!",
             "category": "Fonts",
             "icon": "Tweaks/sushikiClock15/ico_3.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/sushikiClock15/Releases/sushikiClock15.purekfd",
             "screenshots": [
                 "Tweaks/sushikiClock15/ss.png"
@@ -441,9 +491,11 @@
             "bundleid": "com.epos.spaceship15",
             "author": "EPOS",
             "description": "Change your clock font!",
+            "version": "1.0",
             "long_description": "Change your iOS 15 clock font to the 'Spaceship' clock font!",
             "category": "Fonts",
             "icon": "Tweaks/SpaceshipClock15/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/SpaceshipClock15/Releases/SpaceshipClock15.purekfd",
             "screenshots": [
                 "Tweaks/SpaceshipClock15/ss.png"
@@ -454,9 +506,11 @@
             "bundleid": "com.epos.retake15",
             "author": "EPOS",
             "description": "Change your clock font!",
+            "version": "1.0",
             "long_description": "Change your iOS 15 clock font to the 'Retake' clock font!",
             "category": "Fonts",
             "icon": "Tweaks/RetakeClock15/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/RetakeClock15/Releases/RetakeClock15.purekfd",
             "screenshots": [
                 "Tweaks/RetakeClock15/ss.png"
@@ -467,9 +521,11 @@
             "bundleid": "com.epos.meloso15",
             "author": "EPOS & Alexman",
             "description": "Change your clock font!",
+            "version": "1.0",
             "long_description": "Change your iOS 15 clock font to the 'Meloso / Kroppen FwO' clock font!",
             "category": "Fonts",
             "icon": "Tweaks/MelosoClock15/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/MelosoClock15/Releases/MelosoClock15.purekfd",
             "screenshots": [
                 "Tweaks/MelosoClock15/ss.png"
@@ -480,9 +536,11 @@
             "bundleid": "com.epos.tomorrowclock",
             "author": "EPOS & HackZy",
             "description": "a breath of fresh air",
+            "version": "1.0",
             "long_description": "A unique clock font that gives your device a fresh and modern look\n\nBorn from a collab between me and HackZy\nGoes really well with OneCC",
             "category": "Fonts",
             "icon": "Tweaks/TomorrowClock/ico.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/TomorrowClock/Releases/TomorrowClock.purekfd",
             "screenshots": [
                 "Tweaks/TomorrowClock/ss.png",
@@ -497,9 +555,11 @@
             "bundleid": "com.epos.paint",
             "author": "EPOS",
             "description": "Change your clock font!",
+            "version": "1.1",
             "long_description": "Change your iOS 16 clock font to the 'Paint' clock font!",
             "category": "Fonts",
             "icon": "Tweaks/PaintClock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/PaintClock/Releases/PaintClock1.1.purekfd",
             "screenshots": [
                 "Tweaks/PaintClock/ss.png",
@@ -511,9 +571,11 @@
             "bundleid": "com.epos.meloso",
             "author": "EPOS & Alexman",
             "description": "Change your clock font!",
+            "version": "1.0",
             "long_description": "Change your iOS 16 clock font to the 'Meloso' clock font!",
             "category": "Fonts",
             "icon": "Tweaks/MelosoClock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/MelosoClock/Releases/MelosoClock.purekfd",
             "screenshots": [
                 "Tweaks/MelosoClock/ss.png"
@@ -524,9 +586,11 @@
             "bundleid": "com.epos.exciter",
             "author": "EPOS & p0s3id0n",
             "description": "Change your clock font!",
+            "version": "1.0",
             "long_description": "Change your iOS 16 clock font to the 'Exciter' clock font!\n\nCopyright owned by \ud83c\uddfb\ud83c\uddf3 Scarlet Tips \ud83c\uddfb\ud83c\uddf3",
             "category": "Fonts",
             "icon": "Tweaks/ExciterClock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/ExciterClock/Releases/ExciterClock.purekfd",
             "screenshots": [
                 "Tweaks/ExciterClock/ss.png"
@@ -537,9 +601,11 @@
             "bundleid": "com.epos.compile",
             "author": "EPOS & p0s3id0n",
             "description": "Change your clock font!",
+            "version": "1.0",
             "long_description": "Change your iOS 16 clock font to the 'Compile' clock font!\n\nCopyright owned by \ud83c\uddfb\ud83c\uddf3 Scarlet Tips \ud83c\uddfb\ud83c\uddf3",
             "category": "Fonts",
             "icon": "Tweaks/CompileClock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/CompileClock/Releases/CompileClock.purekfd",
             "screenshots": [
                 "Tweaks/CompileClock/ss.png"
@@ -550,9 +616,11 @@
             "bundleid": "com.epos.stencilclock",
             "author": "EPOS & p0s3id0n",
             "description": "Change your clock font!",
+            "version": "1.0",
             "long_description": "Change your iOS 16 clock font to the 'Stencil' clock font!\n\nCopyright owned by \ud83c\uddfb\ud83c\uddf3 Scarlet Tips \ud83c\uddfb\ud83c\uddf3",
             "category": "Fonts",
             "icon": "Tweaks/StencilClock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/StencilClock/Releases/StencilClock.purekfd",
             "screenshots": [
                 "Tweaks/StencilClock/ss.png"
@@ -563,9 +631,11 @@
             "bundleid": "com.epos.eulaclock",
             "author": "EPOS & p0s3id0n",
             "description": "Change your clock font!",
+            "version": "1.0",
             "long_description": "Change your iOS 16 clock font to the 'EULA' clock font!\n\nCopyright owned by \ud83c\uddfb\ud83c\uddf3 Scarlet Tips \ud83c\uddfb\ud83c\uddf3",
             "category": "Fonts",
             "icon": "Tweaks/EULAClock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/EULAClock/Releases/EULAClock.purekfd",
             "screenshots": [
                 "Tweaks/EULAClock/ss.png"
@@ -576,9 +646,11 @@
             "bundleid": "com.epos.aulacclock",
             "author": "EPOS & p0s3id0n",
             "description": "Change your clock font!",
+            "version": "1.0",
             "long_description": "Change your iOS 16 clock font to the 'AuLac' clock font!\n\nCopyright owned by \ud83c\uddfb\ud83c\uddf3 Scarlet Tips \ud83c\uddfb\ud83c\uddf3",
             "category": "Fonts",
             "icon": "Tweaks/AuLacClock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/AuLacClock/Releases/AuLacClock.purekfd",
             "screenshots": [
                 "Tweaks/AuLacClock/ss.png"
@@ -589,9 +661,11 @@
             "bundleid": "com.epos.nothingosfont",
             "author": "EPOS & CyberNeel",
             "description": "Change your font!",
+            "version": "1.0",
             "long_description": "Change your font to the 'NothingOS' font!",
             "category": "Fonts",
             "icon": "Tweaks/NothingOSFont/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/NothingOSFont/Releases/NothingOSFont.purekfd",
             "screenshots": [
                 "Tweaks/NothingOSFont/ss.png",
@@ -603,9 +677,11 @@
             "bundleid": "com.epos.minecraftfont",
             "author": "EPOS & dis667",
             "description": "Change your font!",
+            "version": "1.1",
             "long_description": "Change your font to the 'Minecraft' font!",
             "category": "Fonts",
             "icon": "Tweaks/MinecraftFont/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/MinecraftFont/Releases/MinecraftFont1.1.purekfd",
             "screenshots": [
                 "Tweaks/MinecraftFont/ss_2.png",
@@ -618,9 +694,11 @@
             "bundleid": "com.epos.bronkoh",
             "author": "EPOS & \u1d07\u03bd\u0435\u029f\u028f\u0274\u200e\u066d\u02da \u0f18",
             "description": "Change your font!",
+            "version": "1.0",
             "long_description": "Change your font to the 'Bronkoh' font!",
             "category": "Fonts",
             "icon": "Tweaks/BronkohFont/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/BronkohFont/Releases/BronkohFont.purekfd",
             "screenshots": [
                 "Tweaks/BronkohFont/ss.png",
@@ -632,9 +710,11 @@
             "bundleid": "com.epos.quicksand",
             "author": "EPOS & Alexman",
             "description": "Change your font!",
+            "version": "1.0",
             "long_description": "Change your font to the 'Quicksand 100%' font!",
             "category": "Fonts",
             "icon": "Tweaks/QuicksandFont/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/QuicksandFont/Releases/QuicksandFont.purekfd",
             "screenshots": [
                 "Tweaks/QuicksandFont/ss.png",
@@ -646,9 +726,11 @@
             "bundleid": "com.epos.quicksand85",
             "author": "EPOS & Alexman",
             "description": "Change your font!",
+            "version": "1.0",
             "long_description": "Change your font to the 'Quicksand 85%' font!",
             "category": "Fonts",
             "icon": "Tweaks/QuicksandFont85/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/QuicksandFont85/Releases/QuicksandFont85.purekfd",
             "screenshots": [
                 "Tweaks/QuicksandFont85/ss.png",
@@ -660,9 +742,11 @@
             "bundleid": "com.epos.shootastarfont",
             "author": "EPOS & \u1d07\u03bd\u0435\u029f\u028f\u0274\u200e\u066d\u02da \u0f18",
             "description": "Change your font!",
+            "version": "1.0",
             "long_description": "Change your font to the 'Shoot a Star' font!",
             "category": "Fonts",
             "icon": "Tweaks/ShootaStarFont/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/ShootaStarFont/Releases/ShootaStarFont.purekfd",
             "screenshots": [
                 "Tweaks/ShootaStarFont/ss.png",
@@ -674,9 +758,11 @@
             "bundleid": "com.epos.comicrelieffont",
             "author": "EPOS & \u1d07\u03bd\u0435\u029f\u028f\u0274\u200e\u066d\u02da \u0f18",
             "description": "Change your font!",
+            "version": "1.0",
             "long_description": "Change your font to the 'Comic Relief' font!",
             "category": "Fonts",
             "icon": "Tweaks/ComicReliefFont/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/ComicReliefFont/Releases/ComicReliefFont.purekfd",
             "screenshots": [
                 "Tweaks/ComicReliefFont/ss.png",
@@ -688,9 +774,11 @@
             "bundleid": "com.epos.sicafont",
             "author": "EPOS & \u1d07\u03bd\u0435\u029f\u028f\u0274\u200e\u066d\u02da \u0f18",
             "description": "Change your font!",
+            "version": "1.0",
             "long_description": "Change your font to the 'Sica' font!",
             "category": "Fonts",
             "icon": "Tweaks/SicaFont/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/SicaFont/Releases/SicaFont.purekfd",
             "screenshots": [
                 "Tweaks/SicaFont/ss.png",
@@ -702,9 +790,11 @@
             "bundleid": "com.epos.3dfluentemojis",
             "author": "EPOS & PS",
             "description": "3D Fluent Emojis on iOS",
+            "version": "15.0",
             "long_description": "Change your emoji font to the '3D Fluent Emojis' font!",
             "category": "Emoji",
             "icon": "Tweaks/3DFluentEmojis/ico.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/3DFluentEmojis/Releases/3DFluentEmojis15.purekfd",
             "screenshots": [
                 "Tweaks/3DFluentEmojis/ss.png"
@@ -715,9 +805,11 @@
             "bundleid": "com.epos.14prolock",
             "author": "tyler1029",
             "description": "The Lock of a Pro",
+            "version": "1.1",
             "long_description": "Changes your lock into the 14 Pro series lock glyph\nAlso has a better animation!!",
             "category": "Lock Screen",
             "icon": "Tweaks/14ProLock/ico.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/14ProLock/Releases/14ProLock1.1.purekfd",
             "screenshots": [
                 "Tweaks/14ProLock/gif.gif",
@@ -730,9 +822,11 @@
             "bundleid": "com.epos.androidlock",
             "author": "EPOS",
             "description": "A taste of the other side",
+            "version": "1.0",
             "long_description": "Changes your lock into one avaiable only on Android devices!!",
             "category": "Lock Screen",
             "icon": "Tweaks/AndroidLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/AndroidLock/Releases/AndroidLock.purekfd",
             "screenshots": [
                 "Tweaks/AndroidLock/gif.gif"
@@ -743,9 +837,11 @@
             "bundleid": "com.epos.trollfacelock",
             "author": "EPOS",
             "description": "The Lock of a Troll",
+            "version": "1.0",
             "long_description": "Changes your lock into a Trollface\n\nOriginally released by haxi0 for Cowabunga",
             "category": "Lock Screen",
             "icon": "Tweaks/TrollfaceLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/TrollfaceLock/Releases/TrollfaceLock.purekfd",
             "screenshots": [
                 "Tweaks/TrollfaceLock/ss0.png",
@@ -757,9 +853,11 @@
             "bundleid": "com.epos.disintegratingemojilock",
             "author": "EPOS",
             "description": "bro just got thanos snapped",
+            "version": "1.0",
             "long_description": "Changes your lock into the disintegrating emoji",
             "category": "Lock Screen",
             "icon": "Tweaks/DisintegratingEmojiLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/DisintegratingEmojiLock/Releases/DisintegratingEmojiLock.purekfd",
             "screenshots": [
                 "Tweaks/DisintegratingEmojiLock/gif.gif"
@@ -770,9 +868,11 @@
             "bundleid": "com.epos.mariolock",
             "author": "EPOS",
             "description": "Here we go!",
+            "version": "1.0",
             "long_description": "Changes your lock into Mario \u270c\ufe0f",
             "category": "Lock Screen",
             "icon": "Tweaks/MarioLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/MarioLock/Releases/MarioLock.purekfd",
             "screenshots": [
                 "Tweaks/MarioLock/gif.gif"
@@ -783,9 +883,11 @@
             "bundleid": "com.epos.bomberlock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Bomber Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/BomberLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/BomberLock/Releases/BomberLock.purekfd",
             "screenshots": [
                 "Tweaks/BomberLock/gif.gif"
@@ -796,9 +898,11 @@
             "bundleid": "com.epos.boomlock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Boom Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/BoomLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/BoomLock/Releases/BoomLock.purekfd",
             "screenshots": [
                 "Tweaks/BoomLock/gif.gif"
@@ -809,9 +913,11 @@
             "bundleid": "com.epos.gastlylock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Gastly Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/GastlyLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/GastlyLock/Releases/GastlyLock.purekfd",
             "screenshots": [
                 "Tweaks/GastlyLock/gif_2.gif"
@@ -822,9 +928,11 @@
             "bundleid": "com.epos.glitchedskulllock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Glitched Skull Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/GlitchedSkullLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/GlitchedSkullLock/Releases/GlitchedSkullLock.purekfd",
             "screenshots": [
                 "Tweaks/GlitchedSkullLock/gif_2.gif"
@@ -835,9 +943,11 @@
             "bundleid": "com.epos.greenpoisonlock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Greenpois0n Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/GreenpoisonLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/GreenpoisonLock/Releases/GreenpoisonLock.purekfd",
             "screenshots": [
                 "Tweaks/GreenpoisonLock/gif.gif"
@@ -848,9 +958,11 @@
             "bundleid": "com.epos.hellokittylock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Hello Kitty Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/HelloKittyLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/HelloKittyLock/Releases/HelloKittyLock.purekfd",
             "screenshots": [
                 "Tweaks/HelloKittyLock/gif.gif"
@@ -861,9 +973,11 @@
             "bundleid": "com.epos.majorasmasklock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Majora's Mask Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/MajorasMaskLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/MajorasMaskLock/Releases/MajorasMaskLock.purekfd",
             "screenshots": [
                 "Tweaks/MajorasMaskLock/gif.gif"
@@ -874,9 +988,11 @@
             "bundleid": "com.epos.nasalock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Nasa Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/NasaLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/NasaLock/Releases/NasaLock.purekfd",
             "screenshots": [
                 "Tweaks/NasaLock/gif.gif"
@@ -887,9 +1003,11 @@
             "bundleid": "com.epos.pinkcirclelock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Pink Circle Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/PinkCircleLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/PinkCircleLock/Releases/PinkCircleLock.purekfd",
             "screenshots": [
                 "Tweaks/PinkCircleLock/gif.gif"
@@ -900,9 +1018,11 @@
             "bundleid": "com.epos.rainbowstarlock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Rainbow Star Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/RainbowStarLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/RainbowStarLock/Releases/RainbowStarLock.purekfd",
             "screenshots": [
                 "Tweaks/RainbowStarLock/gif.gif"
@@ -913,9 +1033,11 @@
             "bundleid": "com.epos.streetfighterblancalock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Street Fighter Lock - Blanca'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/StreetFighterBlancaLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/StreetFighterBlancaLock/Releases/StreetFighterBlancaLock.purekfd",
             "screenshots": [
                 "Tweaks/StreetFighterBlancaLock/gif.gif"
@@ -926,9 +1048,11 @@
             "bundleid": "com.epos.streetfighterdhalsimlock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Street Fighter Lock - Dhalsim'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/StreetFighterDhalsimLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/StreetFighterDhalsimLock/Releases/StreetFighterDhalsimLock.purekfd",
             "screenshots": [
                 "Tweaks/StreetFighterDhalsimLock/gif.gif"
@@ -939,9 +1063,11 @@
             "bundleid": "com.epos.streetfighterkenlock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Street Fighter Lock - Ken'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/StreetFighterKenLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/StreetFighterKenLock/Releases/StreetFighterKenLock.purekfd",
             "screenshots": [
                 "Tweaks/StreetFighterKenLock/gif.gif"
@@ -952,9 +1078,11 @@
             "bundleid": "com.epos.streetfighterryulock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Street Fighter Lock - Ryu'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/StreetFighterRyuLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/StreetFighterRyuLock/Releases/StreetFighterRyuLock.purekfd",
             "screenshots": [
                 "Tweaks/StreetFighterRyuLock/gif.gif"
@@ -965,9 +1093,11 @@
             "bundleid": "com.epos.tailslock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Tails Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/TailsLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/TailsLock/Releases/TailsLock.purekfd",
             "screenshots": [
                 "Tweaks/TailsLock/gif.gif"
@@ -978,9 +1108,11 @@
             "bundleid": "com.epos.toadlock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Toad Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/ToadLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/ToadLock/Releases/ToadLock.purekfd",
             "screenshots": [
                 "Tweaks/ToadLock/gif_2.gif"
@@ -991,9 +1123,11 @@
             "bundleid": "com.epos.togepilock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Togepi Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/TogepiLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/TogepiLock/Releases/TogepiLock.purekfd",
             "screenshots": [
                 "Tweaks/TogepiLock/gif_2.gif"
@@ -1004,9 +1138,11 @@
             "bundleid": "com.epos.ufolock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'UFO Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/UFOLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/UFOLock/Releases/UFOLock.purekfd",
             "screenshots": [
                 "Tweaks/UFOLock/gif.gif"
@@ -1017,9 +1153,11 @@
             "bundleid": "com.epos.zombiesatemylock",
             "author": "EPOS & The_Nobl3_Guy",
             "description": "Change your lock icon!",
+            "version": "1.0",
             "long_description": "Changes your lock into 'Zombies Ate My Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
             "icon": "Tweaks/ZombiesAteMyLock/ico_2.png",
+            "banner": "RepoAssets/EPOSbox_header.gif",
             "path": "Tweaks/ZombiesAteMyLock/Releases/ZombiesAteMyLock.purekfd",
             "screenshots": [
                 "Tweaks/ZombiesAteMyLock/gif.gif"
