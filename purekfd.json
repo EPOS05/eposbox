@@ -1,4 +1,6 @@
 {
+    "spec":"1.0",
+    "repotype":"purekfdextended",
     "name": "EPOSbox",
     "description": "The MDC & KFD repo made for you \ud83c\udf43",
     "icon": "RepoAssets/leafEPOSbox_full.jpg",
