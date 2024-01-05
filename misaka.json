@@ -34,27 +34,27 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/FontManager.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/FontManager/FontManager.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "2.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/FontManager2.0.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/FontManager/FontManager2.0.misaka",
                     "Description": "-Emoji support -Reduced tweak size -Font download links -Updated UI"
                 },
                 {
                     "Version": "3.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/FontManagerV3.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/FontManager/FontManager3.0.misaka",
                     "Description": "-Added Keycaps.ttc & PingFang.ttc support -Updated the UI to make it look more like SoundManager"
                 },
                 {
                     "Version": "4.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/FontManagerV4.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/FontManager/FontManager4.0.misaka",
                     "Description": "-Added Arabic fonts support -Minor UI changes"
                 },
                 {
                     "Version": "5.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FontManager/FontManagerV5.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/FontManager/FontManager5.0.misaka",
                     "Description": "-Added KeycapPad & PhoneKeyCaps fonts support -Added automatic keyboard cache clearing"
                 }
             ],
@@ -85,53 +85,58 @@
             "Releases": [
                 {
                     "Version": "0.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/SoundManager0.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SoundManager/SoundManager0.1.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "0.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/SoundManager0.2.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SoundManager/SoundManager0.2.misaka",
                     "Description": "Adds MagSafe charging sound & Off option for Phone Dialer keys"
                 },
                 {
                     "Version": "0.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/SoundManager0.3.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SoundManager/SoundManager0.3.misaka",
                     "Description": "Adds PixelShutter cam sound & a lot of new options"
                 },
                 {
                     "Version": "0.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/SoundManager0.4.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SoundManager/SoundManager0.4.misaka",
                     "Description": "Adds PP7 Lock sound & changes Phone Dialer keys label"
                 },
                 {
                     "Version": "0.4.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/SoundManager0.4.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SoundManager/SoundManager0.4.1.misaka",
                     "Description": "iOS 15 fix by fall20c"
                 },
                 {
                     "Version": "0.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/SoundManager0.5.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SoundManager/SoundManager0.5.misaka",
                     "Description": "Adds option to choose custom sounds"
                 },
                 {
                     "Version": "0.6",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/SoundManager0.6.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SoundManager/SoundManager0.6.misaka",
                     "Description": "New UI (Picker instead of SegmentedControl)"
                 },
                 {
                     "Version": "0.7",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/SoundManager0.7.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SoundManager/SoundManager0.7.misaka",
                     "Description": "Adds option to set custom sounds for: -Phone Dialer keys -Received Message -Sent Message"
                 },
                 {
                     "Version": "0.8",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/SoundManager0.8.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SoundManager/SoundManager0.8.misaka",
                     "Description": "Sound options update, 64 new included sound options, updated UI"
                 },
                 {
                     "Version": "9.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SoundManager/SoundManagerV9.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SoundManager/SoundManager9.0.misaka",
                     "Description": "-Now plays a preview sound when selecting any audio option -Some small UI changes -Changed version naming scheme (no longer beta)"
+                },
+                {
+                    "Version": "9.0.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SoundManager/SoundManager9.0.1.misaka",
+                    "Description": "tweak assets fix"
                 }
             ],
             "PackageID": "com.epos.soundmanager"
@@ -161,13 +166,18 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/SettingsManager.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SettingsManager/SettingsManager.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SettingsManager/SettingsManagerV1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SettingsManager/SettingsManager1.1.misaka",
                     "Description": "Fixed mail icon option from not showing"
+                },
+                {
+                    "Version": "1.1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SettingsManager/SettingsManager1.1.1.misaka",
+                    "Description": "tweak assets fix"
                 }
             ],
             "PackageID": "com.epos.settingsmanager"
@@ -198,33 +208,38 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/NoVulnTools2.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/NoVulnTools2/NoVulnTools2.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/NoVulnTools21.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/NoVulnTools2/NoVulnTools21.1.misaka",
                     "Description": "File size fix - removed the home button speed"
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/NoVulnTools21.2.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/NoVulnTools2/NoVulnTools21.2.misaka",
                     "Description": "File size fix 2"
                 },
                 {
                     "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/NoVulnTools21.3.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/NoVulnTools2/NoVulnTools21.3.misaka",
                     "Description": "Custom settings icons support & Added toggle to enable or disable animation speed changes"
                 },
                 {
                     "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/NoVulnTools21.4.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/NoVulnTools2/NoVulnTools21.4.misaka",
                     "Description": "slight re-design, changed default icons to the default ios icons, new low power icon that changes dynamically depending on iOS version, fixed VPN tab not working"
                 },
                 {
                     "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NoVulnTools2/NoVulnTools21.5.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/NoVulnTools2/NoVulnTools21.5.misaka",
                     "Description": "Paste sound no longer requires a reboot, re-designed layout, lowers file size to support more iOS versions"
+                },
+                {
+                    "Version": "1.5.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/NoVulnTools2/NoVulnTools21.5.1.misaka",
+                    "Description": "tweak assets fix"
                 }
             ],
             "PackageID": "com.epos.novulntools2"
@@ -263,32 +278,32 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ColorBoard.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ColorBoard/ColorBoard.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ColorBoard1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ColorBoard/ColorBoard1.1.misaka",
                     "Description": "Bug Fixes \n • Notification Stacking \n • Notification Shadow \n • Notification Dark Secondary Text Color \n Added Features \n • Switcher Blur \n • Spotlight Color \n • Transparent App Library Pods"
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ColorBoard1.2.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ColorBoard/ColorBoard1.2.misaka",
                     "Description": "Added Features \n • Notification Badge Color \n Tweak Improvements \n • Option to disable the effects."
                 },
                 {
                     "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ColorBoard1.3.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ColorBoard/ColorBoard1.3.misaka",
                     "Description": "Fixed Badge Color, & added support for kfd."
                 },
                 {
                     "Version": "1.4 Beta",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ColorBoard1.4.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ColorBoard/ColorBoard1.4.misaka",
                     "Description": "Added opacity values to Dock, Control Center & Folder colors & a option to make the control center modules & toggles clear."
                 },
                 {
                     "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ColorBoard/ColorBoard1.5.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ColorBoard/ColorBoard1.5.misaka",
                     "Description": "Changed Disable Effects to Enable, Now let’s you turn off options and the files will not be replaced, Improved Spotlight colors, Added a new Pink color for notification badges & general tweak stability improvements."
                 }
             ],
@@ -321,7 +336,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuickActionColor/QuickActionColor.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/QuickActionColor/QuickActionColor.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -352,17 +367,17 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/AppCC.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/AppCC/AppCC.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/AppCC1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/AppCC/AppCC1.1.misaka",
                     "Description": "icon option changes"
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AppCC/AppCC1.2.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/AppCC/AppCC1.2.misaka",
                     "Description": "Added better support for other Control Center tweaks"
                 }
             ],
@@ -393,7 +408,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CarPlayWP/CarPlayWP.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/CarPlayWP/CarPlayWP.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -429,12 +444,12 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/MuteAnimation.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/MuteAnimation/MuteAnimation.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MuteAnimation/MuteAnimation1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/MuteAnimation/MuteAnimation1.1.misaka",
                     "Description": "Added an option to adjust the position of the animation or custom image."
                 }
             ],
@@ -465,7 +480,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/LSFootnote/LSFootnote.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/LSFootnote/LSFootnote.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -502,17 +517,17 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/FrostedUI.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/FrostedUI/FrostedUI.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/FrostedUI1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/FrostedUI/FrostedUI1.1.misaka",
                     "Description": "added option to change notif and notif shadow color trough tweak settings"
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FrostedUI/FrostedUI1.2.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/FrostedUI/FrostedUI1.2.misaka",
                     "Description": "Blur Value stepper style instead of the slider & improved titles"
                 }
             ],
@@ -543,13 +558,18 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ModernCC.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ModernCC/ModernCC.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ModernCC/ModernCC1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ModernCC/ModernCC1.1.misaka",
                     "Description": "Adds tweak settings that allow users to dissable the ModernCC background color, Makes ModernCC compatible with other CC or UI tweaks."
+                },
+                {
+                    "Version": "1.1.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ModernCC/ModernCC1.1.1.misaka",
+                    "Description": "tweak assets fix"
                 }
             ],
             "PackageID": "com.epos.moderncc"
@@ -578,7 +598,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PulsarLSUI/PulsarLSUI.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/PulsarLSUI/PulsarLSUI.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -612,27 +632,27 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/GradientPassPhone.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/GradientPassPhone/GradientPassPhone.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/GradientPassPhone1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/GradientPassPhone/GradientPassPhone1.1.misaka",
                     "Description": "Fixed phone keys light mode variant not theming"
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/GradientPassPhone1.2.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/GradientPassPhone/GradientPassPhone1.2.misaka",
                     "Description": "Fixed scaling issue & added support for all devices"
                 },
                 {
                     "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/GradientPassPhone1.3.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/GradientPassPhone/GradientPassPhone1.3.misaka",
                     "Description": "Reduces file size & improves support (Kumiki FIX)"
                 },
                 {
                     "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GradientPassPhone/GradientPassPhone1.4.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/GradientPassPhone/GradientPassPhone1.4.misaka",
                     "Description": "Added %Misaka_Regex% & Reduces tweak size"
                 }
             ],
@@ -662,8 +682,13 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/WayfinderClock/WayfinderClock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/WayfinderClock/WayfinderClock.misaka",
                     "Description": "initial release"
+                },
+                {
+                    "Version": "1.0.1",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/WayfinderClock/WayfinderClock1.0.1.misaka",
+                    "Description": "tweak assets fix"
                 }
             ],
             "PackageID": "com.epos.wayfinderclock"
@@ -691,7 +716,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EngageSound/EngageSound.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/EngageSound/EngageSound.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -721,7 +746,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DebugStoofs/DebugStoofs.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/DebugStoofs/DebugStoofs.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -753,22 +778,22 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ClassicSettings.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ClassicSettings/ClassicSettings.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ClassicSettings1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ClassicSettings/ClassicSettings1.1.misaka",
                     "Description": "-redid shortcuts & measure icons -fixed developer settings icon"
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ClassicSettings1.2.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ClassicSettings/ClassicSettings1.2.misaka",
                     "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
                 },
                 {
                     "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ClassicSettings/ClassicSettings1.3.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ClassicSettings/ClassicSettings1.3.misaka",
                     "Description": "Decreases file size (fixes iOS 15.1 issues)"
                 }
             ],
@@ -803,32 +828,32 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/FelicitySettings.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/FelicitySettings/FelicitySettings.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/FelicitySettings1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/FelicitySettings/FelicitySettings1.1.misaka",
                     "Description": "Adds option that allows users to set a custom image on top off settings"
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/FelicitySettings1.2.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/FelicitySettings/FelicitySettings1.2.misaka",
                     "Description": "Adds option to set a gap between the custom image and icloud"
                 },
                 {
                     "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/FelicitySettings1.3.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/FelicitySettings/FelicitySettings1.3.misaka",
                     "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
                 },
                 {
                     "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/FelicitySettings1.4.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/FelicitySettings/FelicitySettings1.4.misaka",
                     "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
                 },
                 {
                     "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/FelicitySettings/FelicitySettings1.5.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/FelicitySettings/FelicitySettings1.5.misaka",
                     "Description": "Decreases file size (fixes iOS 15.1 issues)"
                 }
             ],
@@ -863,32 +888,32 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/VivacitySettings.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/VivacitySettings/VivacitySettings.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/VivacitySettings1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/VivacitySettings/VivacitySettings1.1.misaka",
                     "Description": "Adds option that allows users to set a custom image on top off settings"
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/VivacitySettings1.2.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/VivacitySettings/VivacitySettings1.2.misaka",
                     "Description": "Adds option to set a gap between the custom image and icloud"
                 },
                 {
                     "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/VivacitySettings1.3.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/VivacitySettings/VivacitySettings1.3.misaka",
                     "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
                 },
                 {
                     "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/VivacitySettings1.4.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/VivacitySettings/VivacitySettings1.4.misaka",
                     "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
                 },
                 {
                     "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/VivacitySettings/VivacitySettings1.5.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/VivacitySettings/VivacitySettings1.5.misaka",
                     "Description": "Decreases file size (fixes iOS 15.1 issues)"
                 }
             ],
@@ -923,32 +948,32 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/DoubleBubbleSettings.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/DoubleBubbleSettings/DoubleBubbleSettings.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/DoubleBubbleSettings1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/DoubleBubbleSettings/DoubleBubbleSettings1.1.misaka",
                     "Description": "Adds option that allows users to set a custom image on top off settings"
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/DoubleBubbleSettings1.2.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/DoubleBubbleSettings/DoubleBubbleSettings1.2.misaka",
                     "Description": "Adds option to set a gap between the custom image and icloud"
                 },
                 {
                     "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/DoubleBubbleSettings1.3.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/DoubleBubbleSettings/DoubleBubbleSettings1.3.misaka",
                     "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
                 },
                 {
                     "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/DoubleBubbleSettings1.4.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/DoubleBubbleSettings/DoubleBubbleSettings1.4.misaka",
                     "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
                 },
                 {
                     "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DoubleBubbleSettings/DoubleBubbleSettings1.5.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/DoubleBubbleSettings/DoubleBubbleSettings1.5.misaka",
                     "Description": "Decreases file size (fixes iOS 15.1 issues)"
                 }
             ],
@@ -983,32 +1008,32 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/MorandiSettings.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/MorandiSettings/MorandiSettings.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/MorandiSettings1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/MorandiSettings/MorandiSettings1.1.misaka",
                     "Description": "Adds option that allows users to set a custom image on top off settings"
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/MorandiSettings1.2.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/MorandiSettings/MorandiSettings1.2.misaka",
                     "Description": "Adds option to set a gap between the custom image and icloud"
                 },
                 {
                     "Version": "1.3",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/MorandiSettings1.3.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/MorandiSettings/MorandiSettings1.3.misaka",
                     "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
                 },
                 {
                     "Version": "1.4",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/MorandiSettings1.4.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/MorandiSettings/MorandiSettings1.4.misaka",
                     "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
                 },
                 {
                     "Version": "1.5",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MorandiSettings/MorandiSettings1.5.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/MorandiSettings/MorandiSettings1.5.misaka",
                     "Description": "Decreases file size (fixes iOS 15.1 issues)"
                 }
             ],
@@ -1041,7 +1066,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingClock15/NothingClock15.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/NothingClock15/NothingClock15.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1070,7 +1095,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PencilClock15/PencilClock15.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/PencilClock15/PencilClock15.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1099,7 +1124,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/sushikiClock15/sushikiClock15.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/sushikiClock15/sushikiClock15.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1128,7 +1153,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SpaceshipClock15/SpaceshipClock15.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SpaceshipClock15/SpaceshipClock15.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1157,7 +1182,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/RetakeClock15/RetakeClock15.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/RetakeClock15/RetakeClock15.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1190,7 +1215,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock15/MelosoClock15.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/MelosoClock15/MelosoClock15.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1227,7 +1252,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TomorrowClock/TomorrowClock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/TomorrowClock/TomorrowClock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1257,12 +1282,12 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/PaintClock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/PaintClock/PaintClock.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PaintClock/PaintClock1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/PaintClock/PaintClock1.1.misaka",
                     "Description": "Fixed some clock variants showing [?]"
                 }
             ],
@@ -1295,7 +1320,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MelosoClock/MelosoClock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/MelosoClock/MelosoClock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1328,7 +1353,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ExciterClock/ExciterClock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ExciterClock/ExciterClock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1361,7 +1386,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/CompileClock/CompileClock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/CompileClock/CompileClock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1394,7 +1419,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/StencilClock/StencilClock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/StencilClock/StencilClock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1427,7 +1452,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/EULAClock/EULAClock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/EULAClock/EULAClock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1460,7 +1485,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AuLacClock/AuLacClock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/AuLacClock/AuLacClock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1494,7 +1519,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NothingOSFont/NothingOSFont.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/NothingOSFont/NothingOSFont.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1529,12 +1554,12 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/MinecraftFont.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/MinecraftFont/MinecraftFont.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MinecraftFont/MinecraftFont1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/MinecraftFont/MinecraftFont1.1.misaka",
                     "Description": "Fixed 5GUC and added polish"
                 }
             ],
@@ -1568,7 +1593,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BronkohFont/BronkohFont.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/BronkohFont/BronkohFont.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1602,7 +1627,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont/QuicksandFont.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/QuicksandFont/QuicksandFont.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1636,7 +1661,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/QuicksandFont85/QuicksandFont85.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/QuicksandFont85/QuicksandFont85.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1670,7 +1695,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ShootaStarFont/ShootaStarFont.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ShootaStarFont/ShootaStarFont.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1704,7 +1729,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ComicReliefFont/ComicReliefFont.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ComicReliefFont/ComicReliefFont.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1738,7 +1763,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/SicaFont/SicaFont.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/SicaFont/SicaFont.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1771,12 +1796,12 @@
             "Releases": [
                 {
                     "Version": "14.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/3DFluentEmojis14.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/3DFluentEmojis/3DFluentEmojis14.misaka",
                     "Description": "Unicode 14.0"
                 },
                 {
                     "Version": "15.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/3DFluentEmojis/3DFluentEmojis15.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/3DFluentEmojis/3DFluentEmojis15.misaka",
                     "Description": "Unicode 15.0"
                 }
             ],
@@ -1807,12 +1832,12 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/14ProLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/14ProLock/14ProLock.misaka",
                     "Description": "initial release"
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/14ProLock/14ProLock1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/14ProLock/14ProLock1.1.misaka",
                     "Description": "Quick fix - wasnt working on iPhone XR"
                 }
             ],
@@ -1841,7 +1866,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/AndroidLock/AndroidLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/AndroidLock/AndroidLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1871,7 +1896,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TrollfaceLock/TrollfaceLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/TrollfaceLock/TrollfaceLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1900,7 +1925,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/DisintegratingEmojiLock/DisintegratingEmojiLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/DisintegratingEmojiLock/DisintegratingEmojiLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1929,7 +1954,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MarioLock/MarioLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/MarioLock/MarioLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1962,7 +1987,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BomberLock/BomberLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/BomberLock/BomberLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -1995,7 +2020,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/BoomLock/BoomLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/BoomLock/BoomLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2028,7 +2053,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GastlyLock/GastlyLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/GastlyLock/GastlyLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2061,7 +2086,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GlitchedSkullLock/GlitchedSkullLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/GlitchedSkullLock/GlitchedSkullLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2094,7 +2119,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/GreenpoisonLock/GreenpoisonLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/GreenpoisonLock/GreenpoisonLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2127,7 +2152,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/HelloKittyLock/HelloKittyLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/HelloKittyLock/HelloKittyLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2160,7 +2185,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/MajorasMaskLock/MajorasMaskLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/MajorasMaskLock/MajorasMaskLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2193,7 +2218,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/NasaLock/NasaLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/NasaLock/NasaLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2226,7 +2251,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/PinkCircleLock/PinkCircleLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/PinkCircleLock/PinkCircleLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2259,7 +2284,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/RainbowStarLock/RainbowStarLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/RainbowStarLock/RainbowStarLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2292,7 +2317,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/StreetFighterBlancaLock/StreetFighterBlancaLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/StreetFighterBlancaLock/StreetFighterBlancaLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2325,7 +2350,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/StreetFighterDhalsimLock/StreetFighterDhalsimLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/StreetFighterDhalsimLock/StreetFighterDhalsimLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2358,7 +2383,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/StreetFighterKenLock/StreetFighterKenLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/StreetFighterKenLock/StreetFighterKenLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2391,7 +2416,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/StreetFighterRyuLock/StreetFighterRyuLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/StreetFighterRyuLock/StreetFighterRyuLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2424,7 +2449,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TailsLock/TailsLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/TailsLock/TailsLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2457,7 +2482,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ToadLock/ToadLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ToadLock/ToadLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2490,7 +2515,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/TogepiLock/TogepiLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/TogepiLock/TogepiLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2523,7 +2548,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/UFOLock/UFOLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/UFOLock/UFOLock.misaka",
                     "Description": "initial release"
                 }
             ],
@@ -2556,7 +2581,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks/ZombiesAteMyLock/ZombiesAteMyLock.misaka",
+                    "Package": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Tweaks_misaka/ZombiesAteMyLock/ZombiesAteMyLock.misaka",
                     "Description": "initial release"
                 }
             ],
