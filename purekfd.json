@@ -21,13 +21,6 @@
             "square": false
         },
         {
-            "name": "ColorBoard",
-            "bundleid": "com.epos.colorboard",
-            "banner": "Assets/Featured/ColorBoard.png",
-            "showname": false,
-            "square": false
-        },
-        {
             "name": "QuickActionColor",
             "bundleid": "com.epos.quickactioncolor",
             "banner": "Assets/Featured/QuickActionColor.png",
@@ -136,27 +129,6 @@
                 "Assets/Tweaks/NoVulnTools2/ss_3.jpg",
                 "Assets/Tweaks/NoVulnTools2/ss2_3.jpg",
                 "Assets/Tweaks/NoVulnTools2/ss3_3.jpg"
-            ]
-        },
-        {
-            "name": "ColorBoard",
-            "bundleid": "com.epos.colorboard",
-            "author": "tyler1029",
-            "description": "A slight hint of color",
-            "version": "1.5",
-            "long_description": "The all-in-one tweak to bring color to your device, Changing 3D touch/menu colors, Dock colors, Notification colors, Folder colors & Control Center modules, background colors & App Library Colors & so much more.",
-            "category": "SpringBoard",
-            "icon": "Assets/Tweaks/ColorBoard/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/ColorBoard/ColorBoard1.5.purekfd",
-            "screenshots": [
-                "Assets/Tweaks/ColorBoard/ss1.png",
-                "Assets/Tweaks/ColorBoard/ss2.png",
-                "Assets/Tweaks/ColorBoard/ss3.png",
-                "Assets/Tweaks/ColorBoard/ss4.png",
-                "Assets/Tweaks/ColorBoard/ss5.png",
-                "Assets/Tweaks/ColorBoard/ss6.png",
-                "Assets/Tweaks/ColorBoard/ss7.png"
             ]
         },
         {
