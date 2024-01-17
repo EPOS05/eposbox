@@ -1,6 +1,6 @@
 ![Icon](https://raw.githubusercontent.com/EPOS05/EPOSbox/main/Assets/Icons/leafEPOSbox_github.png)
 # EPOSbox
-The MDC & KFD repo made for you 🍃
+The repo made for you 🍃
 
 Click [here](https://lrdsnow.github.io/lrdsnow/purekfd/pkgviewer.html?repourl=https://raw.githubusercontent.com/EPOS05/EPOSbox/main/purekfd.json) to see what's available on EPOSbox *[preview for MDC & KFD tweaks only]*
 
@@ -15,6 +15,12 @@ Use the following URL to start using EPOSbox with **PureKFD**:
 
 ```
 https://raw.githubusercontent.com/EPOS05/EPOSbox/main/purekfd.json
+```
+
+Use the following URL to start using EPOSbox with **Designer (jb tweak)**:
+
+```
+EPOS05/EPOSbox
 ```
 
 ## Misaka
