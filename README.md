@@ -32,3 +32,6 @@ EPOS05/EPOSbox
 [Download the latest PureKFD IPA here](https://github.com/Lrdsnow/PureKFD/releases/latest)
 
 <a href='https://discord.gg/hEua3xmgCp'><img align='center' alt='Discord' src='https://img.shields.io/discord/1140456506119176224?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
+
+## Designer (jb tweak)
+[Get the Designer jailbreak tweak by JunesiPhone here](https://www.patreon.com/junesiphone/shop/designer-tweak-564)
