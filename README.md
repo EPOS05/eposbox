@@ -2,7 +2,7 @@
 # EPOSbox
 The repo made for you 🍃
 
-Click [here](https://lrdsnow.github.io/lrdsnow/purekfd/pkgviewer.html?repourl=https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json) to see what's available on EPOSbox (only MDC/KFD repo preview)
+Click [here](https://lrdsnow.github.io/lrdsnow/purekfd/pkgviewer.html?repourl=https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json) to see what's available on EPOSbox (MDC/KFD repo preview only)
 
 ## How do I use it?
 Use the following URL to start using EPOSbox with **misaka**:
