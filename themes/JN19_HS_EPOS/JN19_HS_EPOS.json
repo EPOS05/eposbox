@@ -1,0 +1,199 @@
+{
+  "PresetView" : {
+    "type" : "UIView",
+    "frame" : {
+      "y" : "0",
+      "x" : "0",
+      "width" : "screen_width",
+      "height" : "screen_height",
+      "userInteractionEnabled" : "NO"
+    },
+    "children" : {
+      "todcontainer" : {
+        "scale" : "1.3",
+        "borderColor" : "rgba(255,255,255,0)",
+        "rotate" : "0",
+        "actions" : "none",
+        "frame" : {
+          "y" : "150",
+          "x" : "105",
+          "width" : "320",
+          "height" : "100"
+        },
+        "backgroundColor" : "rgba(255, 255, 255, 0.00)",
+        "blurAlpha" : "0",
+        "type" : "UIView",
+        "animation" : "none",
+        "gradientImage" : "none",
+        "borderWidth" : "0",
+        "alpha" : "1",
+        "children" : {
+          "date" : {
+            "borderColor" : "rgba(255,255,255,1)",
+            "textStyle" : "none",
+            "textAlignment" : "NSTextAlignmentLeft",
+            "frame" : {
+              "y" : "1",
+              "x" : "115",
+              "width" : "120",
+              "height" : "80"
+            },
+            "kerning" : "3",
+            "backgroundColor" : "rgba(0, 0, 0, 0.00)",
+            "dataAttr" : "none",
+            "textColor" : "rgba(255, 255, 255, 0.30)",
+            "type" : "UILabel",
+            "fontColorAttr" : "none",
+            "numberOfLines" : "1",
+            "data" : "[paddeddate]",
+            "borderWidth" : "0",
+            "gradientImage" : "none",
+            "fontSizeAttr" : "none",
+            "fontSize" : "90",
+            "fontName" : "mikadoultra.otf",
+            "textShadow" : {
+              "y" : "3",
+              "radius" : "3",
+              "x" : "0",
+              "color" : "rgba(0,0,0,0)"
+            },
+            "fontNameAttr" : "none"
+          },
+          "good" : {
+            "borderColor" : "rgba(255,255,255,1)",
+            "textStyle" : "uppercase",
+            "textAlignment" : "NSTextAlignmentLeft",
+            "frame" : {
+              "y" : "0",
+              "x" : "0",
+              "width" : "150",
+              "height" : "40"
+            },
+            "kerning" : "2",
+            "backgroundColor" : "rgba(255,255,255,0)",
+            "dataAttr" : "none",
+            "textColor" : "rgba(255,255,255,1.0)",
+            "type" : "UILabel",
+            "fontColorAttr" : "none",
+            "numberOfLines" : "1",
+            "data" : "good",
+            "borderWidth" : "0",
+            "gradientImage" : "none",
+            "fontSizeAttr" : "none",
+            "fontSize" : "30",
+            "fontName" : "mikadoultra.otf",
+            "textShadow" : {
+              "y" : "3",
+              "color" : "rgba(0,0,0,0)",
+              "x" : "0",
+              "radius" : "3"
+            },
+            "fontNameAttr" : "none"
+          },
+          "day" : {
+            "borderColor" : "rgba(255,255,255,1)",
+            "textStyle" : "lowercase",
+            "textAlignment" : "NSTextAlignmentLeft",
+            "frame" : {
+              "y" : "48",
+              "x" : "30",
+              "width" : "150",
+              "height" : "40"
+            },
+            "kerning" : "0",
+            "backgroundColor" : "rgba(255,255,255,0)",
+            "dataAttr" : "none",
+            "textColor" : "rgba(255,255,255,1.0)",
+            "type" : "UILabel",
+            "fontColorAttr" : "none",
+            "numberOfLines" : "1",
+            "data" : "[day]",
+            "borderWidth" : "0",
+            "gradientImage" : "none",
+            "fontSizeAttr" : "none",
+            "fontSize" : "10",
+            "fontName" : "bikoregular.otf",
+            "textShadow" : {
+              "y" : "3",
+              "color" : "rgba(0,0,0,0)",
+              "x" : "0",
+              "radius" : "3"
+            },
+            "fontNameAttr" : "none"
+          },
+          "yes" : {
+            "borderColor" : "rgba(255,255,255,1)",
+            "textStyle" : "lowercase",
+            "textAlignment" : "NSTextAlignmentLeft",
+            "frame" : {
+              "y" : "48",
+              "x" : "0",
+              "width" : "150",
+              "height" : "40"
+            },
+            "kerning" : "0",
+            "backgroundColor" : "rgba(255,255,255,0)",
+            "dataAttr" : "none",
+            "textColor" : "rgba(255, 255, 255, 0.50)",
+            "type" : "UILabel",
+            "fontColorAttr" : "none",
+            "numberOfLines" : "1",
+            "data" : "yes its ",
+            "borderWidth" : "0",
+            "gradientImage" : "none",
+            "fontSizeAttr" : "none",
+            "fontSize" : "10",
+            "fontName" : "bikoregular.otf",
+            "textShadow" : {
+              "y" : "3",
+              "color" : "rgba(0,0,0,0)",
+              "x" : "0",
+              "radius" : "3"
+            },
+            "fontNameAttr" : "none"
+          },
+          "tod" : {
+            "borderColor" : "rgba(255,255,255,1)",
+            "textStyle" : "uppercase",
+            "textAlignment" : "NSTextAlignmentLeft",
+            "frame" : {
+              "y" : "28",
+              "x" : "0",
+              "width" : "270",
+              "height" : "40"
+            },
+            "kerning" : "2",
+            "backgroundColor" : "rgba(255,255,255,0)",
+            "dataAttr" : "none",
+            "textColor" : "rgba(255,255,255,1.0)",
+            "type" : "UILabel",
+            "fontColorAttr" : "none",
+            "numberOfLines" : "1",
+            "data" : "[timeofday]",
+            "borderWidth" : "0",
+            "gradientImage" : "none",
+            "fontSizeAttr" : "none",
+            "fontSize" : "30",
+            "fontName" : "mikadoultra.otf",
+            "textShadow" : {
+              "y" : "3",
+              "color" : "rgba(0,0,0,0)",
+              "x" : "0",
+              "radius" : "3"
+            },
+            "fontNameAttr" : "none"
+          }
+        },
+        "boxShadow" : {
+          "y" : "3",
+          "radius" : "3",
+          "x" : "0",
+          "color" : "rgba(0,0,0,0)"
+        },
+        "cornerRadius" : "5",
+        "blurColor" : "dark",
+        "childorder" : "good,tod,yes,day,date"
+      }
+    }
+  }
+}
