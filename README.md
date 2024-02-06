@@ -5,7 +5,7 @@
 <h1 align="left">EPOSbox - The repo made for you 🍃</h1>
 
 <p align="left">
-  <strong>Click <a href="https://lrdsnow.github.io/lrdsnow/purekfd/pkgviewer.html?repourl=https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json">here</a> to see what's available on EPOSbox (MDC/KFD repo preview only)</strong>
+  <strong>Click <a href="https://misaka-web.vercel.app/sources/epos">here</a> to see what's available on EPOSbox (MDC/KFD repo preview only)</strong>
 </p>
 
 <br>
