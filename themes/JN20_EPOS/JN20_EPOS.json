@@ -3,10 +3,10 @@
     "type" : "UIView",
     "frame" : {
       "y" : "0",
+      "x" : "0",
       "width" : "screen_width",
       "height" : "screen_height",
-      "userInteractionEnabled" : "NO",
-      "x" : "0"
+      "userInteractionEnabled" : "NO"
     },
     "children" : {
       "clock" : {
@@ -15,7 +15,7 @@
         "rotate" : "0",
         "actions" : "none",
         "frame" : {
-          "y" : "160",
+          "y" : "90",
           "x" : "center",
           "width" : "170",
           "height" : "250"
@@ -53,9 +53,9 @@
             "fontName" : "mikadoultra.otf",
             "textShadow" : {
               "y" : "3",
-              "radius" : "3",
+              "color" : "rgba(0,0,0,0)",
               "x" : "0",
-              "color" : "rgba(0,0,0,0)"
+              "radius" : "3"
             },
             "fontNameAttr" : "none"
           },
@@ -84,71 +84,9 @@
             "fontName" : "mikadoultra.otf",
             "textShadow" : {
               "y" : "3",
-              "radius" : "3",
+              "color" : "rgba(0,0,0,0)",
               "x" : "0",
-              "color" : "rgba(0,0,0,0)"
-            },
-            "fontNameAttr" : "none"
-          },
-          "date" : {
-            "borderColor" : "rgba(255,255,255,1)",
-            "textStyle" : "uppercase",
-            "textAlignment" : "NSTextAlignmentCenter",
-            "frame" : {
-              "y" : "FB~0",
-              "x" : "10",
-              "width" : "150",
-              "height" : "40"
-            },
-            "kerning" : "0",
-            "backgroundColor" : "rgba(255,255,255,0)",
-            "dataAttr" : "none",
-            "textColor" : "rgba(255,255,255,1.0)",
-            "type" : "UILabel",
-            "fontColorAttr" : "none",
-            "numberOfLines" : "1",
-            "data" : "[shortday] [paddeddate]",
-            "borderWidth" : "0",
-            "gradientImage" : "none",
-            "fontSizeAttr" : "none",
-            "fontSize" : "15",
-            "fontName" : "mikadoultra.otf",
-            "textShadow" : {
-              "y" : "3",
-              "radius" : "3",
-              "x" : "0",
-              "color" : "rgba(0,0,0,0)"
-            },
-            "fontNameAttr" : "none"
-          },
-          "min1" : {
-            "borderColor" : "rgba(255,255,255,1)",
-            "textStyle" : "none",
-            "textAlignment" : "NSTextAlignmentCenter",
-            "frame" : {
-              "y" : "117",
-              "x" : "3",
-              "width" : "110",
-              "height" : "110"
-            },
-            "kerning" : "0",
-            "backgroundColor" : "rgba(92, 92, 92, 0.00)",
-            "dataAttr" : "none",
-            "textColor" : "rgba(255, 255, 255, 1.00)",
-            "type" : "UILabel",
-            "fontColorAttr" : "none",
-            "numberOfLines" : "1",
-            "data" : "[minutepartone]",
-            "borderWidth" : "0",
-            "gradientImage" : "none",
-            "fontSizeAttr" : "none",
-            "fontSize" : "130",
-            "fontName" : "mikadoultra.otf",
-            "textShadow" : {
-              "y" : "3",
-              "radius" : "3",
-              "x" : "0",
-              "color" : "rgba(0,0,0,0)"
+              "radius" : "3"
             },
             "fontNameAttr" : "none"
           },
@@ -177,18 +115,80 @@
             "fontName" : "mikadoultra.otf",
             "textShadow" : {
               "y" : "3",
-              "radius" : "3",
+              "color" : "rgba(0,0,0,0)",
               "x" : "0",
-              "color" : "rgba(0,0,0,0)"
+              "radius" : "3"
+            },
+            "fontNameAttr" : "none"
+          },
+          "min1" : {
+            "borderColor" : "rgba(255,255,255,1)",
+            "textStyle" : "none",
+            "textAlignment" : "NSTextAlignmentCenter",
+            "frame" : {
+              "y" : "117",
+              "x" : "3",
+              "width" : "110",
+              "height" : "110"
+            },
+            "kerning" : "0",
+            "backgroundColor" : "rgba(92, 92, 92, 0.00)",
+            "dataAttr" : "none",
+            "textColor" : "rgba(255, 255, 255, 1.00)",
+            "type" : "UILabel",
+            "fontColorAttr" : "none",
+            "numberOfLines" : "1",
+            "data" : "[minutepartone]",
+            "borderWidth" : "0",
+            "gradientImage" : "none",
+            "fontSizeAttr" : "none",
+            "fontSize" : "130",
+            "fontName" : "mikadoultra.otf",
+            "textShadow" : {
+              "y" : "3",
+              "color" : "rgba(0,0,0,0)",
+              "x" : "0",
+              "radius" : "3"
+            },
+            "fontNameAttr" : "none"
+          },
+          "date" : {
+            "borderColor" : "rgba(255,255,255,1)",
+            "textStyle" : "uppercase",
+            "textAlignment" : "NSTextAlignmentCenter",
+            "frame" : {
+              "y" : "FB~0",
+              "x" : "10",
+              "width" : "150",
+              "height" : "40"
+            },
+            "kerning" : "0",
+            "backgroundColor" : "rgba(255,255,255,0)",
+            "dataAttr" : "none",
+            "textColor" : "rgba(255,255,255,1.0)",
+            "type" : "UILabel",
+            "fontColorAttr" : "none",
+            "numberOfLines" : "1",
+            "data" : "[shortday] [paddeddate]",
+            "borderWidth" : "0",
+            "gradientImage" : "none",
+            "fontSizeAttr" : "none",
+            "fontSize" : "15",
+            "fontName" : "mikadoultra.otf",
+            "textShadow" : {
+              "y" : "3",
+              "color" : "rgba(0,0,0,0)",
+              "x" : "0",
+              "radius" : "3"
             },
             "fontNameAttr" : "none"
           }
         },
         "boxShadow" : {
           "y" : "3",
-          "radius" : "3",
+          "color" : "rgba(0,0,0,0)",
           "x" : "0",
-          "color" : "rgba(0,0,0,0)"
+          "radius" : "3"
         },
         "cornerRadius" : "5",
         "blurColor" : "dark",
