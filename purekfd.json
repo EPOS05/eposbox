@@ -3,62 +3,62 @@
     "repotype":"purekfdextended",
     "name": "EPOSbox",
     "description": "The repo made for you \ud83c\udf43",
-    "icon": "Assets/Icons/leafEPOSbox_full.jpg",
+    "icon": "jailed/assets/icons/icon_full.png",
     "accent": "#1de4bb",
     "featured": [
         {
             "name": "FontManager",
             "bundleid": "com.epos.fontmanager",
-            "banner": "Assets/Featured/FontManager_blue.png",
+            "banner": "jailed/assets/featured/FontManager_blue.png",
             "showname": false,
             "square": false
         },
         {
             "name": "SoundManager",
             "bundleid": "com.epos.soundmanager",
-            "banner": "Assets/Featured/SoundManager_blue.png",
+            "banner": "jailed/assets/featured/SoundManager_blue.png",
             "showname": false,
             "square": false
         },
         {
             "name": "QuickActionColor",
             "bundleid": "com.epos.quickactioncolor",
-            "banner": "Assets/Featured/QuickActionColor.png",
+            "banner": "jailed/assets/featured/QuickActionColor.png",
             "showname": false,
             "square": false
         },
         {
             "name": "MuteAnimation",
             "bundleid": "com.epos.muteanimation",
-            "banner": "Assets/Featured/MuteAnimation.png",
+            "banner": "jailed/assets/featured/MuteAnimation.png",
             "showname": false,
             "square": false
         },
         {
             "name": "ModernCC",
             "bundleid": "com.epos.moderncc",
-            "banner": "Assets/Featured/ModernCC.png",
+            "banner": "jailed/assets/featured/ModernCC.png",
             "showname": false,
             "square": true
         },
         {
             "name": "Tomorrow Clock Font (iOS 16)",
             "bundleid": "com.epos.tomorrowclock",
-            "banner": "Assets/Featured/TomorrowClock.png",
+            "banner": "jailed/assets/featured/TomorrowClock.png",
             "showname": false,
             "square": true
         },
         {
             "name": "Wayfinder Clock",
             "bundleid": "com.epos.wayfinderclock",
-            "banner": "Assets/Featured/WayfinderClock.png",
+            "banner": "jailed/assets/featured/WayfinderClock.png",
             "showname": false,
             "square": true
         },
         {
             "name": "Pulsar LS UI",
             "bundleid": "com.epos.pulsarlsui",
-            "banner": "Assets/Featured/PulsarLSUI.png",
+            "banner": "jailed/assets/featured/PulsarLSUI.png",
             "showname": false,
             "square": true
         }
@@ -72,13 +72,13 @@
             "version": "5.0",
             "long_description": "FontManager allows you to change your System, Clock & Emoji font to a custom one straight through purekfd!!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/FontManager/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/FontManager/FontManager5.0.purekfd",
+            "icon": "jailed/assets/tweaks/FontManager/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/FontManager/FontManager5.0.purekfd",
             "screenshots": [
-                "Assets/Tweaks/FontManager/ss_4.png",
-                "Assets/Tweaks/FontManager/ss2_3.png",
-                "Assets/Tweaks/FontManager/ss3_2.png"
+                "jailed/assets/tweaks/FontManager/ss_4.png",
+                "jailed/assets/tweaks/FontManager/ss2_3.png",
+                "jailed/assets/tweaks/FontManager/ss3_2.png"
             ]
         },
         {
@@ -89,12 +89,12 @@
             "version": "9.0",
             "long_description": "SoundManager allows you to change your system sounds with ease. With over 90 included sound options!!\n\nEven including the option to select your own custom sounds!",
             "category": "Sound",
-            "icon": "Assets/Tweaks/SoundManager/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/SoundManager/SoundManager9.0.1.purekfd",
+            "icon": "jailed/assets/tweaks/SoundManager/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/SoundManager/SoundManager9.0.1.purekfd",
             "screenshots": [
-                "Assets/Tweaks/SoundManager/ss1_3.png",
-                "Assets/Tweaks/SoundManager/ss2_3.png"
+                "jailed/assets/tweaks/SoundManager/ss1_3.png",
+                "jailed/assets/tweaks/SoundManager/ss2_3.png"
             ]
         },
         {
@@ -105,13 +105,13 @@
             "version": "1.1",
             "long_description": "SettingsManager allows you to change your settings icons to your own custom icons!!\n\nIt also give you the ability to add a custom image on the top of your settings list!\n\n(More features planned for future releases)",
             "category": "Themes",
-            "icon": "Assets/Tweaks/SettingsManager/ico.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/SettingsManager/SettingsManager1.1.1.purekfd",
+            "icon": "jailed/assets/tweaks/SettingsManager/ico.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/SettingsManager/SettingsManager1.1.1.purekfd",
             "screenshots": [
-                "Assets/Tweaks/SettingsManager/ss.png",
-                "Assets/Tweaks/SettingsManager/ss2.png",
-                "Assets/Tweaks/SettingsManager/ss3.png"
+                "jailed/assets/tweaks/SettingsManager/ss.png",
+                "jailed/assets/tweaks/SettingsManager/ss2.png",
+                "jailed/assets/tweaks/SettingsManager/ss3.png"
             ]
         },
         {
@@ -122,13 +122,13 @@
             "version": "1.5",
             "long_description": "NoVulnTools is an all in one toolbox for your devices\nIt has:\n\n\u2022 UI Animation Speed\n\u2022 Custom side button speed\n\u2022 Playing sound upon pasting things\n\u2022 Your build version in the CC or status bar\n\u2022 Haptic upon wake for iPhone\n\u2022 Better battery information\n\nAnd much more.\n\nOnce you have configured your options head to Settings \u279c General.",
             "category": "Settings",
-            "icon": "Assets/Tweaks/NoVulnTools2/ico_3.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/NoVulnTools2/NoVulnTools21.5.1.purekfd",
+            "icon": "jailed/assets/tweaks/NoVulnTools2/ico_3.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/NoVulnTools2/NoVulnTools21.5.1.purekfd",
             "screenshots": [
-                "Assets/Tweaks/NoVulnTools2/ss_3.jpg",
-                "Assets/Tweaks/NoVulnTools2/ss2_3.jpg",
-                "Assets/Tweaks/NoVulnTools2/ss3_3.jpg"
+                "jailed/assets/tweaks/NoVulnTools2/ss_3.jpg",
+                "jailed/assets/tweaks/NoVulnTools2/ss2_3.jpg",
+                "jailed/assets/tweaks/NoVulnTools2/ss3_3.jpg"
             ]
         },
         {
@@ -139,14 +139,14 @@
             "version": "1.0",
             "long_description": "Changes your lockscreen toggle color.",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/QuickActionColor/ico.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/QuickActionColor/QuickActionColor.purekfd",
+            "icon": "jailed/assets/tweaks/QuickActionColor/ico.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/QuickActionColor/QuickActionColor.purekfd",
             "screenshots": [
-                "Assets/Tweaks/QuickActionColor/ss.png",
-                "Assets/Tweaks/QuickActionColor/ss2.png",
-                "Assets/Tweaks/QuickActionColor/ss3.png",
-                "Assets/Tweaks/QuickActionColor/ss4.png"
+                "jailed/assets/tweaks/QuickActionColor/ss.png",
+                "jailed/assets/tweaks/QuickActionColor/ss2.png",
+                "jailed/assets/tweaks/QuickActionColor/ss3.png",
+                "jailed/assets/tweaks/QuickActionColor/ss4.png"
             ]
         },
         {
@@ -157,12 +157,12 @@
             "version": "1.2",
             "long_description": "AppCC Allows you to launch any application from the Control Center, It includes some preset applications or you can use a custom Bundle ID to an application currently installed on your device.",
             "category": "Control Center",
-            "icon": "Assets/Tweaks/AppCC/ico_3.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/AppCC/AppCC1.2.purekfd",
+            "icon": "jailed/assets/tweaks/AppCC/ico_3.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/AppCC/AppCC1.2.purekfd",
             "screenshots": [
-                "Assets/Tweaks/AppCC/ss.png",
-                "Assets/Tweaks/AppCC/ss2_2.png"
+                "jailed/assets/tweaks/AppCC/ss.png",
+                "jailed/assets/tweaks/AppCC/ss2_2.png"
             ]
         },
         {
@@ -173,13 +173,13 @@
             "version": "1.0",
             "long_description": "CarPlayWP gives you the ability to change your CarPlay Wallpaper to whatever you like.\n\nWith just a few clicks in the tweak settings you can enjoy your very own wallpaper!!",
             "category": "SpringBoard",
-            "icon": "Assets/Tweaks/CarPlayWP/ico.jpg",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/CarPlayWP/CarPlayWP.purekfd",
+            "icon": "jailed/assets/tweaks/CarPlayWP/ico.jpg",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/CarPlayWP/CarPlayWP.purekfd",
             "screenshots": [
-                "Assets/Tweaks/CarPlayWP/ss.png",
-                "Assets/Tweaks/CarPlayWP/ss2.png",
-                "Assets/Tweaks/CarPlayWP/ss3.png"
+                "jailed/assets/tweaks/CarPlayWP/ss.png",
+                "jailed/assets/tweaks/CarPlayWP/ss2.png",
+                "jailed/assets/tweaks/CarPlayWP/ss3.png"
             ]
         },
         {
@@ -190,13 +190,13 @@
             "version": "1.1",
             "long_description": "Changes your silent pill to a custom image or animation.",
             "category": "SpringBoard",
-            "icon": "Assets/Tweaks/MuteAnimation/ico.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/MuteAnimation/MuteAnimation1.1.purekfd",
+            "icon": "jailed/assets/tweaks/MuteAnimation/ico.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/MuteAnimation/MuteAnimation1.1.purekfd",
             "screenshots": [
-                "Assets/Tweaks/MuteAnimation/gif_2.gif",
-                "Assets/Tweaks/MuteAnimation/ss.png",
-                "Assets/Tweaks/MuteAnimation/ss2.png"
+                "jailed/assets/tweaks/MuteAnimation/gif_2.gif",
+                "jailed/assets/tweaks/MuteAnimation/ss.png",
+                "jailed/assets/tweaks/MuteAnimation/ss2.png"
             ]
         },
         {
@@ -207,12 +207,12 @@
             "version": "1.0",
             "long_description": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/LSFootnote/ico_3.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/LSFootnote/LSFootnote.purekfd",
+            "icon": "jailed/assets/tweaks/LSFootnote/ico_3.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/LSFootnote/LSFootnote.purekfd",
             "screenshots": [
-                "Assets/Tweaks/LSFootnote/ss_2.png",
-                "Assets/Tweaks/LSFootnote/ss2.png"
+                "jailed/assets/tweaks/LSFootnote/ss_2.png",
+                "jailed/assets/tweaks/LSFootnote/ss2.png"
             ]
         },
         {
@@ -223,18 +223,18 @@
             "version": "1.2",
             "long_description": "FrostedUI - Revolutionise the way you view your notifications, control center, app library, 3D touch menus, folders, widgets and even UI alerts",
             "category": "SpringBoard",
-            "icon": "Assets/Tweaks/FrostedUI/ico.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/FrostedUI/FrostedUI1.2.purekfd",
+            "icon": "jailed/assets/tweaks/FrostedUI/ico.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/FrostedUI/FrostedUI1.2.purekfd",
             "screenshots": [
-                "Assets/Tweaks/FrostedUI/ss_4.png",
-                "Assets/Tweaks/FrostedUI/ss2_4.png",
-                "Assets/Tweaks/FrostedUI/ss3_4.png",
-                "Assets/Tweaks/FrostedUI/ss4_4.png",
-                "Assets/Tweaks/FrostedUI/ss5_4.png",
-                "Assets/Tweaks/FrostedUI/ss6_4.png",
-                "Assets/Tweaks/FrostedUI/ss7_4.png",
-                "Assets/Tweaks/FrostedUI/ss8_4.png"
+                "jailed/assets/tweaks/FrostedUI/ss_4.png",
+                "jailed/assets/tweaks/FrostedUI/ss2_4.png",
+                "jailed/assets/tweaks/FrostedUI/ss3_4.png",
+                "jailed/assets/tweaks/FrostedUI/ss4_4.png",
+                "jailed/assets/tweaks/FrostedUI/ss5_4.png",
+                "jailed/assets/tweaks/FrostedUI/ss6_4.png",
+                "jailed/assets/tweaks/FrostedUI/ss7_4.png",
+                "jailed/assets/tweaks/FrostedUI/ss8_4.png"
             ]
         },
         {
@@ -245,13 +245,13 @@
             "version": "1.1",
             "long_description": "This tweak gives your Control Center a more modern look and feel!\n\nMade possible with 14DND by nbxy <3",
             "category": "Control Center",
-            "icon": "Assets/Tweaks/ModernCC/ico.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/ModernCC/ModernCC1.1.1.purekfd",
+            "icon": "jailed/assets/tweaks/ModernCC/ico.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/ModernCC/ModernCC1.1.1.purekfd",
             "screenshots": [
-                "Assets/Tweaks/ModernCC/ss.png",
-                "Assets/Tweaks/ModernCC/ss2.png",
-                "Assets/Tweaks/ModernCC/ss3.png"
+                "jailed/assets/tweaks/ModernCC/ss.png",
+                "jailed/assets/tweaks/ModernCC/ss2.png",
+                "jailed/assets/tweaks/ModernCC/ss3.png"
             ]
         },
         {
@@ -262,12 +262,12 @@
             "version": "1.0",
             "long_description": "Change your lockscreen flashlight and camera icons into Pulsar\n\nInspired by Pulsar Control Center UI made by Phuc Do",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/PulsarLSUI/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/PulsarLSUI/PulsarLSUI.purekfd",
+            "icon": "jailed/assets/tweaks/PulsarLSUI/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/PulsarLSUI/PulsarLSUI.purekfd",
             "screenshots": [
-                "Assets/Tweaks/PulsarLSUI/ss.png",
-                "Assets/Tweaks/PulsarLSUI/ss2.png"
+                "jailed/assets/tweaks/PulsarLSUI/ss.png",
+                "jailed/assets/tweaks/PulsarLSUI/ss2.png"
             ]
         },
         {
@@ -278,12 +278,12 @@
             "version": "1.4",
             "long_description": "Change your Passcode & Phone Dialer keys to this beautiful Gradient Theme designed by \u2985\u1d22\u1d07\u0280\u0275s\u026ax\u2986",
             "category": "Passcode Theme",
-            "icon": "Assets/Tweaks/GradientPassPhone/ico.jpg",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/GradientPassPhone/GradientPassPhone1.4.purekfd",
+            "icon": "jailed/assets/tweaks/GradientPassPhone/ico.jpg",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/GradientPassPhone/GradientPassPhone1.4.purekfd",
             "screenshots": [
-                "Assets/Tweaks/GradientPassPhone/ss.jpg",
-                "Assets/Tweaks/GradientPassPhone/ss2.jpg"
+                "jailed/assets/tweaks/GradientPassPhone/ss.jpg",
+                "jailed/assets/tweaks/GradientPassPhone/ss2.jpg"
             ]
         },
         {
@@ -294,12 +294,12 @@
             "version": "1.0",
             "long_description": "This tweak changes the appearance of your iOS clock icon to the Wayfinder watch face From \uf8ffWATCH",
             "category": "Clock",
-            "icon": "Assets/Tweaks/WayfinderClock/ico.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/WayfinderClock/WayfinderClock1.0.1.purekfd",
+            "icon": "jailed/assets/tweaks/WayfinderClock/ico.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/WayfinderClock/WayfinderClock1.0.1.purekfd",
             "screenshots": [
-                "Assets/Tweaks/WayfinderClock/ss.png",
-                "Assets/Tweaks/WayfinderClock/ss2.png"
+                "jailed/assets/tweaks/WayfinderClock/ss.png",
+                "jailed/assets/tweaks/WayfinderClock/ss2.png"
             ]
         },
         {
@@ -310,11 +310,11 @@
             "version": "1.0",
             "long_description": "Change your default charging sound to the Apple AirPower wireless charging sound",
             "category": "Sound",
-            "icon": "Assets/Tweaks/EngageSound/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/EngageSound/EngageSound.purekfd",
+            "icon": "jailed/assets/tweaks/EngageSound/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/EngageSound/EngageSound.purekfd",
             "screenshots": [
-                "Assets/Tweaks/EngageSound/vid.mov"
+                "jailed/assets/tweaks/EngageSound/vid.mov"
             ]
         },
         {
@@ -325,12 +325,12 @@
             "version": "1.0",
             "long_description": "Debug Stoofs allows you to enable a few debugging options.",
             "category": "Settings",
-            "icon": "Assets/Tweaks/DebugStoofs/ico.jpg",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/DebugStoofs/DebugStoofs.purekfd",
+            "icon": "jailed/assets/tweaks/DebugStoofs/ico.jpg",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/DebugStoofs/DebugStoofs.purekfd",
             "screenshots": [
-                "Assets/Tweaks/DebugStoofs/ss_2.png",
-                "Assets/Tweaks/DebugStoofs/ss2.png"
+                "jailed/assets/tweaks/DebugStoofs/ss_2.png",
+                "jailed/assets/tweaks/DebugStoofs/ss2.png"
             ]
         },
         {
@@ -341,14 +341,14 @@
             "version": "1.3",
             "long_description": "Relive the old days with Classic Settings\n\nThis theme changes your settings icons into the iOS 6 icons.",
             "category": "Themes",
-            "icon": "Assets/Tweaks/ClassicSettings/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/ClassicSettings/ClassicSettings1.3.purekfd",
+            "icon": "jailed/assets/tweaks/ClassicSettings/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/ClassicSettings/ClassicSettings1.3.purekfd",
             "screenshots": [
-                "Assets/Tweaks/ClassicSettings/ss_2.png",
-                "Assets/Tweaks/ClassicSettings/ss2_3.png",
-                "Assets/Tweaks/ClassicSettings/ss3_2.png",
-                "Assets/Tweaks/ClassicSettings/ss4_3.png"
+                "jailed/assets/tweaks/ClassicSettings/ss_2.png",
+                "jailed/assets/tweaks/ClassicSettings/ss2_3.png",
+                "jailed/assets/tweaks/ClassicSettings/ss3_2.png",
+                "jailed/assets/tweaks/ClassicSettings/ss4_3.png"
             ]
         },
         {
@@ -359,12 +359,12 @@
             "version": "1.5",
             "long_description": "FelicitySettings takes everything that is great with the default iOS icon design and pushes it further.",
             "category": "Themes",
-            "icon": "Assets/Tweaks/FelicitySettings/ico.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/FelicitySettings/FelicitySettings1.5.purekfd",
+            "icon": "jailed/assets/tweaks/FelicitySettings/ico.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/FelicitySettings/FelicitySettings1.5.purekfd",
             "screenshots": [
-                "Assets/Tweaks/FelicitySettings/ss.png",
-                "Assets/Tweaks/FelicitySettings/ss2.png"
+                "jailed/assets/tweaks/FelicitySettings/ss.png",
+                "jailed/assets/tweaks/FelicitySettings/ss2.png"
             ]
         },
         {
@@ -375,12 +375,12 @@
             "version": "1.5",
             "long_description": "Vivacity Settings takes everything that is great about default iOS design and gives it a modern and vibrant spin.",
             "category": "Themes",
-            "icon": "Assets/Tweaks/VivacitySettings/ico.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/VivacitySettings/VivacitySettings1.5.purekfd",
+            "icon": "jailed/assets/tweaks/VivacitySettings/ico.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/VivacitySettings/VivacitySettings1.5.purekfd",
             "screenshots": [
-                "Assets/Tweaks/VivacitySettings/ss.png",
-                "Assets/Tweaks/VivacitySettings/ss2.png"
+                "jailed/assets/tweaks/VivacitySettings/ss.png",
+                "jailed/assets/tweaks/VivacitySettings/ss2.png"
             ]
         },
         {
@@ -391,12 +391,12 @@
             "version": "1.5",
             "long_description": "A modern and fresh rework of bubblegum settings. Features pastel colors that work well with any setup; light or dark!\n\n(currently VPN, FaceID & Wallet icons don't theme properly, if a fix is found we will push out an update.)",
             "category": "Themes",
-            "icon": "Assets/Tweaks/DoubleBubbleSettings/ico.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/DoubleBubbleSettings/DoubleBubbleSettings1.5.purekfd",
+            "icon": "jailed/assets/tweaks/DoubleBubbleSettings/ico.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/DoubleBubbleSettings/DoubleBubbleSettings1.5.purekfd",
             "screenshots": [
-                "Assets/Tweaks/DoubleBubbleSettings/ss.png",
-                "Assets/Tweaks/DoubleBubbleSettings/ss2.png"
+                "jailed/assets/tweaks/DoubleBubbleSettings/ss.png",
+                "jailed/assets/tweaks/DoubleBubbleSettings/ss2.png"
             ]
         },
         {
@@ -407,12 +407,12 @@
             "version": "1.5",
             "long_description": "Morandi Settings gives your settings a new color and feel in the style of Morandi's paintings.",
             "category": "Themes",
-            "icon": "Assets/Tweaks/MorandiSettings/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/MorandiSettings/MorandiSettings1.5.purekfd",
+            "icon": "jailed/assets/tweaks/MorandiSettings/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/MorandiSettings/MorandiSettings1.5.purekfd",
             "screenshots": [
-                "Assets/Tweaks/MorandiSettings/ss.png",
-                "Assets/Tweaks/MorandiSettings/ss2.png"
+                "jailed/assets/tweaks/MorandiSettings/ss.png",
+                "jailed/assets/tweaks/MorandiSettings/ss2.png"
             ]
         },
         {
@@ -423,11 +423,11 @@
             "version": "1.0",
             "long_description": "Change your iOS 15 clock font to the Nothing clock font!\n\nPorted to iOS 15 by me and extracted from Nothing OS by HackZy",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/NothingClock15/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/NothingClock15/NothingClock15.purekfd",
+            "icon": "jailed/assets/tweaks/NothingClock15/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/NothingClock15/NothingClock15.purekfd",
             "screenshots": [
-                "Assets/Tweaks/NothingClock15/ss.png"
+                "jailed/assets/tweaks/NothingClock15/ss.png"
             ]
         },
         {
@@ -438,11 +438,11 @@
             "version": "1.0",
             "long_description": "Change your iOS 15 clock font to the 'Pencil' clock font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/PencilClock15/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/PencilClock15/PencilClock15.purekfd",
+            "icon": "jailed/assets/tweaks/PencilClock15/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/PencilClock15/PencilClock15.purekfd",
             "screenshots": [
-                "Assets/Tweaks/PencilClock15/ss.png"
+                "jailed/assets/tweaks/PencilClock15/ss.png"
             ]
         },
         {
@@ -453,11 +453,11 @@
             "version": "1.0",
             "long_description": "Change your iOS 15 clock font to the 'sushiki' clock font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/sushikiClock15/ico_3.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/sushikiClock15/sushikiClock15.purekfd",
+            "icon": "jailed/assets/tweaks/sushikiClock15/ico_3.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/sushikiClock15/sushikiClock15.purekfd",
             "screenshots": [
-                "Assets/Tweaks/sushikiClock15/ss.png"
+                "jailed/assets/tweaks/sushikiClock15/ss.png"
             ]
         },
         {
@@ -468,11 +468,11 @@
             "version": "1.0",
             "long_description": "Change your iOS 15 clock font to the 'Spaceship' clock font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/SpaceshipClock15/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/SpaceshipClock15/SpaceshipClock15.purekfd",
+            "icon": "jailed/assets/tweaks/SpaceshipClock15/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/SpaceshipClock15/SpaceshipClock15.purekfd",
             "screenshots": [
-                "Assets/Tweaks/SpaceshipClock15/ss.png"
+                "jailed/assets/tweaks/SpaceshipClock15/ss.png"
             ]
         },
         {
@@ -483,11 +483,11 @@
             "version": "1.0",
             "long_description": "Change your iOS 15 clock font to the 'Retake' clock font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/RetakeClock15/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/RetakeClock15/RetakeClock15.purekfd",
+            "icon": "jailed/assets/tweaks/RetakeClock15/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/RetakeClock15/RetakeClock15.purekfd",
             "screenshots": [
-                "Assets/Tweaks/RetakeClock15/ss.png"
+                "jailed/assets/tweaks/RetakeClock15/ss.png"
             ]
         },
         {
@@ -498,11 +498,11 @@
             "version": "1.0",
             "long_description": "Change your iOS 15 clock font to the 'Meloso / Kroppen FwO' clock font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/MelosoClock15/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/MelosoClock15/MelosoClock15.purekfd",
+            "icon": "jailed/assets/tweaks/MelosoClock15/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/MelosoClock15/MelosoClock15.purekfd",
             "screenshots": [
-                "Assets/Tweaks/MelosoClock15/ss.png"
+                "jailed/assets/tweaks/MelosoClock15/ss.png"
             ]
         },
         {
@@ -513,15 +513,15 @@
             "version": "1.0",
             "long_description": "A unique clock font that gives your device a fresh and modern look\n\nBorn from a collab between me and HackZy\nGoes really well with OneCC",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/TomorrowClock/ico.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/TomorrowClock/TomorrowClock.purekfd",
+            "icon": "jailed/assets/tweaks/TomorrowClock/ico.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/TomorrowClock/TomorrowClock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/TomorrowClock/ss.png",
-                "Assets/Tweaks/TomorrowClock/ss2.png",
-                "Assets/Tweaks/TomorrowClock/ss3.png",
-                "Assets/Tweaks/TomorrowClock/ss4.png",
-                "Assets/Tweaks/TomorrowClock/ss5.png"
+                "jailed/assets/tweaks/TomorrowClock/ss.png",
+                "jailed/assets/tweaks/TomorrowClock/ss2.png",
+                "jailed/assets/tweaks/TomorrowClock/ss3.png",
+                "jailed/assets/tweaks/TomorrowClock/ss4.png",
+                "jailed/assets/tweaks/TomorrowClock/ss5.png"
             ]
         },
         {
@@ -532,12 +532,12 @@
             "version": "1.1",
             "long_description": "Change your iOS 16 clock font to the 'Paint' clock font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/PaintClock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/PaintClock/PaintClock1.1.purekfd",
+            "icon": "jailed/assets/tweaks/PaintClock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/PaintClock/PaintClock1.1.purekfd",
             "screenshots": [
-                "Assets/Tweaks/PaintClock/ss.png",
-                "Assets/Tweaks/PaintClock/ss2.png"
+                "jailed/assets/tweaks/PaintClock/ss.png",
+                "jailed/assets/tweaks/PaintClock/ss2.png"
             ]
         },
         {
@@ -548,11 +548,11 @@
             "version": "1.0",
             "long_description": "Change your iOS 16 clock font to the 'Meloso' clock font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/MelosoClock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/MelosoClock/MelosoClock.purekfd",
+            "icon": "jailed/assets/tweaks/MelosoClock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/MelosoClock/MelosoClock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/MelosoClock/ss.png"
+                "jailed/assets/tweaks/MelosoClock/ss.png"
             ]
         },
         {
@@ -563,11 +563,11 @@
             "version": "1.0",
             "long_description": "Change your iOS 16 clock font to the 'Exciter' clock font!\n\nCopyright owned by \ud83c\uddfb\ud83c\uddf3 Scarlet Tips \ud83c\uddfb\ud83c\uddf3",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/ExciterClock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/ExciterClock/ExciterClock.purekfd",
+            "icon": "jailed/assets/tweaks/ExciterClock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/ExciterClock/ExciterClock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/ExciterClock/ss.png"
+                "jailed/assets/tweaks/ExciterClock/ss.png"
             ]
         },
         {
@@ -578,11 +578,11 @@
             "version": "1.0",
             "long_description": "Change your iOS 16 clock font to the 'Compile' clock font!\n\nCopyright owned by \ud83c\uddfb\ud83c\uddf3 Scarlet Tips \ud83c\uddfb\ud83c\uddf3",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/CompileClock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/CompileClock/CompileClock.purekfd",
+            "icon": "jailed/assets/tweaks/CompileClock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/CompileClock/CompileClock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/CompileClock/ss.png"
+                "jailed/assets/tweaks/CompileClock/ss.png"
             ]
         },
         {
@@ -593,11 +593,11 @@
             "version": "1.0",
             "long_description": "Change your iOS 16 clock font to the 'Stencil' clock font!\n\nCopyright owned by \ud83c\uddfb\ud83c\uddf3 Scarlet Tips \ud83c\uddfb\ud83c\uddf3",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/StencilClock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/StencilClock/StencilClock.purekfd",
+            "icon": "jailed/assets/tweaks/StencilClock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/StencilClock/StencilClock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/StencilClock/ss.png"
+                "jailed/assets/tweaks/StencilClock/ss.png"
             ]
         },
         {
@@ -608,11 +608,11 @@
             "version": "1.0",
             "long_description": "Change your iOS 16 clock font to the 'EULA' clock font!\n\nCopyright owned by \ud83c\uddfb\ud83c\uddf3 Scarlet Tips \ud83c\uddfb\ud83c\uddf3",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/EULAClock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/EULAClock/EULAClock.purekfd",
+            "icon": "jailed/assets/tweaks/EULAClock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/EULAClock/EULAClock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/EULAClock/ss.png"
+                "jailed/assets/tweaks/EULAClock/ss.png"
             ]
         },
         {
@@ -623,11 +623,11 @@
             "version": "1.0",
             "long_description": "Change your iOS 16 clock font to the 'AuLac' clock font!\n\nCopyright owned by \ud83c\uddfb\ud83c\uddf3 Scarlet Tips \ud83c\uddfb\ud83c\uddf3",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/AuLacClock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/AuLacClock/AuLacClock.purekfd",
+            "icon": "jailed/assets/tweaks/AuLacClock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/AuLacClock/AuLacClock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/AuLacClock/ss.png"
+                "jailed/assets/tweaks/AuLacClock/ss.png"
             ]
         },
         {
@@ -638,12 +638,12 @@
             "version": "1.0",
             "long_description": "Change your font to the 'NothingOS' font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/NothingOSFont/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/NothingOSFont/NothingOSFont.purekfd",
+            "icon": "jailed/assets/tweaks/NothingOSFont/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/NothingOSFont/NothingOSFont.purekfd",
             "screenshots": [
-                "Assets/Tweaks/NothingOSFont/ss.png",
-                "Assets/Tweaks/NothingOSFont/ss2.png"
+                "jailed/assets/tweaks/NothingOSFont/ss.png",
+                "jailed/assets/tweaks/NothingOSFont/ss2.png"
             ]
         },
         {
@@ -654,13 +654,13 @@
             "version": "1.1",
             "long_description": "Change your font to the 'Minecraft' font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/MinecraftFont/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/MinecraftFont/MinecraftFont1.1.purekfd",
+            "icon": "jailed/assets/tweaks/MinecraftFont/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/MinecraftFont/MinecraftFont1.1.purekfd",
             "screenshots": [
-                "Assets/Tweaks/MinecraftFont/ss_2.png",
-                "Assets/Tweaks/MinecraftFont/ss2.png",
-                "Assets/Tweaks/MinecraftFont/ss3.png"
+                "jailed/assets/tweaks/MinecraftFont/ss_2.png",
+                "jailed/assets/tweaks/MinecraftFont/ss2.png",
+                "jailed/assets/tweaks/MinecraftFont/ss3.png"
             ]
         },
         {
@@ -671,12 +671,12 @@
             "version": "1.0",
             "long_description": "Change your font to the 'Bronkoh' font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/BronkohFont/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/BronkohFont/BronkohFont.purekfd",
+            "icon": "jailed/assets/tweaks/BronkohFont/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/BronkohFont/BronkohFont.purekfd",
             "screenshots": [
-                "Assets/Tweaks/BronkohFont/ss.png",
-                "Assets/Tweaks/BronkohFont/ss2.png"
+                "jailed/assets/tweaks/BronkohFont/ss.png",
+                "jailed/assets/tweaks/BronkohFont/ss2.png"
             ]
         },
         {
@@ -687,12 +687,12 @@
             "version": "1.0",
             "long_description": "Change your font to the 'Quicksand 100%' font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/QuicksandFont/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/QuicksandFont/QuicksandFont.purekfd",
+            "icon": "jailed/assets/tweaks/QuicksandFont/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/QuicksandFont/QuicksandFont.purekfd",
             "screenshots": [
-                "Assets/Tweaks/QuicksandFont/ss.png",
-                "Assets/Tweaks/QuicksandFont/ss2.png"
+                "jailed/assets/tweaks/QuicksandFont/ss.png",
+                "jailed/assets/tweaks/QuicksandFont/ss2.png"
             ]
         },
         {
@@ -703,12 +703,12 @@
             "version": "1.0",
             "long_description": "Change your font to the 'Quicksand 85%' font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/QuicksandFont85/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/QuicksandFont85/QuicksandFont85.purekfd",
+            "icon": "jailed/assets/tweaks/QuicksandFont85/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/QuicksandFont85/QuicksandFont85.purekfd",
             "screenshots": [
-                "Assets/Tweaks/QuicksandFont85/ss.png",
-                "Assets/Tweaks/QuicksandFont85/ss2.png"
+                "jailed/assets/tweaks/QuicksandFont85/ss.png",
+                "jailed/assets/tweaks/QuicksandFont85/ss2.png"
             ]
         },
         {
@@ -719,12 +719,12 @@
             "version": "1.0",
             "long_description": "Change your font to the 'Shoot a Star' font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/ShootaStarFont/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/ShootaStarFont/ShootaStarFont.purekfd",
+            "icon": "jailed/assets/tweaks/ShootaStarFont/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/ShootaStarFont/ShootaStarFont.purekfd",
             "screenshots": [
-                "Assets/Tweaks/ShootaStarFont/ss.png",
-                "Assets/Tweaks/ShootaStarFont/ss2.png"
+                "jailed/assets/tweaks/ShootaStarFont/ss.png",
+                "jailed/assets/tweaks/ShootaStarFont/ss2.png"
             ]
         },
         {
@@ -735,12 +735,12 @@
             "version": "1.0",
             "long_description": "Change your font to the 'Comic Relief' font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/ComicReliefFont/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/ComicReliefFont/ComicReliefFont.purekfd",
+            "icon": "jailed/assets/tweaks/ComicReliefFont/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/ComicReliefFont/ComicReliefFont.purekfd",
             "screenshots": [
-                "Assets/Tweaks/ComicReliefFont/ss.png",
-                "Assets/Tweaks/ComicReliefFont/ss2.png"
+                "jailed/assets/tweaks/ComicReliefFont/ss.png",
+                "jailed/assets/tweaks/ComicReliefFont/ss2.png"
             ]
         },
         {
@@ -751,12 +751,12 @@
             "version": "1.0",
             "long_description": "Change your font to the 'Sica' font!",
             "category": "Fonts",
-            "icon": "Assets/Tweaks/SicaFont/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/SicaFont/SicaFont.purekfd",
+            "icon": "jailed/assets/tweaks/SicaFont/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/SicaFont/SicaFont.purekfd",
             "screenshots": [
-                "Assets/Tweaks/SicaFont/ss.png",
-                "Assets/Tweaks/SicaFont/ss2.png"
+                "jailed/assets/tweaks/SicaFont/ss.png",
+                "jailed/assets/tweaks/SicaFont/ss2.png"
             ]
         },
         {
@@ -767,11 +767,11 @@
             "version": "15.0",
             "long_description": "Change your emoji font to the '3D Fluent Emojis' font!",
             "category": "Emoji",
-            "icon": "Assets/Tweaks/3DFluentEmojis/ico.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/3DFluentEmojis/3DFluentEmojis15.purekfd",
+            "icon": "jailed/assets/tweaks/3DFluentEmojis/ico.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/3DFluentEmojis/3DFluentEmojis15.purekfd",
             "screenshots": [
-                "Assets/Tweaks/3DFluentEmojis/ss.png"
+                "jailed/assets/tweaks/3DFluentEmojis/ss.png"
             ]
         },
         {
@@ -782,13 +782,13 @@
             "version": "1.1",
             "long_description": "Changes your lock into the 14 Pro series lock glyph\nAlso has a better animation!!",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/14ProLock/ico.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/14ProLock/14ProLock1.1.purekfd",
+            "icon": "jailed/assets/tweaks/14ProLock/ico.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/14ProLock/14ProLock1.1.purekfd",
             "screenshots": [
-                "Assets/Tweaks/14ProLock/gif.gif",
-                "Assets/Tweaks/14ProLock/ss.png",
-                "Assets/Tweaks/14ProLock/ss2.png"
+                "jailed/assets/tweaks/14ProLock/gif.gif",
+                "jailed/assets/tweaks/14ProLock/ss.png",
+                "jailed/assets/tweaks/14ProLock/ss2.png"
             ]
         },
         {
@@ -799,11 +799,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into one avaiable only on Android devices!!",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/AndroidLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/AndroidLock/AndroidLock.purekfd",
+            "icon": "jailed/assets/tweaks/AndroidLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/AndroidLock/AndroidLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/AndroidLock/gif.gif"
+                "jailed/assets/tweaks/AndroidLock/gif.gif"
             ]
         },
         {
@@ -814,12 +814,12 @@
             "version": "1.0",
             "long_description": "Changes your lock into a Trollface\n\nOriginally released by haxi0 for Cowabunga",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/TrollfaceLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/TrollfaceLock/TrollfaceLock.purekfd",
+            "icon": "jailed/assets/tweaks/TrollfaceLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/TrollfaceLock/TrollfaceLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/TrollfaceLock/ss0.png",
-                "Assets/Tweaks/TrollfaceLock/ss1.png"
+                "jailed/assets/tweaks/TrollfaceLock/ss0.png",
+                "jailed/assets/tweaks/TrollfaceLock/ss1.png"
             ]
         },
         {
@@ -830,11 +830,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into the disintegrating emoji",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/DisintegratingEmojiLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/DisintegratingEmojiLock/DisintegratingEmojiLock.purekfd",
+            "icon": "jailed/assets/tweaks/DisintegratingEmojiLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/DisintegratingEmojiLock/DisintegratingEmojiLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/DisintegratingEmojiLock/gif.gif"
+                "jailed/assets/tweaks/DisintegratingEmojiLock/gif.gif"
             ]
         },
         {
@@ -845,11 +845,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into Mario \u270c\ufe0f",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/MarioLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/MarioLock/MarioLock.purekfd",
+            "icon": "jailed/assets/tweaks/MarioLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/MarioLock/MarioLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/MarioLock/gif.gif"
+                "jailed/assets/tweaks/MarioLock/gif.gif"
             ]
         },
         {
@@ -860,11 +860,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Bomber Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/BomberLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/BomberLock/BomberLock.purekfd",
+            "icon": "jailed/assets/tweaks/BomberLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/BomberLock/BomberLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/BomberLock/gif.gif"
+                "jailed/assets/tweaks/BomberLock/gif.gif"
             ]
         },
         {
@@ -875,11 +875,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Boom Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/BoomLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/BoomLock/BoomLock.purekfd",
+            "icon": "jailed/assets/tweaks/BoomLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/BoomLock/BoomLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/BoomLock/gif.gif"
+                "jailed/assets/tweaks/BoomLock/gif.gif"
             ]
         },
         {
@@ -890,11 +890,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Gastly Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/GastlyLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/GastlyLock/GastlyLock.purekfd",
+            "icon": "jailed/assets/tweaks/GastlyLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/GastlyLock/GastlyLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/GastlyLock/gif_2.gif"
+                "jailed/assets/tweaks/GastlyLock/gif_2.gif"
             ]
         },
         {
@@ -905,11 +905,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Glitched Skull Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/GlitchedSkullLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/GlitchedSkullLock/GlitchedSkullLock.purekfd",
+            "icon": "jailed/assets/tweaks/GlitchedSkullLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/GlitchedSkullLock/GlitchedSkullLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/GlitchedSkullLock/gif_2.gif"
+                "jailed/assets/tweaks/GlitchedSkullLock/gif_2.gif"
             ]
         },
         {
@@ -920,11 +920,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Greenpois0n Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/GreenpoisonLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/GreenpoisonLock/GreenpoisonLock.purekfd",
+            "icon": "jailed/assets/tweaks/GreenpoisonLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/GreenpoisonLock/GreenpoisonLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/GreenpoisonLock/gif.gif"
+                "jailed/assets/tweaks/GreenpoisonLock/gif.gif"
             ]
         },
         {
@@ -935,11 +935,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Hello Kitty Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/HelloKittyLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/HelloKittyLock/HelloKittyLock.purekfd",
+            "icon": "jailed/assets/tweaks/HelloKittyLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/HelloKittyLock/HelloKittyLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/HelloKittyLock/gif.gif"
+                "jailed/assets/tweaks/HelloKittyLock/gif.gif"
             ]
         },
         {
@@ -950,11 +950,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Majora's Mask Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/MajorasMaskLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/MajorasMaskLock/MajorasMaskLock.purekfd",
+            "icon": "jailed/assets/tweaks/MajorasMaskLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/MajorasMaskLock/MajorasMaskLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/MajorasMaskLock/gif.gif"
+                "jailed/assets/tweaks/MajorasMaskLock/gif.gif"
             ]
         },
         {
@@ -965,11 +965,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Nasa Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/NasaLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/NasaLock/NasaLock.purekfd",
+            "icon": "jailed/assets/tweaks/NasaLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/NasaLock/NasaLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/NasaLock/gif.gif"
+                "jailed/assets/tweaks/NasaLock/gif.gif"
             ]
         },
         {
@@ -980,11 +980,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Pink Circle Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/PinkCircleLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/PinkCircleLock/PinkCircleLock.purekfd",
+            "icon": "jailed/assets/tweaks/PinkCircleLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/PinkCircleLock/PinkCircleLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/PinkCircleLock/gif.gif"
+                "jailed/assets/tweaks/PinkCircleLock/gif.gif"
             ]
         },
         {
@@ -995,11 +995,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Rainbow Star Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/RainbowStarLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/RainbowStarLock/RainbowStarLock.purekfd",
+            "icon": "jailed/assets/tweaks/RainbowStarLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/RainbowStarLock/RainbowStarLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/RainbowStarLock/gif.gif"
+                "jailed/assets/tweaks/RainbowStarLock/gif.gif"
             ]
         },
         {
@@ -1010,11 +1010,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Street Fighter Lock - Blanca'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/StreetFighterBlancaLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/StreetFighterBlancaLock/StreetFighterBlancaLock.purekfd",
+            "icon": "jailed/assets/tweaks/StreetFighterBlancaLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/StreetFighterBlancaLock/StreetFighterBlancaLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/StreetFighterBlancaLock/gif.gif"
+                "jailed/assets/tweaks/StreetFighterBlancaLock/gif.gif"
             ]
         },
         {
@@ -1025,11 +1025,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Street Fighter Lock - Dhalsim'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/StreetFighterDhalsimLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/StreetFighterDhalsimLock/StreetFighterDhalsimLock.purekfd",
+            "icon": "jailed/assets/tweaks/StreetFighterDhalsimLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/StreetFighterDhalsimLock/StreetFighterDhalsimLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/StreetFighterDhalsimLock/gif.gif"
+                "jailed/assets/tweaks/StreetFighterDhalsimLock/gif.gif"
             ]
         },
         {
@@ -1040,11 +1040,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Street Fighter Lock - Ken'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/StreetFighterKenLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/StreetFighterKenLock/StreetFighterKenLock.purekfd",
+            "icon": "jailed/assets/tweaks/StreetFighterKenLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/StreetFighterKenLock/StreetFighterKenLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/StreetFighterKenLock/gif.gif"
+                "jailed/assets/tweaks/StreetFighterKenLock/gif.gif"
             ]
         },
         {
@@ -1055,11 +1055,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Street Fighter Lock - Ryu'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/StreetFighterRyuLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/StreetFighterRyuLock/StreetFighterRyuLock.purekfd",
+            "icon": "jailed/assets/tweaks/StreetFighterRyuLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/StreetFighterRyuLock/StreetFighterRyuLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/StreetFighterRyuLock/gif.gif"
+                "jailed/assets/tweaks/StreetFighterRyuLock/gif.gif"
             ]
         },
         {
@@ -1070,11 +1070,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Tails Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/TailsLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/TailsLock/TailsLock.purekfd",
+            "icon": "jailed/assets/tweaks/TailsLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/TailsLock/TailsLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/TailsLock/gif.gif"
+                "jailed/assets/tweaks/TailsLock/gif.gif"
             ]
         },
         {
@@ -1085,11 +1085,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Toad Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/ToadLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/ToadLock/ToadLock.purekfd",
+            "icon": "jailed/assets/tweaks/ToadLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/ToadLock/ToadLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/ToadLock/gif_2.gif"
+                "jailed/assets/tweaks/ToadLock/gif_2.gif"
             ]
         },
         {
@@ -1100,11 +1100,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Togepi Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/TogepiLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/TogepiLock/TogepiLock.purekfd",
+            "icon": "jailed/assets/tweaks/TogepiLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/TogepiLock/TogepiLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/TogepiLock/gif_2.gif"
+                "jailed/assets/tweaks/TogepiLock/gif_2.gif"
             ]
         },
         {
@@ -1115,11 +1115,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'UFO Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/UFOLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/UFOLock/UFOLock.purekfd",
+            "icon": "jailed/assets/tweaks/UFOLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/UFOLock/UFOLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/UFOLock/gif.gif"
+                "jailed/assets/tweaks/UFOLock/gif.gif"
             ]
         },
         {
@@ -1130,11 +1130,11 @@
             "version": "1.0",
             "long_description": "Changes your lock into 'Zombies Ate My Lock'\n\nDesigned by @The_Nobl3_Guy",
             "category": "Lock Screen",
-            "icon": "Assets/Tweaks/ZombiesAteMyLock/ico_2.png",
-            "banner": "Assets/Icons/EPOSbox_header.gif",
-            "path": "Tweaks_PureKFD/ZombiesAteMyLock/ZombiesAteMyLock.purekfd",
+            "icon": "jailed/assets/tweaks/ZombiesAteMyLock/ico_2.png",
+            "banner": "jailed/assets/icons/header.gif",
+            "path": "jailed/tweaks_purekfd/ZombiesAteMyLock/ZombiesAteMyLock.purekfd",
             "screenshots": [
-                "Assets/Tweaks/ZombiesAteMyLock/gif.gif"
+                "jailed/assets/tweaks/ZombiesAteMyLock/gif.gif"
             ]
         }
     ]
