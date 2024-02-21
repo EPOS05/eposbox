@@ -2,10 +2,10 @@
     "RepositoryName": "EPOSbox",
     "RepositoryDescription": "The repo made for you 🍃",
     "RepositoryAuthor": "EPOS",
-    "RepositoryIcon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/icons/icon_full.png",
+    "RepositoryIcon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/assets/icon_full.png",
     "RepositoryWebsite": "https://github.com/EPOS05/EPOSbox",
     "Default": {
-        "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/icons/header.gif",
+        "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/assets/header.gif",
         "ViewCount": true
     },
     "RepositoryContents": [
@@ -23,13 +23,13 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FontManager/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FontManager/ico_2.png",
             "Category": "Fonts",
             "Caption": "FontManager allows you to change your System, Clock & Emoji font to a custom one straight through misaka!!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FontManager/ss_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FontManager/ss2_3.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FontManager/ss3_2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FontManager/ss_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FontManager/ss2_3.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FontManager/ss3_2.png"
             ],
             "Releases": [
                 {
@@ -74,13 +74,13 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/SoundManager/ico_2.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/SoundManager/headerrepo_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/SoundManager/ico_2.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/SoundManager/headerrepo_2.png",
             "Category": "Sound",
             "Caption": "SoundManager allows you to change your system sounds with ease. With over 90 included sound options!!\n\nEven including the option to select your own custom sounds!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/SoundManager/ss1_3.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/SoundManager/ss2_3.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/SoundManager/ss1_3.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/SoundManager/ss2_3.png"
             ],
             "Releases": [
                 {
@@ -155,13 +155,13 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/SettingsManager/ico.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/SettingsManager/ico.png",
             "Category": "Themes",
             "Caption": "SettingsManager allows you to change your settings icons to your own custom icons!!\n\nIt also give you the ability to add a custom image on the top of your settings list!\n\n(More features planned for future releases)",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/SettingsManager/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/SettingsManager/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/SettingsManager/ss3.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/SettingsManager/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/SettingsManager/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/SettingsManager/ss3.png"
             ],
             "Releases": [
                 {
@@ -196,14 +196,14 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/NoVulnTools2/ico_3.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/NoVulnTools2/headerrepo_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/NoVulnTools2/ico_3.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/NoVulnTools2/headerrepo_2.png",
             "Category": "Settings",
             "Caption": "NoVulnTools is an all in one toolbox for your devices\nIt has:\n\n• UI Animation Speed\n• Custom side button speed\n• Playing sound upon pasting things\n• Your build version in the CC or status bar\n• Haptic upon wake for iPhone\n• Better battery information\n\nAnd much more.\n\nOnce you have configured your options head to Settings ➜ General.",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/NoVulnTools2/ss_3.jpg",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/NoVulnTools2/ss2_3.jpg",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/NoVulnTools2/ss3_3.jpg"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/NoVulnTools2/ss_3.jpg",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/NoVulnTools2/ss2_3.jpg",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/NoVulnTools2/ss3_3.jpg"
             ],
             "Releases": [
                 {
@@ -262,18 +262,18 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ColorBoard/ico_2.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ColorBoard/headerrepo_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ColorBoard/ico_2.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ColorBoard/headerrepo_2.png",
             "Category": "SpringBoard",
             "Caption": "The all-in-one tweak to bring color to your device, Changing 3D touch/menu colors, Dock colors, Notification colors, Folder colors & Control Center modules, background colors & App Library Colors & so much more.",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ColorBoard/ss1.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ColorBoard/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ColorBoard/ss3.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ColorBoard/ss4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ColorBoard/ss5.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ColorBoard/ss6.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ColorBoard/ss7.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ColorBoard/ss1.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ColorBoard/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ColorBoard/ss3.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ColorBoard/ss4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ColorBoard/ss5.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ColorBoard/ss6.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ColorBoard/ss7.png"
             ],
             "Releases": [
                 {
@@ -323,15 +323,15 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/QuickActionColor/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/QuickActionColor/headerrepo.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/QuickActionColor/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/QuickActionColor/headerrepo.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lockscreen toggle color.",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/QuickActionColor/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/QuickActionColor/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/QuickActionColor/ss3.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/QuickActionColor/ss4.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/QuickActionColor/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/QuickActionColor/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/QuickActionColor/ss3.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/QuickActionColor/ss4.png"
             ],
             "Releases": [
                 {
@@ -356,13 +356,13 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/AppCC/ico_3.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/AppCC/headerrepo.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/AppCC/ico_3.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/AppCC/headerrepo.png",
             "Category": "Control Center",
             "Caption": "AppCC Allows you to launch any application from the Control Center, It includes some preset applications or you can use a custom Bundle ID to an application currently installed on your device.",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/AppCC/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/AppCC/ss2_2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/AppCC/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/AppCC/ss2_2.png"
             ],
             "Releases": [
                 {
@@ -397,13 +397,13 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/CarPlayWP/ico.jpg",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/CarPlayWP/ico.jpg",
             "Category": "SpringBoard",
             "Caption": "CarPlayWP gives you the ability to change your CarPlay Wallpaper to whatever you like.\n\nWith just a few clicks in the tweak settings you can enjoy your very own wallpaper!!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/CarPlayWP/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/CarPlayWP/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/CarPlayWP/ss3.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/CarPlayWP/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/CarPlayWP/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/CarPlayWP/ss3.png"
             ],
             "Releases": [
                 {
@@ -432,14 +432,14 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MuteAnimation/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MuteAnimation/headerrepo.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MuteAnimation/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MuteAnimation/headerrepo.png",
             "Category": "SpringBoard",
             "Caption": "Changes your silent pill to a custom image or animation.",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MuteAnimation/gif_2.gif",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MuteAnimation/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MuteAnimation/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MuteAnimation/gif_2.gif",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MuteAnimation/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MuteAnimation/ss2.png"
             ],
             "Releases": [
                 {
@@ -469,13 +469,13 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/LSFootnote/ico_3.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/LSFootnote/headerrepo.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/LSFootnote/ico_3.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/LSFootnote/headerrepo.png",
             "Category": "Lock Screen",
             "Caption": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/LSFootnote/ss_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/LSFootnote/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/LSFootnote/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/LSFootnote/ss2.png"
             ],
             "Releases": [
                 {
@@ -500,19 +500,19 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FrostedUI/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FrostedUI/headerrepo.gif",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FrostedUI/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FrostedUI/headerrepo.gif",
             "Category": "SpringBoard",
             "Caption": "FrostedUI - Revolutionise the way you view your notifications, control center, app library, 3D touch menus, folders, widgets and even UI alerts",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FrostedUI/ss_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FrostedUI/ss2_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FrostedUI/ss3_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FrostedUI/ss4_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FrostedUI/ss5_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FrostedUI/ss6_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FrostedUI/ss7_4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FrostedUI/ss8_4.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FrostedUI/ss_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FrostedUI/ss2_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FrostedUI/ss3_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FrostedUI/ss4_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FrostedUI/ss5_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FrostedUI/ss6_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FrostedUI/ss7_4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FrostedUI/ss8_4.png"
             ],
             "Releases": [
                 {
@@ -547,13 +547,13 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ModernCC/ico.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ModernCC/ico.png",
             "Category": "Control Center",
             "Caption": "This tweak gives your Control Center a more modern look and feel!\n\nMade possible with 14DND by nbxy <3",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ModernCC/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ModernCC/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ModernCC/ss3.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ModernCC/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ModernCC/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ModernCC/ss3.png"
             ],
             "Releases": [
                 {
@@ -588,12 +588,12 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/PulsarLSUI/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/PulsarLSUI/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Change your lockscreen flashlight and camera icons into Pulsar\n\nInspired by Pulsar Control Center UI made by Phuc Do",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/PulsarLSUI/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/PulsarLSUI/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/PulsarLSUI/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/PulsarLSUI/ss2.png"
             ],
             "Releases": [
                 {
@@ -622,12 +622,12 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/GradientPassPhone/ico.jpg",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/GradientPassPhone/ico.jpg",
             "Category": "Passcode Theme",
             "Caption": "Change your Passcode & Phone Dialer keys to this beautiful Gradient Theme designed by ⦅ᴢᴇʀɵsɪx⦆",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/GradientPassPhone/ss.jpg",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/GradientPassPhone/ss2.jpg"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/GradientPassPhone/ss.jpg",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/GradientPassPhone/ss2.jpg"
             ],
             "Releases": [
                 {
@@ -672,12 +672,12 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/WayfinderClock/ico.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/WayfinderClock/ico.png",
             "Category": "Clock",
             "Caption": "This tweak changes the appearance of your iOS clock icon to the Wayfinder watch face From WATCH",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/WayfinderClock/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/WayfinderClock/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/WayfinderClock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/WayfinderClock/ss2.png"
             ],
             "Releases": [
                 {
@@ -707,11 +707,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/EngageSound/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/EngageSound/ico_2.png",
             "Category": "Sound",
             "Caption": "Change your default charging sound to the Apple AirPower wireless charging sound",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/EngageSound/vid.mov"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/EngageSound/vid.mov"
             ],
             "Releases": [
                 {
@@ -736,12 +736,12 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/DebugStoofs/ico.jpg",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/DebugStoofs/ico.jpg",
             "Category": "Settings",
             "Caption": "Debug Stoofs allows you to enable a few debugging options.",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/DebugStoofs/ss_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/DebugStoofs/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/DebugStoofs/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/DebugStoofs/ss2.png"
             ],
             "Releases": [
                 {
@@ -766,14 +766,14 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ClassicSettings/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ClassicSettings/ico_2.png",
             "Category": "Themes",
             "Caption": "Relive the old days with Classic Settings\n\nThis theme changes your settings icons into the iOS 6 icons.",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ClassicSettings/ss_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ClassicSettings/ss2_3.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ClassicSettings/ss3_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ClassicSettings/ss4_3.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ClassicSettings/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ClassicSettings/ss2_3.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ClassicSettings/ss3_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ClassicSettings/ss4_3.png"
             ],
             "Releases": [
                 {
@@ -817,13 +817,13 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FelicitySettings/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FelicitySettings/headerrepo_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FelicitySettings/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FelicitySettings/headerrepo_2.png",
             "Category": "Themes",
             "Caption": "FelicitySettings takes everything that is great with the default iOS icon design and pushes it further.",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FelicitySettings/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/FelicitySettings/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FelicitySettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/FelicitySettings/ss2.png"
             ],
             "Releases": [
                 {
@@ -877,13 +877,13 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/VivacitySettings/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/VivacitySettings/headerrepo.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/VivacitySettings/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/VivacitySettings/headerrepo.png",
             "Category": "Themes",
             "Caption": "Vivacity Settings takes everything that is great about default iOS design and gives it a modern and vibrant spin.",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/VivacitySettings/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/VivacitySettings/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/VivacitySettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/VivacitySettings/ss2.png"
             ],
             "Releases": [
                 {
@@ -937,13 +937,13 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/DoubleBubbleSettings/ico.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/DoubleBubbleSettings/headerrepo.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/DoubleBubbleSettings/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/DoubleBubbleSettings/headerrepo.png",
             "Category": "Themes",
             "Caption": "A modern and fresh rework of bubblegum settings. Features pastel colors that work well with any setup; light or dark!\n\n(currently VPN, FaceID & Wallet icons don't theme properly, if a fix is found we will push out an update.)",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/DoubleBubbleSettings/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/DoubleBubbleSettings/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/DoubleBubbleSettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/DoubleBubbleSettings/ss2.png"
             ],
             "Releases": [
                 {
@@ -997,13 +997,13 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MorandiSettings/ico_2.png",
-            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MorandiSettings/headerrepo_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MorandiSettings/ico_2.png",
+            "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MorandiSettings/headerrepo_2.png",
             "Category": "Themes",
             "Caption": "Morandi Settings gives your settings a new color and feel in the style of Morandi's paintings.",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MorandiSettings/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MorandiSettings/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MorandiSettings/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MorandiSettings/ss2.png"
             ],
             "Releases": [
                 {
@@ -1057,11 +1057,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/NothingClock15/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/NothingClock15/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your iOS 15 clock font to the Nothing clock font!\n\nPorted to iOS 15 by me and extracted from Nothing OS by HackZy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/NothingClock15/ss.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/NothingClock15/ss.png"
             ],
             "Releases": [
                 {
@@ -1086,11 +1086,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/PencilClock15/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/PencilClock15/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your iOS 15 clock font to the 'Pencil' clock font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/PencilClock15/ss.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/PencilClock15/ss.png"
             ],
             "Releases": [
                 {
@@ -1115,11 +1115,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/sushikiClock15/ico_3.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/sushikiClock15/ico_3.png",
             "Category": "Fonts",
             "Caption": "Change your iOS 15 clock font to the 'sushiki' clock font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/sushikiClock15/ss.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/sushikiClock15/ss.png"
             ],
             "Releases": [
                 {
@@ -1144,11 +1144,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/SpaceshipClock15/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/SpaceshipClock15/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your iOS 15 clock font to the 'Spaceship' clock font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/SpaceshipClock15/ss.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/SpaceshipClock15/ss.png"
             ],
             "Releases": [
                 {
@@ -1173,11 +1173,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/RetakeClock15/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/RetakeClock15/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your iOS 15 clock font to the 'Retake' clock font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/RetakeClock15/ss.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/RetakeClock15/ss.png"
             ],
             "Releases": [
                 {
@@ -1206,11 +1206,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MelosoClock15/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MelosoClock15/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your iOS 15 clock font to the 'Meloso / Kroppen FwO' clock font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MelosoClock15/ss.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MelosoClock15/ss.png"
             ],
             "Releases": [
                 {
@@ -1239,15 +1239,15 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/TomorrowClock/ico.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/TomorrowClock/ico.png",
             "Category": "Fonts",
             "Caption": "A unique clock font that gives your device a fresh and modern look\n\nBorn from a collab between me and HackZy\nGoes really well with OneCC",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/TomorrowClock/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/TomorrowClock/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/TomorrowClock/ss3.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/TomorrowClock/ss4.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/TomorrowClock/ss5.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/TomorrowClock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/TomorrowClock/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/TomorrowClock/ss3.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/TomorrowClock/ss4.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/TomorrowClock/ss5.png"
             ],
             "Releases": [
                 {
@@ -1272,12 +1272,12 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/PaintClock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/PaintClock/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your iOS 16 clock font to the 'Paint' clock font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/PaintClock/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/PaintClock/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/PaintClock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/PaintClock/ss2.png"
             ],
             "Releases": [
                 {
@@ -1311,11 +1311,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MelosoClock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MelosoClock/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your iOS 16 clock font to the 'Meloso' clock font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MelosoClock/ss.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MelosoClock/ss.png"
             ],
             "Releases": [
                 {
@@ -1344,11 +1344,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ExciterClock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ExciterClock/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your iOS 16 clock font to the 'Exciter' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ExciterClock/ss.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ExciterClock/ss.png"
             ],
             "Releases": [
                 {
@@ -1377,11 +1377,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/CompileClock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/CompileClock/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your iOS 16 clock font to the 'Compile' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/CompileClock/ss.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/CompileClock/ss.png"
             ],
             "Releases": [
                 {
@@ -1410,11 +1410,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/StencilClock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/StencilClock/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your iOS 16 clock font to the 'Stencil' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/StencilClock/ss.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/StencilClock/ss.png"
             ],
             "Releases": [
                 {
@@ -1443,11 +1443,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/EULAClock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/EULAClock/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your iOS 16 clock font to the 'EULA' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/EULAClock/ss.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/EULAClock/ss.png"
             ],
             "Releases": [
                 {
@@ -1476,11 +1476,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/AuLacClock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/AuLacClock/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your iOS 16 clock font to the 'AuLac' clock font!\n\nCopyright owned by 🇻🇳 Scarlet Tips 🇻🇳",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/AuLacClock/ss.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/AuLacClock/ss.png"
             ],
             "Releases": [
                 {
@@ -1509,12 +1509,12 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/NothingOSFont/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/NothingOSFont/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your font to the 'NothingOS' font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/NothingOSFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/NothingOSFont/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/NothingOSFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/NothingOSFont/ss2.png"
             ],
             "Releases": [
                 {
@@ -1543,13 +1543,13 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MinecraftFont/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MinecraftFont/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your font to the 'Minecraft' font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MinecraftFont/ss_2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MinecraftFont/ss2.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MinecraftFont/ss3.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MinecraftFont/ss_2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MinecraftFont/ss2.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MinecraftFont/ss3.png"
             ],
             "Releases": [
                 {
@@ -1583,12 +1583,12 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/BronkohFont/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/BronkohFont/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your font to the 'Bronkoh' font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/BronkohFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/BronkohFont/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/BronkohFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/BronkohFont/ss2.png"
             ],
             "Releases": [
                 {
@@ -1617,12 +1617,12 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/QuicksandFont/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/QuicksandFont/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your font to the 'Quicksand 100%' font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/QuicksandFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/QuicksandFont/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/QuicksandFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/QuicksandFont/ss2.png"
             ],
             "Releases": [
                 {
@@ -1651,12 +1651,12 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/QuicksandFont85/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/QuicksandFont85/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your font to the 'Quicksand 85%' font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/QuicksandFont85/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/QuicksandFont85/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/QuicksandFont85/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/QuicksandFont85/ss2.png"
             ],
             "Releases": [
                 {
@@ -1685,12 +1685,12 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ShootaStarFont/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ShootaStarFont/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your font to the 'Shoot a Star' font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ShootaStarFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ShootaStarFont/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ShootaStarFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ShootaStarFont/ss2.png"
             ],
             "Releases": [
                 {
@@ -1719,12 +1719,12 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ComicReliefFont/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ComicReliefFont/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your font to the 'Comic Relief' font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ComicReliefFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ComicReliefFont/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ComicReliefFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ComicReliefFont/ss2.png"
             ],
             "Releases": [
                 {
@@ -1753,12 +1753,12 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/SicaFont/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/SicaFont/ico_2.png",
             "Category": "Fonts",
             "Caption": "Change your font to the 'Sica' font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/SicaFont/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/SicaFont/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/SicaFont/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/SicaFont/ss2.png"
             ],
             "Releases": [
                 {
@@ -1787,11 +1787,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/3DFluentEmojis/ico.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/3DFluentEmojis/ico.png",
             "Category": "Emoji",
             "Caption": "Change your emoji font to the '3D Fluent Emojis' font!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/3DFluentEmojis/ss.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/3DFluentEmojis/ss.png"
             ],
             "Releases": [
                 {
@@ -1821,13 +1821,13 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/14ProLock/ico.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/14ProLock/ico.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into the 14 Pro series lock glyph\nAlso has a better animation!!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/14ProLock/gif.gif",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/14ProLock/ss.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/14ProLock/ss2.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/14ProLock/gif.gif",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/14ProLock/ss.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/14ProLock/ss2.png"
             ],
             "Releases": [
                 {
@@ -1857,11 +1857,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/AndroidLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/AndroidLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into one avaiable only on Android devices!!",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/AndroidLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/AndroidLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -1886,12 +1886,12 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/TrollfaceLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/TrollfaceLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into a Trollface\n\nOriginally released by haxi0 for Cowabunga",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/TrollfaceLock/ss0.png",
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/TrollfaceLock/ss1.png"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/TrollfaceLock/ss0.png",
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/TrollfaceLock/ss1.png"
             ],
             "Releases": [
                 {
@@ -1916,11 +1916,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/DisintegratingEmojiLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/DisintegratingEmojiLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into the disintegrating emoji",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/DisintegratingEmojiLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/DisintegratingEmojiLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -1945,11 +1945,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MarioLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MarioLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into Mario ✌️",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MarioLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MarioLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -1978,11 +1978,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/BomberLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/BomberLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Bomber Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/BomberLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/BomberLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -2011,11 +2011,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/BoomLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/BoomLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Boom Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/BoomLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/BoomLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -2044,11 +2044,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/GastlyLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/GastlyLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Gastly Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/GastlyLock/gif_2.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/GastlyLock/gif_2.gif"
             ],
             "Releases": [
                 {
@@ -2077,11 +2077,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/GlitchedSkullLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/GlitchedSkullLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Glitched Skull Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/GlitchedSkullLock/gif_2.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/GlitchedSkullLock/gif_2.gif"
             ],
             "Releases": [
                 {
@@ -2110,11 +2110,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/GreenpoisonLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/GreenpoisonLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Greenpois0n Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/GreenpoisonLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/GreenpoisonLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -2143,11 +2143,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/HelloKittyLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/HelloKittyLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Hello Kitty Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/HelloKittyLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/HelloKittyLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -2176,11 +2176,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MajorasMaskLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MajorasMaskLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Majora's Mask Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/MajorasMaskLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/MajorasMaskLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -2209,11 +2209,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/NasaLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/NasaLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Nasa Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/NasaLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/NasaLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -2242,11 +2242,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/PinkCircleLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/PinkCircleLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Pink Circle Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/PinkCircleLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/PinkCircleLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -2275,11 +2275,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/RainbowStarLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/RainbowStarLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Rainbow Star Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/RainbowStarLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/RainbowStarLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -2308,11 +2308,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/StreetFighterBlancaLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/StreetFighterBlancaLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Street Fighter Lock - Blanca'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/StreetFighterBlancaLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/StreetFighterBlancaLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -2341,11 +2341,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/StreetFighterDhalsimLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/StreetFighterDhalsimLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Street Fighter Lock - Dhalsim'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/StreetFighterDhalsimLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/StreetFighterDhalsimLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -2374,11 +2374,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/StreetFighterKenLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/StreetFighterKenLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Street Fighter Lock - Ken'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/StreetFighterKenLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/StreetFighterKenLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -2407,11 +2407,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/StreetFighterRyuLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/StreetFighterRyuLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Street Fighter Lock - Ryu'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/StreetFighterRyuLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/StreetFighterRyuLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -2440,11 +2440,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/TailsLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/TailsLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Tails Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/TailsLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/TailsLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -2473,11 +2473,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ToadLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ToadLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Toad Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ToadLock/gif_2.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ToadLock/gif_2.gif"
             ],
             "Releases": [
                 {
@@ -2506,11 +2506,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/TogepiLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/TogepiLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Togepi Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/TogepiLock/gif_2.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/TogepiLock/gif_2.gif"
             ],
             "Releases": [
                 {
@@ -2539,11 +2539,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/UFOLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/UFOLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'UFO Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/UFOLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/UFOLock/gif.gif"
             ],
             "Releases": [
                 {
@@ -2572,11 +2572,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ZombiesAteMyLock/ico_2.png",
+            "Icon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ZombiesAteMyLock/ico_2.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into 'Zombies Ate My Lock'\n\nDesigned by @The_Nobl3_Guy",
             "Screenshot": [
-                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/assets/tweaks/ZombiesAteMyLock/gif.gif"
+                "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/jailed/depictions/ZombiesAteMyLock/gif.gif"
             ],
             "Releases": [
                 {
