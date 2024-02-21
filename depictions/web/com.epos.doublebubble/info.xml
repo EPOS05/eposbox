@@ -1,0 +1,35 @@
+<package>
+	<id>com.epos.doublebubble</id>
+	<name>Double Bubble Settings Reborn</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.snowboard</package>
+		<package>com.spark.snowboard.settingsicons</package>
+	</dependencies>
+	<shortDescription>Double the fun!</shortDescription>
+	<descriptionlist>
+		<description>Double Bubble Settings (by Roo)</description>
+		<description>updated for rootless</description>
+		<description>added missing icons</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>preview</description>
+			<image>ss.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>EPOS (Twitter)</name>
+			<url>https://twitter.com/RealEPOS</url>
+		</link>
+	</links>
+</package>
