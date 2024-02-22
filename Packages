@@ -1,3 +1,22 @@
+Package: com.epos.bronkoh
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: EPOS
+Depends: com.spark.snowboard, com.spark.snowboard.fonts
+Filename: ./debians/com.epos.bronkoh_1.0_iphoneos-arm64.deb
+Size: 5914380
+MD5sum: 7cbe2809bdf964b1f089e169b188d285
+SHA1: d7b33e26cfa1dd690a3d417605b01d79a4becfd6
+SHA256: 1e329e4363385c3b92af3487374667170a9738d3585dd5209cdd86d1ff62e004
+SHA512: c885022317517b3e2f1a09b000dc9e2d1292aad2ca752e07bbec65ae2959d801713b105abe6300f243a103e7adc6fd97802f0a9b0300ef5fe3edfbdb9ffaa947
+Description: Change your font!
+Author: EPOS
+Name: Fonts (Bronkoh - Evelyn)
+Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.bronkoh.png
+Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.bronkoh
+SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.bronkoh/depiction.json
+
 Package: com.epos.doublebubble
 Architecture: iphoneos-arm64
 Version: 1.0
