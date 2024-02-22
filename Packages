@@ -74,3 +74,22 @@ Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.pulsarlsui.png
 Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.pulsarlsui
 SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.pulsarlsui/depiction.json
 
+Package: com.epos.symbols
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: EPOS
+Depends: com.spark.snowboard, com.spark.snowboard.fonts
+Filename: ./debians/com.epos.symbols_1.0_iphoneos-arm64.deb
+Size: 343144
+MD5sum: 3f975d0252e472231b8bed954cff92c4
+SHA1: 471abefd9bf67896ed983063fa369d17bc28059e
+SHA256: 5ac1dcd12c343413955cc35bb3cbeb1e1df18ba7ed4da0f8f06767ddc4002bc4
+SHA512: 007413e567ae1ecb8b3c308cdb676f3481736fd3f9950c9b0975f2a20b0a85668c78da82a5503d6b4541f18139ea5f1bf00cd0562c296c604779098349021788
+Description: Change your symbols font!
+Author: EPOS
+Name: Fonts (Symbols - Yangjiii)
+Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.symbols.png
+Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.symbols
+SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.symbols/depiction.json
+
