@@ -36,6 +36,25 @@ Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.doublebubble.png
 Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.doublebubble
 SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.doublebubble/depiction.json
 
+Package: com.epos.paint
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: EPOS
+Depends: com.spark.snowboard, com.spark.snowboard.fonts, firmware (>= 16.0)
+Filename: ./debians/com.epos.paint_1.0_iphoneos-arm64.deb
+Size: 111672
+MD5sum: 0b407307b11afd98054820d56e96816e
+SHA1: a3093d56f7cc1f2097be731d46d5049834db6c47
+SHA256: 76bafea3336c4af143c8b2f68641c2537bf6d768515f3baffd1d3d7526dd02c7
+SHA512: b46df44a44a2b81e3b27a2a8416cad920d646c4b12d39869e3f7759c0d93f20ce2106dd77698ae23cc33b49713889db16ab0847bbc687f26d65670e1c5c4035e
+Description: Change your clock font!
+Author: EPOS
+Name: Fonts (Paint - EPOS)
+Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.paint.png
+Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.paint
+SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.paint/depiction.json
+
 Package: com.epos.pulsarlsui
 Architecture: iphoneos-arm64
 Version: 1.0
