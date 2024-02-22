@@ -1,12 +1,21 @@
 <p align="right">
-  <img align="right" height="140" src="https://raw.githubusercontent.com/EPOS05/EPOSbox/main/assets/github.png" alt="EPOSbox Logo" style="float: right; border-radius: 10px;"/>
+  <img align="right" height="140" src="https://raw.githubusercontent.com/EPOS05/eposbox/main/assets/github.png" alt="EPOSbox Logo" style="float: right; border-radius: 10px;"/>
 </p>
 
 <h1 align="left">EPOSbox - The repo made for you 🍃</h1>
 
 <p align="left">
-  <strong>Click <a href="https://lrdsnow.github.io/lrdsnow/purekfd/pkgviewer.html?repourl=https://epos05.github.io/EPOSbox/purekfd.json">here</a> to see what's available on EPOSbox (MDC/KFD repo preview only)</strong>
+  <strong>Click <a href="https://lrdsnow.github.io/lrdsnow/purekfd/pkgviewer.html?repourl=https://epos05.github.io/eposbox/purekfd.json">here</a> to see what's available on EPOSbox (MDC/KFD repo preview only)</strong>
 </p>
+
+<br>
+
+## Jailbreak (Sileo, Zebra, Cydia etc..)
+Use the following URL to start using EPOSbox with **Jailbreak**:
+
+```
+https://epos05.github.io/eposbox/
+```
 
 <br>
 
@@ -14,7 +23,7 @@
 Use the following URL to start using EPOSbox with **misaka**:
 
 ```
-https://epos05.github.io/EPOSbox/misaka.json
+https://epos05.github.io/eposbox/misaka.json
 ```
 
 [Download the latest misaka IPA here](https://github.com/straight-tamago/misaka/releases/latest)
@@ -27,7 +36,7 @@ https://epos05.github.io/EPOSbox/misaka.json
 Use the following URL to start using EPOSbox with **PureKFD**:
 
 ```
-https://epos05.github.io/EPOSbox/purekfd.json
+https://epos05.github.io/eposbox/purekfd.json
 ```
 
 [Download the latest PureKFD IPA here](https://github.com/Lrdsnow/PureKFD/releases/latest)

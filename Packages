@@ -1,0 +1,19 @@
+Package: com.epos.doublebubble
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: EPOS
+Depends: com.spark.snowboard, com.spark.snowboard.settingsicons
+Filename: ./debians/com.epos.doublebubble_1.0_iphoneos-arm64.deb
+Size: 84004
+MD5sum: f4f7a09380be9ba54dffd914fab1bb6e
+SHA1: 4afef788bd8efbfb65e8e54ead1908cff37e45a9
+SHA256: d4d6eecff8bde421b824e5bc6727ee1aff29d1aa67c39a5acb21bc2c7c1532fc
+SHA512: 49ba5f58b20d51d14b029e646d2ecc972ecd156d882f44105861ac8afaecd00f6fab6922d062dcd45e25f5c2b883e6c401af2687e84d3602574e628140d5d7f6
+Description: Double the fun!
+Author: EPOS
+Name: Double Bubble Settings Reborn
+Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.doublebubble.png
+Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.doublebubble
+SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.doublebubble/depiction.json
+
