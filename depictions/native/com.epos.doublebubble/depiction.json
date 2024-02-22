@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://epos05.github.io/eposbox/assets/banners/com.epos.doublebubble.png",
-	"tintColor": "#ffae8e",
+	"tintColor": "#1de4bb",
 	"tabs": [
 		{
 			"tabname": "Details",
@@ -13,7 +13,7 @@
 					"useBottomMargin": false
 				},
 				{
-					"markdown": "Double the fun! \n* Features: \n* Updated for rootless. \n* Added missing icons. \n\n Credits: Double Bubble Settings (by Roo)",
+					"markdown": "Double the fun!\n* Features:\n* Updated for rootless.\n* Added missing icons.\n\nCredits: Double Bubble Settings (by Roo)",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
 				},
@@ -27,7 +27,7 @@
 					"class": "DepictionScreenshotsView",
 					"screenshots": [
 						{
-							"accessibilityText": "preview",
+							"accessibilityText": "screenshot",
 							"url": "https://epos05.github.io/eposbox/assets/screenshots/com.epos.doublebubble.png"
 						}
 					]

@@ -1,0 +1,39 @@
+<package>
+	<id>com.epos.pulsarlsui</id>
+	<name>Pulsar LS UI</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>0.1</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.snowboard</package>
+		<package>com.spark.snowboard.ui</package>
+	</dependencies>
+	<shortDescription>Pulsar on your lockscreen</shortDescription>
+	<descriptionlist>
+		<description>Pulsar on your lockscreen</description>
+		<description>Change your lockscreen flashlight and camera icons into Pulsar</description>
+		<description>Inspired by Pulsar Control Center UI made by Phuc Do</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>screenshot</description>
+			<image>ss.png</image>
+		</screenshot>
+		<screenshot>
+			<description>screenshot2</description>
+			<image>ss2.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/RealEPOS</url>
+		</link>
+	</links>
+</package>
