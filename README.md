@@ -10,6 +10,15 @@
 
 <br>
 
+## Jailbreak (Sileo, Zebra, Cydia etc..)
+Use the following URL to start using EPOSbox with **Jailbreak**:
+
+```
+https://epos05.github.io/eposbox/
+```
+
+<br>
+
 ## Misaka (MDC/KFD)
 Use the following URL to start using EPOSbox with **misaka**:
 
