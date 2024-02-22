@@ -1,5 +1,5 @@
 <p align="right">
-  <img align="right" height="140" src="https://raw.githubusercontent.com/EPOS05/eposbox/main/assets/github.png" alt="EPOSbox Logo" style="float: right; border-radius: 10px;"/>
+  <img align="right" height="140" src="https://raw.githubusercontent.com/EPOS05/eposbox/main/assets/repo/github.png" alt="EPOSbox Logo" style="float: right; border-radius: 10px;"/>
 </p>
 
 <h1 align="left">EPOSbox - The repo made for you 🍃</h1>
