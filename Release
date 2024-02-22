@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm64
+Codename: epos
+Components: main
+Date: Thu, 22 Feb 2024 11:36:30 +0000
+Description: The repo made for you
+Label: EPOSbox
+Origin: EPOSbox
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 448b377a10ada67e69793f88dc70c423              560 Packages
+ 45fd4ad08b5fb9169f34744dbbab59b5              422 Packages.bz2
+ 64b619f460150d478bd62a5a34f531a4              404 Packages.gz
+ 349f5ed5f975f4ab225ccd6a1b84372e              468 Packages.xz
+ 2de32aae9211cb06abe9b32096b34eef              396 Packages.zst
+ c0c0e85036ded177fa5edfd5c474d911              193 Release
+SHA1:
+ cc1857bbf73a8a4ff21707eee4d780505842d29b              560 Packages
+ 908a69c3b3d46ae9cb2785b78b28822011e28c95              422 Packages.bz2
+ b3360b10479fcd1985eb5004126aed72fda285ce              404 Packages.gz
+ e7a6f2b8e0aef3e4895977d105457fe7814d5808              468 Packages.xz
+ 3a5eba8896c0a22f2e93aafbd16d1b9f55d7b80f              396 Packages.zst
+ de00a5a1cdc725f3ad1bb67fffe65ac2c063b6ba              193 Release
+SHA256:
+ 1393986a20a9f26aa643511ee0143d12bb4287bbf40666403d96989c267d3561              560 Packages
+ 9b1eeca636123e02925d7018da74024baf206909fced7e89343f7d7bed4d6cdb              422 Packages.bz2
+ dd611c434540f06567a9cbe662d4e6e79d48e33fc97d21bce326353d0e550e33              404 Packages.gz
+ 6c546c1cf2d5b045cf59c0a5fafbabbaf36fdc1f748836911e626e619392d479              468 Packages.xz
+ 9f6606dc1c814c93354107f23034a42f0ecfa134f97fd6051ca4f5834374679f              396 Packages.zst
+ a5fa6bfbe817e357932b85074706856c03c324788e8d2b471685aeaab9242dec              193 Release
+SHA512:
+ 4dc67abfa536632baa51da0c84f8fd0b353a66cdba03de395868bf440854bf7241230ff4c7d4c50ab908d7df046ca24839ea9372063d00f5a3184e88f8d98e4d              560 Packages
+ 8111f0d786b93eed9c40e1b913522d27bbdfb58a4966387357edc02dfbf514cf157cb75ad36bac05092fb242dfc06ef5c9fd67dcde7125b5ea89b6560aa482a9              422 Packages.bz2
+ 4eb2067fbd2a5c592e4a1eb1ba4a2ba147f110c8c4e592f9b998e3eb2c7a3ae093bf96c457f81b76cdb21b2c65a0aba0f3dc9a30d987cbcad85ee2d3829aa2fa              404 Packages.gz
+ cb76944e2ee31fb1eb9c19dc91b16e6b59b420b429d66648de2ed1273fc35052024895b587f5255e93c598e0c884c170ff099d183002ece5b0044293cbe91752              468 Packages.xz
+ 7e0f92eee0dfb5411debb62ee582afa4a7a8b702c101ac4b70304657ff1824fecc25eed8a60c4008e2658fd653ee8abc7ecc544d5b50e032cc34f748543ca905              396 Packages.zst
+ b7538d1c9bf2e56ae73a6cdcfd48b97209884726072194cf0f0e53851422cdc040395a9cf74bbe2f801b1453cb2f27c1883b1dc8543b7f38436d9adac7afb6b7              193 Release

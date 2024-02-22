@@ -1,0 +1,15 @@
+Package: com.epos.doublebubble
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: EPOS
+Filename: ./debians/com.epos.doublebubble_1.0_iphoneos-arm64.deb
+Size: 83864
+MD5sum: d2e2d1b0f552cb8caabe89820ec90d96
+SHA1: af4dc6b3d0c1662e0b86c4dff5d77953d100cdd3
+SHA256: 94e36940d8475413c3f6b6d405edc65d5d5d2f069f969780d8ad0e2d5600144b
+SHA512: 86d4355ba04a419409e0a5355aa28cfa87717f4c4a49ec9cfa99423e0442ff5996100c8cd7c6a6c066069bd5a1995ee400d50e2a4ce9aaa601979d5015de0104
+Description: Double the fun!
+Name: Double Bubble Settings Reborn
+Author: EPOS
+
