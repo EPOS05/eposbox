@@ -2,10 +2,10 @@
     "RepositoryName": "EPOSbox",
     "RepositoryDescription": "The repo made for you 🍃",
     "RepositoryAuthor": "EPOS",
-    "RepositoryIcon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/assets/icon_full.png",
+    "RepositoryIcon": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/assets/repo/icon_full.png",
     "RepositoryWebsite": "https://github.com/EPOS05/EPOSbox",
     "Default": {
-        "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/assets/header.gif",
+        "HeaderImage": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/assets/repo/header.gif",
         "ViewCount": true
     },
     "RepositoryContents": [
