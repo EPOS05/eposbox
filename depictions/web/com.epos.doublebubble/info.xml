@@ -13,9 +13,7 @@
 	</dependencies>
 	<shortDescription>Double the fun!</shortDescription>
 	<descriptionlist>
-		<description>Double Bubble Settings (by Roo)</description>
-		<description>updated for rootless</description>
-		<description>added missing icons</description>
+		<description>Double Bubble Settings (by Roo)<br>* Features:<br>* Updated for rootless.<br>* Added missing icons.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -28,7 +26,7 @@
 	</changelog>
 	<links>
 		<link>
-			<name>EPOS (Twitter)</name>
+			<name>Twitter</name>
 			<url>https://twitter.com/RealEPOS</url>
 		</link>
 	</links>

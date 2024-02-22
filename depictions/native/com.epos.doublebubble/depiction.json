@@ -7,8 +7,37 @@
 			"tabname": "Details",
 			"views": [
 				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Double Dubble Settings Reborn",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "Double the fun! \n Double Bubble Settings (by Roo) \n* Features: \n* Updated for rootless. \n* Added missing icons.",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"itemSize": "{160, 275.41333333333336}",
+					"itemCornerRadius": 6,
+					"class": "DepictionScreenshotsView",
+					"screenshots": [
+						{
+							"accessibilityText": "preview",
+							"url": "https://epos05.github.io/eposbox/assets/screenshots/com.epos.doublebubble.png"
+						}
+					]
+				},
+				{
+					"useBoldText": true,
 					"class": "DepictionMarkdownView",
-					"markdown": "Double Bubble Settings Reborn\nDouble the fun!"
+					"title": "markdown-description",
+					"markdown": "",
+					"useBottomMargin": false
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -23,13 +52,13 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Released",
-					"text": "21-2-2024",
+					"title": "Updated",
+					"text": "22-2-2024",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Price",
-					"text": "free",
+					"text": "Free",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -38,7 +67,7 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "EPOS (Twitter)",
+					"title": "Twitter",
 					"action": "https://twitter.com/RealEPOS",
 					"class": "DepictionTableButtonView"
 				},
