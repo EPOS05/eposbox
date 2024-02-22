@@ -1,20 +1,20 @@
 <package>
 	<id>com.epos.bronkoh</id>
-	<name>Fonts (Bronkoh - Evelyn)</name>
+	<name>Fonts (Paint - EPOS)</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>0.1</miniOS>
+			<miniOS>16.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>com.spark.snowboard</package>
 		<package>com.spark.snowboard.fonts</package>
 	</dependencies>
-	<shortDescription>Change your font!</shortDescription>
+	<shortDescription>Change your clock font!</shortDescription>
 	<descriptionlist>
 		<description>Change your font!</description>
-		<description>Change your font to the 'Bronkoh' font!</description>
+		<description>Change your iOS 16 clock font to the 'Paint' clock font!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
