@@ -17,3 +17,22 @@ Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.doublebubble.png
 Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.doublebubble
 SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.doublebubble/depiction.json
 
+Package: com.epos.pulsarlsui
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: EPOS
+Depends: com.spark.snowboard, com.spark.snowboard.ui
+Filename: ./debians/com.epos.pulsarlsui_1.0_iphoneos-arm64.deb
+Size: 120256
+MD5sum: c827d378cfbf1e69c33fe4c6d9a99389
+SHA1: b0fa31f8b2772562587c9a17485ab778dda19aa1
+SHA256: ccb1d92a7c06f02a890d86e29ef60f7029fb0ceb53cbb4a76bf7ef658c8a3c2a
+SHA512: e682e5ae5157c0f11e7e3cea1be3d9d852a37b942a5d5be7e661f7beab9503e6b65a936196a948d60c40f57acb1fc992da9a08d420f06a54e2a4df28742cd36a
+Description: Pulsar on your lockscreen
+Author: EPOS
+Name: Pulsar LS UI
+Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.pulsarlsui.png
+Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.pulsarlsui
+SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.pulsarlsui/depiction.json
+
