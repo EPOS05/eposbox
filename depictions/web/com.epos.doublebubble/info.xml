@@ -13,12 +13,9 @@
 	</dependencies>
 	<shortDescription>Double the fun!</shortDescription>
 	<descriptionlist>
-		<description>
-			Double Bubble Settings (by Roo)<br />
-			* Features:<br />
-			* Updated for rootless.<br />
-			* Added missing icons.
-		</description>
+		<description>Double the fun!</description>
+		<description>Features: *Updated for rootless. *Added missing icons.</description>
+		<description>Credits: Double Bubble Settings (by Roo)</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
