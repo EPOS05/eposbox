@@ -13,7 +13,7 @@
 					"useBottomMargin": false
 				},
 				{
-					"markdown": "Double the fun! \n Double Bubble Settings (by Roo) \n* Features: \n* Updated for rootless. \n* Added missing icons.",
+					"markdown": "Double the fun! \n\n Double Bubble Settings (by Roo) \n* Features: \n* Updated for rootless. \n* Added missing icons.",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
 				},
