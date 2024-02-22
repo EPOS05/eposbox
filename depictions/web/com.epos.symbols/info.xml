@@ -1,29 +1,25 @@
 <package>
-	<id>com.epos.bronkoh</id>
-	<name>Fonts (Paint - EPOS)</name>
+	<id>com.epos.symbols</id>
+	<name>Fonts (Symbols - Yangjiii)</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>16.0</miniOS>
+			<miniOS>0.1</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>com.spark.snowboard</package>
 		<package>com.spark.snowboard.fonts</package>
 	</dependencies>
-	<shortDescription>Change your clock font!</shortDescription>
+	<shortDescription>Change your symbols font!</shortDescription>
 	<descriptionlist>
-		<description>Change your clock font!</description>
-		<description>Change your iOS 16 clock font to the 'Paint' clock font!</description>
+		<description>Change your symbols font!</description>
+		<description>Change your symbols font to Yangjiii's symbols font!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description>screenshot</description>
 			<image>ss.png</image>
-		</screenshot>
-		<screenshot>
-			<description>screenshot2</description>
-			<image>ss2.png</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
@@ -33,6 +29,10 @@
 		<link>
 			<name>Twitter</name>
 			<url>https://twitter.com/RealEPOS</url>
+		</link>
+		<link>
+			<name>Symbols Source</name>
+			<url>https://epos05.github.io/eposbox/assets/symbols.txt</url>
 		</link>
 	</links>
 </package>
