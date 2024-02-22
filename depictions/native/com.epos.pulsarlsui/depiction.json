@@ -27,11 +27,11 @@
 					"screenshots": [
 						{
 							"accessibilityText": "screenshot",
-							"url": "https://epos05.github.io/eposbox/assets/screenshots/com.epos.pulsarlsui.png"
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.pulsarlsui/screenshots/ss.png"
 						},
 						{
 							"accessibilityText": "screenshot2",
-							"url": "https://epos05.github.io/eposbox/assets/screenshots/com.epos.pulsarlsui2.png"
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.pulsarlsui/screenshots/ss2.png"
 						}
 					]
 				},
