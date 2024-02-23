@@ -1,0 +1,33 @@
+<package>
+	<id>com.epos.wayfinderclock</id>
+	<name>Wayfinder Clock</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>0.1</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.snowboard</package>
+	</dependencies>
+	<shortDescription>Wayfinder watch face on iOS</shortDescription>
+	<descriptionlist>
+		<description>Wayfinder watch face on iOS</description>
+		<description>This tweak changes the appearance of your iOS clock icon to the Wayfinder watch face From WATCH</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>screenshot</description>
+			<image>ss.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/RealEPOS</url>
+		</link>
+	</links>
+</package>
