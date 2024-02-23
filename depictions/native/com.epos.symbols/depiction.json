@@ -27,7 +27,7 @@
 					]
 				},
 				{
-					"spacing": 25,
+					"spacing": 20,
 					"class": "DepictionSpacerView"
 				},
 				{
@@ -54,7 +54,7 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"spacing": 25,
+					"spacing": 20,
 					"class": "DepictionSpacerView"
 				},
 				{
@@ -90,7 +90,7 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"spacing": 25,
+					"spacing": 20,
 					"class": "DepictionSpacerView"
 				}
 			],
