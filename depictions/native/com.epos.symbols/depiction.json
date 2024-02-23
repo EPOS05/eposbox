@@ -45,6 +45,11 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
+					"title": "Symbols Source",
+					"action": "https://epos05.github.io/eposbox/assets/symbols.txt",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"title": "Latest Version",
 					"class": "DepictionHeaderView"
 				},
@@ -74,11 +79,6 @@
 				{
 					"title": "Twitter",
 					"action": "https://twitter.com/RealEPOS",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Symbols Source",
-					"action": "https://epos05.github.io/eposbox/assets/symbols.txt",
 					"class": "DepictionTableButtonView"
 				},
 				{
