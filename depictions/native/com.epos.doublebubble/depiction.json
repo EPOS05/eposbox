@@ -9,13 +9,8 @@
 				{
 					"useBoldText": true,
 					"class": "DepictionSubheaderView",
-					"title": "Double Dubble Settings Reborn",
+					"title": "Double the fun!",
 					"useBottomMargin": false
-				},
-				{
-					"markdown": "Double the fun!\n* Features:\n* Updated for rootless.\n* Added missing icons.\n\nCredits: Double Bubble Settings (by Roo)",
-					"useSpacing": true,
-					"class": "DepictionMarkdownView"
 				},
 				{
 					"class": "DepictionSpacerView",
@@ -33,18 +28,29 @@
 					]
 				},
 				{
-					"useBoldText": true,
-					"class": "DepictionMarkdownView",
-					"title": "markdown-description",
-					"markdown": "",
-					"useBottomMargin": false
+					"title": "Description",
+					"class": "DepictionHeaderView"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Double Dubble Settings Reborn",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "* Features:\n* Updated for rootless.\n* Added missing icons.\n\nCredits: Double Bubble Settings (by Roo)",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "Latest Version",
 					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionSeparatorView"
 				},
 				{
 					"title": "Version",

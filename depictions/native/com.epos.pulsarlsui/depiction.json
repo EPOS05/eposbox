@@ -8,13 +8,8 @@
 				{
 					"useBoldText": true,
 					"class": "DepictionSubheaderView",
-					"title": "Pulsar LS UI",
+					"title": "Pulsar on your lockscreen",
 					"useBottomMargin": false
-				},
-				{
-					"markdown": "Pulsar on your lockscreen\n\nChange your lockscreen flashlight and camera icons into Pulsar\n\nInspired by Pulsar Control Center UI made by Phuc Do",
-					"useSpacing": true,
-					"class": "DepictionMarkdownView"
 				},
 				{
 					"class": "DepictionSpacerView",
@@ -36,18 +31,29 @@
 					]
 				},
 				{
-					"useBoldText": true,
-					"class": "DepictionMarkdownView",
-					"title": "markdown-description",
-					"markdown": "",
-					"useBottomMargin": false
+					"title": "Description",
+					"class": "DepictionHeaderView"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Pulsar LS UI",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "Change your lockscreen flashlight and camera icons into Pulsar\n\nInspired by Pulsar Control Center UI made by Phuc Do",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "Latest Version",
 					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionSeparatorView"
 				},
 				{
 					"title": "Version",

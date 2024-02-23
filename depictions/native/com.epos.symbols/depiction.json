@@ -8,13 +8,8 @@
 				{
 					"useBoldText": true,
 					"class": "DepictionSubheaderView",
-					"title": "Fonts (Symbols - Yangjiii)",
+					"title": "Change your symbols font!",
 					"useBottomMargin": false
-				},
-				{
-					"markdown": "Change your symbols font!\n\nChange your symbols font to Yangjiii's symbols font!",
-					"useSpacing": true,
-					"class": "DepictionMarkdownView"
 				},
 				{
 					"class": "DepictionSpacerView",
@@ -32,18 +27,29 @@
 					]
 				},
 				{
-					"useBoldText": true,
-					"class": "DepictionMarkdownView",
-					"title": "markdown-description",
-					"markdown": "",
-					"useBottomMargin": false
+					"title": "Description",
+					"class": "DepictionHeaderView"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Fonts (Symbols - Yangjiii)",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "Change your symbols font to Yangjiii's symbols font!",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "Latest Version",
 					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionSeparatorView"
 				},
 				{
 					"title": "Version",

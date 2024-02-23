@@ -8,13 +8,8 @@
 				{
 					"useBoldText": true,
 					"class": "DepictionSubheaderView",
-					"title": "Fonts (Paint - EPOS)",
+					"title": "Change your clock font!",
 					"useBottomMargin": false
-				},
-				{
-					"markdown": "Change your clock font!\n\nChange your iOS 16 clock font to the 'Paint' clock font!",
-					"useSpacing": true,
-					"class": "DepictionMarkdownView"
 				},
 				{
 					"class": "DepictionSpacerView",
@@ -36,18 +31,29 @@
 					]
 				},
 				{
-					"useBoldText": true,
-					"class": "DepictionMarkdownView",
-					"title": "markdown-description",
-					"markdown": "",
-					"useBottomMargin": false
+					"title": "Description",
+					"class": "DepictionHeaderView"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Fonts (Paint - EPOS)",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "Change your iOS 16 clock font to the 'Paint' clock font!",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "Latest Version",
 					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionSeparatorView"
 				},
 				{
 					"title": "Version",
