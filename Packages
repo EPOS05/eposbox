@@ -17,6 +17,25 @@ Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.bronkoh.png
 Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.bronkoh
 SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.bronkoh/depiction.json
 
+Package: com.epos.classicsettings
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: EPOS
+Depends: com.spark.snowboard, com.spark.snowboard.settingsicons
+Filename: ./debians/com.epos.classicsettings_1.0_iphoneos-arm64.deb
+Size: 990860
+MD5sum: 489829b5f45e29b565405bbba48ea9ce
+SHA1: dc291e25278d27c957f4cdb3d4dc52410cc03858
+SHA256: 19541b5fa63e821a0f7e1b8b6ef15dd3ea53be758db26dd2cc8e040d8421a87b
+SHA512: 9cc52607e538280a69752439d73f74ff34f4f755b19186c23e4d4d9be5da31d198b6dbefc1a5bfd00397e2eeb7589a05e867c1b6d6ef90caeaafcf986683126d
+Description: iOS 6 inside your settings
+Author: EPOS
+Name: Classic Settings
+Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.classicsettings.png
+Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.classicsettings
+SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.classicsettings/depiction.json
+
 Package: com.epos.doublebubble
 Architecture: iphoneos-arm64
 Version: 1.0
