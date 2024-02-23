@@ -1,0 +1,46 @@
+<package>
+	<id>com.epos.classicsettings</id>
+	<name>Classic Settings</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>0.1</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.snowboard</package>
+		<package>com.spark.snowboard.settingsicons</package>
+	</dependencies>
+	<shortDescription>iOS 6 inside your settings</shortDescription>
+	<descriptionlist>
+		<description>iOS 6 inside your settings</description>
+		<description>Relive the old days with Classic Settings This theme changes your settings icons into the iOS 6 icons.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>screenshot</description>
+			<image>ss.png</image>
+		</screenshot>
+		<screenshot>
+			<description>screenshot2</description>
+			<image>ss2.png</image>
+		</screenshot>
+		<screenshot>
+			<description>screenshot3</description>
+			<image>ss3.png</image>
+		</screenshot>
+		<screenshot>
+			<description>screenshot4</description>
+			<image>ss4.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/RealEPOS</url>
+		</link>
+	</links>
+</package>

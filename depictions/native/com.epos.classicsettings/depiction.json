@@ -1,6 +1,5 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://epos05.github.io/eposbox/assets/banners/com.epos.wayfinderclock.png",
 	"tintColor": "#1de4bb",
 	"tabs": [
 		{
@@ -9,7 +8,7 @@
 				{
 					"useBoldText": true,
 					"class": "DepictionSubheaderView",
-					"title": "Wayfinder watch face on iOS",
+					"title": "iOS 6 inside your settings",
 					"useBottomMargin": false
 				},
 				{
@@ -23,7 +22,19 @@
 					"screenshots": [
 						{
 							"accessibilityText": "screenshot",
-							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.wayfinderclock/screenshots/ss.png"
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.classicsettings/screenshots/ss.png"
+						},
+						{
+							"accessibilityText": "screenshot2",
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.classicsettings/screenshots/ss2.png"
+						},
+						{
+							"accessibilityText": "screenshot3",
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.classicsettings/screenshots/ss3.png"
+						},
+						{
+							"accessibilityText": "screenshot4",
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.classicsettings/screenshots/ss4.png"
 						}
 					]
 				},
@@ -41,11 +52,11 @@
 				{
 					"useBoldText": true,
 					"class": "DepictionSubheaderView",
-					"title": "Wayfinder Clock",
+					"title": "Classic Settings",
 					"useBottomMargin": false
 				},
 				{
-					"markdown": "This tweak changes the appearance of your iOS clock icon to the Wayfinder watch face From WATCH",
+					"markdown": "Relive the old days with Classic Settings This theme changes your settings icons into the iOS 6 icons.",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
 				},
