@@ -28,6 +28,10 @@
 					]
 				},
 				{
+					"spacing": 25,
+					"class": "DepictionSpacerView"
+				},
+				{
 					"title": "Description",
 					"class": "DepictionHeaderView"
 				},
@@ -44,6 +48,10 @@
 					"markdown": "* Features:\n* Updated for rootless.\n* Added missing icons.\n\nCredits: Double Bubble Settings (by Roo)",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
+				},
+				{
+					"spacing": 25,
+					"class": "DepictionSpacerView"
 				},
 				{
 					"title": "Latest Version",
@@ -78,11 +86,7 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
+					"spacing": 25,
 					"class": "DepictionSpacerView"
 				}
 			],

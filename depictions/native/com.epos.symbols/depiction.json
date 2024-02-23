@@ -27,6 +27,10 @@
 					]
 				},
 				{
+					"spacing": 25,
+					"class": "DepictionSpacerView"
+				},
+				{
 					"title": "Description",
 					"class": "DepictionHeaderView"
 				},
@@ -48,6 +52,10 @@
 					"title": "Symbols Source",
 					"action": "https://epos05.github.io/eposbox/assets/symbols.txt",
 					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 25,
+					"class": "DepictionSpacerView"
 				},
 				{
 					"title": "Latest Version",
@@ -82,11 +90,7 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
+					"spacing": 25,
 					"class": "DepictionSpacerView"
 				}
 			],

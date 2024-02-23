@@ -31,6 +31,10 @@
 					]
 				},
 				{
+					"spacing": 25,
+					"class": "DepictionSpacerView"
+				},
+				{
 					"title": "Description",
 					"class": "DepictionHeaderView"
 				},
@@ -47,6 +51,10 @@
 					"markdown": "Change your iOS 16 clock font to the 'Paint' clock font!",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
+				},
+				{
+					"spacing": 25,
+					"class": "DepictionSpacerView"
 				},
 				{
 					"title": "Latest Version",
@@ -81,11 +89,7 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
+					"spacing": 25,
 					"class": "DepictionSpacerView"
 				}
 			],
