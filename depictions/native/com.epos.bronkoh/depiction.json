@@ -31,11 +31,8 @@
 					]
 				},
 				{
-					"useBoldText": true,
-					"class": "DepictionMarkdownView",
-					"title": "markdown-description",
-					"markdown": "Description",
-					"useBottomMargin": false
+					"title": "Description",
+					"class": "DepictionHeaderView"
 				},
 				{
 					"class": "DepictionSeparatorView"
