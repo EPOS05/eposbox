@@ -8,13 +8,8 @@
 				{
 					"useBoldText": true,
 					"class": "DepictionSubheaderView",
-					"title": "Fonts (Bronkoh - Evelyn)",
+					"title": "Change your font!",
 					"useBottomMargin": false
-				},
-				{
-					"markdown": "Change your font!\n\nChange your font to the 'Bronkoh' font!",
-					"useSpacing": true,
-					"class": "DepictionMarkdownView"
 				},
 				{
 					"class": "DepictionSpacerView",
@@ -39,15 +34,29 @@
 					"useBoldText": true,
 					"class": "DepictionMarkdownView",
 					"title": "markdown-description",
-					"markdown": "",
+					"markdown": "Description",
 					"useBottomMargin": false
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Fonts (Bronkoh - Evelyn)",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "Change your font to the 'Bronkoh' font!",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "Latest Version",
 					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionSeparatorView"
 				},
 				{
 					"title": "Version",
