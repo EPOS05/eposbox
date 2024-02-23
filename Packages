@@ -93,3 +93,22 @@ Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.symbols.png
 Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.symbols
 SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.symbols/depiction.json
 
+Package: com.epos.wayfinderclock
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: EPOS
+Depends: com.spark.snowboard
+Filename: ./debians/com.epos.wayfinderclock_1.0_iphoneos-arm64.deb
+Size: 34048
+MD5sum: 4e29c5a6141dbb03ae2c0f1e401d1fd5
+SHA1: 5a18741478045498597258b11047895ce118bf8b
+SHA256: e8a248ffc25cb6cb2d5b5fa0aa443aaa35875bae0107c87528e5d571568d51a6
+SHA512: 453aaa83484f617ec862112691a6d76a28810155d3c4441c9aa75542e55535e5b31416984e2d02e3aa2b935b24bf11a69e1aeb7fcb0920ad3446cd152475869c
+Description: Wayfinder watch face on iOS
+Author: EPOS
+Name: Wayfinder Clock
+Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.wayfinderclock.png
+Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.wayfinderclock
+SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.wayfinderclock/depiction.json
+
