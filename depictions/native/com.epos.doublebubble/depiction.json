@@ -111,6 +111,9 @@
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				},
+                {
+                    "class": "DepictionSeparatorView"
+                },
 				{
 					"title": "1.1",
 					"useBoldText": true,
