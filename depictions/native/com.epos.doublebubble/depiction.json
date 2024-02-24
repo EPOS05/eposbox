@@ -96,25 +96,6 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.0",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 Initial release",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 22-2-2024</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-                {
-                    "class": "DepictionSeparatorView"
-                },
-				{
 					"title": "1.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -127,6 +108,25 @@
 				},
 				{
 					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 24-2-2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+                    "class": "DepictionSeparatorView"
+                },
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 22-2-2024</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
