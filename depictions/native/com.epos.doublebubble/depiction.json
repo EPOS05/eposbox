@@ -118,7 +118,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Added some missing icons: \t\n\u2022 Translate \t\n\u2022 Stocks \t\n\u2022 Weather",
+					"markdown": "Added some missing icons:\n* Translate\n* Stocks\n* Weather",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
