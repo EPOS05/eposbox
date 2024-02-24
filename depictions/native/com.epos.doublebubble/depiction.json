@@ -62,12 +62,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "1.1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Updated",
-					"text": "22-2-2024",
+					"text": "24-2-2024",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -108,6 +108,22 @@
 				},
 				{
 					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 22-2-2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Added some missing icons: \t\n\u2022 Translate \t\n\u2022 Stocks \t\n\u2022 Weather",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 24-2-2024</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
