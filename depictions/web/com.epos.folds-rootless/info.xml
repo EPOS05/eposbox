@@ -1,0 +1,42 @@
+<package>
+	<id>com.epos.folds-rootless</id>
+	<name>Folds Rootless</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>0.1</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.snowboard</package>
+	</dependencies>
+	<shortDescription>Unfold the vibrancy.</shortDescription>
+	<descriptionlist>
+		<description>Unfold the vibrancy.</description>
+		<description>Features: *Updated for rootless. *800+ vibrant glyphs *30+ alt. glyphs</description>
+		<description>Credits: Folds (by LazyNagy)</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>preview</description>
+			<image>prv.png</image>
+		</screenshot>
+		<screenshot>
+			<description>screenshot</description>
+			<image>ss.png</image>
+		</screenshot>
+		<screenshot>
+			<description>screenshot2</description>
+			<image>ss2.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/RealEPOS</url>
+		</link>
+	</links>
+</package>
