@@ -52,7 +52,7 @@
 					"useBottomMargin": false
 				},
 				{
-					"markdown": "* Features:\n* Updated for rootless.\n* Custom patch to fix 70 missing icons (adding more on request)\n* 800+ vibrant glyphs\n* 30+ alt. glyphs\n\nCredits: Folds (by LazyNagy)",
+					"markdown": "* Features:\n* Updated for rootless.\n* Unofficial patch to fix 70 missing icons (adding more on request)\n* 800+ vibrant glyphs\n* 30+ alt. glyphs\n\nCredits: Folds (by LazyNagy)",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
 				},
@@ -109,7 +109,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "Added a custom patch to fix missing icons (70 icons)",
+					"markdown": "Added an unofficial patch to fix missing icons (70 icons)",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
