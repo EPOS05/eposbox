@@ -52,7 +52,7 @@
 					"useBottomMargin": false
 				},
 				{
-					"markdown": "* Features:\n* Updated for rootless.\n* 800+ vibrant glyphs\n* 30+ alt. glyphs\n\nCredits: Folds (by LazyNagy)",
+					"markdown": "* Features:\n* Updated for rootless.\n* Custom patch to fix 70 missing icons (adding more on request)\n* 800+ vibrant glyphs\n* 30+ alt. glyphs\n\nCredits: Folds (by LazyNagy)",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
 				},
@@ -74,7 +74,7 @@
 				},
 				{
 					"title": "Updated",
-					"text": "19-3-2024",
+					"text": "20-3-2024",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -102,6 +102,25 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Added a custom patch to fix missing icons (70 icons)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20-3-2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+                {
+                    "class": "DepictionSeparatorView"
+                },
 				{
 					"title": "1.0",
 					"useBoldText": true,
