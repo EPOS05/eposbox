@@ -90,6 +90,11 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
+					"title": "View Web Depiction",
+					"action": "https://epos05.github.io/eposbox/depictions/web/?p=com.epos.symbols",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"spacing": 20,
 					"class": "DepictionSpacerView"
 				}
