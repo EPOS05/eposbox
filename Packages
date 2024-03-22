@@ -95,6 +95,25 @@ SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.fold
 
 Package: com.epos.folds-rootless
 Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: Themes
+Maintainer: EPOS
+Depends: com.spark.snowboard
+Filename: ./debians/com.epos.folds-rootless_1.1-1_iphoneos-arm64.deb
+Size: 16985464
+MD5sum: c824437bcd062a8ad99513fb265e2acc
+SHA1: 9568c6814e6c0d9032ac916d3ea1b0bd2e3aeb97
+SHA256: aebb335d10f11dbd1a35143c85aae307162dad5ed9258871b33ae137570ef699
+SHA512: 71ac1c816d0ea07751188372b20143148ab514ac10d8dbddb3b5ee1c1e9411acced493c042c1fc77d74b3e1d44e52adc0398a8987a2371042c4c5d767d35e960
+Description: Unfold the vibrancy.
+Author: EPOS
+Name: Folds Rootless
+Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.folds-rootless.png
+Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.folds-rootless
+SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.folds-rootless/depiction.json
+
+Package: com.epos.folds-rootless
+Architecture: iphoneos-arm64
 Version: 1.1
 Section: Themes
 Maintainer: EPOS
