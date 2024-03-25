@@ -101,6 +101,11 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
+					"title": "Buy me a coffee :)",
+					"action": "https://ko-fi.com/epos05",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"spacing": 20,
 					"class": "DepictionSpacerView"
 				}

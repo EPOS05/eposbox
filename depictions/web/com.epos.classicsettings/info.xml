@@ -42,5 +42,9 @@
 			<name>Twitter</name>
 			<url>https://twitter.com/RealEPOS</url>
 		</link>
+		<link>
+			<name>Buy me a coffee :)</name>
+			<url>https://ko-fi.com/epos05</url>
+		</link>
 	</links>
 </package>
