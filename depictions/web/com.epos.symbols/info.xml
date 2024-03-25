@@ -1,7 +1,7 @@
 <package>
 	<id>com.epos.symbols</id>
-	<name>Fonts (Symbols - Yangjiii)</name>
-	<version>1.0</version>
+	<name>Symbols Font</name>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>0.1</miniOS>
@@ -15,6 +15,7 @@
 	<descriptionlist>
 		<description>Change your symbols font!</description>
 		<description>Change your symbols font to Yangjiii's symbols font!</description>
+		<description>Credits: Yangjiii (porting font to iOS)</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -23,7 +24,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Added a preview image to the snowboard theme selection menu</change>
 	</changelog>
 	<links>
 		<link>

@@ -1,7 +1,7 @@
 <package>
 	<id>com.epos.bronkoh</id>
-	<name>Fonts (Paint - EPOS)</name>
-	<version>1.0</version>
+	<name>Paint Clock Font (iOS 16)</name>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>16.0</miniOS>
@@ -15,6 +15,7 @@
 	<descriptionlist>
 		<description>Change your clock font!</description>
 		<description>Change your iOS 16 clock font to the 'Paint' clock font!</description>
+		<description>Credits: EPOS (porting font to iOS)</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -27,7 +28,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Added a preview image to the snowboard theme selection menu</change>
 	</changelog>
 	<links>
 		<link>

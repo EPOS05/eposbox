@@ -1,5 +1,5 @@
 {
-	"minVersion": "0.1",
+	"minVersion": "16.0",
 	"tintColor": "#1de4bb",
 	"tabs": [
 		{
@@ -44,11 +44,11 @@
 				{
 					"useBoldText": true,
 					"class": "DepictionSubheaderView",
-					"title": "Fonts (Paint - EPOS)",
+					"title": "Paint Clock Font (iOS 16)",
 					"useBottomMargin": false
 				},
 				{
-					"markdown": "Change your iOS 16 clock font to the 'Paint' clock font!",
+					"markdown": "Change your iOS 16 clock font to the 'Paint' clock font!\n\nCredits: EPOS (porting font to iOS)",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
 				},
@@ -65,12 +65,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "1.1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Updated",
-					"text": "22-2-2024",
+					"text": "25-3-2024",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -103,6 +103,25 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added a preview image to the snowboard theme selection menu",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 25-3-2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+                    "class": "DepictionSeparatorView"
+                },
 				{
 					"title": "1.0",
 					"useBoldText": true,

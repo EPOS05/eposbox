@@ -40,11 +40,11 @@
 				{
 					"useBoldText": true,
 					"class": "DepictionSubheaderView",
-					"title": "Fonts (Symbols - Yangjiii)",
+					"title": "Symbols Font",
 					"useBottomMargin": false
 				},
 				{
-					"markdown": "Change your symbols font to Yangjiii's symbols font!",
+					"markdown": "Change your symbols font!\n\nCredits: Yangjiii (porting font to iOS)",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
 				},
@@ -66,12 +66,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "1.1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Updated",
-					"text": "22-2-2024",
+					"text": "25-3-2024",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -104,6 +104,25 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added a preview image to the snowboard theme selection menu",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 25-3-2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+                    "class": "DepictionSeparatorView"
+                },
 				{
 					"title": "1.0",
 					"useBoldText": true,
