@@ -1,5 +1,6 @@
 {
 	"minVersion": "0.1",
+	"headerImage": "https://epos05.github.io/eposbox/assets/repo/header-still.png",
 	"tintColor": "#1de4bb",
 	"tabs": [
 		{
