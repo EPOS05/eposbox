@@ -28,12 +28,12 @@
 	</changelog>
 	<links>
 		<link>
-			<name>Twitter</name>
-			<url>https://twitter.com/RealEPOS</url>
-		</link>
-		<link>
 			<name>Symbols Source</name>
 			<url>https://epos05.github.io/eposbox/assets/symbols.txt</url>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/RealEPOS</url>
 		</link>
 	</links>
 </package>

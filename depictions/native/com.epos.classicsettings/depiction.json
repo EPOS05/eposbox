@@ -61,6 +61,14 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "View Web Depiction",
+					"action": "https://epos05.github.io/eposbox/depictions/web/?p=com.epos.classicsettings",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"spacing": 20,
 					"class": "DepictionSpacerView"
 				},
@@ -94,11 +102,6 @@
 				{
 					"title": "Twitter",
 					"action": "https://twitter.com/RealEPOS",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "View Web Depiction",
-					"action": "https://epos05.github.io/eposbox/depictions/web/?p=com.epos.classicsettings",
 					"class": "DepictionTableButtonView"
 				},
 				{
