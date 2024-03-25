@@ -17,6 +17,25 @@ Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.bronkoh.png
 Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.bronkoh
 SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.bronkoh/depiction.json
 
+Package: com.epos.bronkoh
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Fonts
+Maintainer: EPOS
+Depends: com.spark.snowboard, com.spark.snowboard.fonts
+Filename: ./debians/com.epos.bronkoh_1.1_iphoneos-arm64.deb
+Size: 5930116
+MD5sum: 010d54640bc86814ceea86286d28aff2
+SHA1: 3e35ab3731a027a130dbb4c85aaa66279de69cce
+SHA256: b0f54b3170218f5818846bccc52c8d7858ff65ba600814255fc6539c9c73418c
+SHA512: fb5a920f14f66f0bd7df6481adc45541bf6d0276940a0097176dcfd17ae89ef12d85e3847d37b41c091f5a29d9c3a030f7141cdddd872353d627d49dcd1598f6
+Description: Change your font!
+Author: EPOS
+Name: Bronkoh Font
+Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.bronkoh.png
+Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.bronkoh
+SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.bronkoh/depiction.json
+
 Package: com.epos.classicsettings
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -150,6 +169,25 @@ Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.paint.png
 Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.paint
 SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.paint/depiction.json
 
+Package: com.epos.paint
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Fonts
+Maintainer: EPOS
+Depends: com.spark.snowboard, com.spark.snowboard.fonts, firmware (>= 16.0)
+Filename: ./debians/com.epos.paint_1.1_iphoneos-arm64.deb
+Size: 147856
+MD5sum: 9effdf06afc74dea49d51b11dea182f9
+SHA1: b1a4d3359cc947577295308211033a3b51a2e8df
+SHA256: ba035b99aa9a1c2266127204560b65e0974291c73ba08bc9f8b04610d0278e4b
+SHA512: a695cf38ba46f5fb240687594dd4804211803198f581f8e920404a4b84f9957bb598dfe9ea8b0f72876a6c3421d6665c4e918d1a1fe1c1385b5f56984360f21a
+Description: Change your clock font!
+Author: EPOS
+Name: Paint Clock Font (iOS 16)
+Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.paint.png
+Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.paint
+SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.paint/depiction.json
+
 Package: com.epos.pulsarlsui
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -184,6 +222,25 @@ SHA512: 007413e567ae1ecb8b3c308cdb676f3481736fd3f9950c9b0975f2a20b0a85668c78da82
 Description: Change your symbols font!
 Author: EPOS
 Name: Fonts (Symbols - Yangjiii)
+Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.symbols.png
+Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.symbols
+SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.symbols/depiction.json
+
+Package: com.epos.symbols
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Fonts
+Maintainer: EPOS
+Depends: com.spark.snowboard, com.spark.snowboard.fonts
+Filename: ./debians/com.epos.symbols_1.1_iphoneos-arm64.deb
+Size: 355712
+MD5sum: 7c21a517d0f8a686b05ca5811fd86b83
+SHA1: df6bec77f282ac517bd0e07abcd1f4127624832c
+SHA256: 9f256fd808c54d95fd8e0393fc9ef4568db1e0703f2a1e305d20bce432f699f2
+SHA512: d3e6f2a72e2a5733eec98727d659ac8a76d891dd2c21221922e2eafa57d83336e47429874af65248109050f837c57936dbc1f059078033a3b2ac353bfb562176
+Description: Change your symbols font!
+Author: EPOS
+Name: Symbols Font
 Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.symbols.png
 Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.symbols
 SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.symbols/depiction.json
