@@ -20,17 +20,17 @@ SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.bron
 Package: com.epos.bronkoh
 Architecture: iphoneos-arm64
 Version: 1.1
-Section: Fonts
+Section: System Fonts
 Maintainer: EPOS
 Depends: com.spark.snowboard, com.spark.snowboard.fonts
 Filename: ./debians/com.epos.bronkoh_1.1_iphoneos-arm64.deb
-Size: 5930116
-MD5sum: 010d54640bc86814ceea86286d28aff2
-SHA1: 3e35ab3731a027a130dbb4c85aaa66279de69cce
-SHA256: b0f54b3170218f5818846bccc52c8d7858ff65ba600814255fc6539c9c73418c
-SHA512: fb5a920f14f66f0bd7df6481adc45541bf6d0276940a0097176dcfd17ae89ef12d85e3847d37b41c091f5a29d9c3a030f7141cdddd872353d627d49dcd1598f6
+Size: 5927064
+MD5sum: fa82768b534a1c4d240f198dbb4035ab
+SHA1: 165f1452b2a023a5f156350c57d6db73a898270a
+SHA256: b1a6abb681cb2f4e252e31a1d93e7cdbb3f67280e874af5e25f1aaa6fde716a6
+SHA512: cbf90dd0ce8c30d02b0e9c187e41a68a93527d4e6d819d818becbeae31b377faf66ee9985552dff28b20370eb67e6ca7bb33f0cdfd9ea4cb167e9f6441fd4e0f
 Description: Change your font!
-Author: EPOS
+Author: Evelyn
 Name: Bronkoh Font
 Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.bronkoh.png
 Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.bronkoh
@@ -81,13 +81,13 @@ Section: Themes
 Maintainer: EPOS
 Depends: com.spark.snowboard, com.spark.snowboard.settingsicons
 Filename: ./debians/com.epos.doublebubble_1.1_iphoneos-arm64.deb
-Size: 84268
-MD5sum: f42879283670955007ff64e08a9c4678
-SHA1: 91897c6fb133648851e6b710293247e4a2b4b19f
-SHA256: 06cdcd53d5647f530e6ff73559ae8b1c93db89301fa13a1c73076343f0c191df
-SHA512: d3d930c4fa436a2388c27432bf80e69cff998a7210b2ffa244d5422e9a9f362af3275283fb544387fc99e06f9ccb0fd64f380419a671069629f67866d64c2727
+Size: 84276
+MD5sum: 27a0688cb0061bff10d0d424616a06e0
+SHA1: 68a39cea1b9808030d209b0e1cfdb5b487235f7d
+SHA256: 19c145918016214b731d854988667a6774ed11815514d616bebe9f5b26706a8d
+SHA512: d9ed0a775f19f2ce6e38656fa787e4c35d7f5f7d5379a6e255706d8908d4f97ffbc7a80a5751d596b41aa90031afc6113bd77b5b533d16104f667fee955dc5bf
 Description: Double the fun!
-Author: EPOS
+Author: KennyRoo
 Name: Double Bubble Settings Reborn
 Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.doublebubble.png
 Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.doublebubble
@@ -119,13 +119,13 @@ Section: Themes
 Maintainer: EPOS
 Depends: com.spark.snowboard
 Filename: ./debians/com.epos.folds-rootless_1.1-1_iphoneos-arm64.deb
-Size: 16985464
-MD5sum: c824437bcd062a8ad99513fb265e2acc
-SHA1: 9568c6814e6c0d9032ac916d3ea1b0bd2e3aeb97
-SHA256: aebb335d10f11dbd1a35143c85aae307162dad5ed9258871b33ae137570ef699
-SHA512: 71ac1c816d0ea07751188372b20143148ab514ac10d8dbddb3b5ee1c1e9411acced493c042c1fc77d74b3e1d44e52adc0398a8987a2371042c4c5d767d35e960
+Size: 16985336
+MD5sum: 17964b4363af1cba818bce9455d387a1
+SHA1: d75d10a20bd98aa7261227b1a3d8b9646efdb28a
+SHA256: ef1f29024950af24eb29defc95a3d7e9cd735b25a0c53524024cfccb23b3abcb
+SHA512: d56eec83da1759f3fef53efb8d41a5d2aebc91c274287d21bff13bdc82f39a98b6a02c1974d3e2f9f7169193bdc93f61768c5c0f11d6b24dd5cf24ddf5692654
 Description: Unfold the vibrancy.
-Author: EPOS
+Author: LazyNagy
 Name: Folds Rootless
 Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.folds-rootless.png
 Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.folds-rootless
@@ -172,15 +172,15 @@ SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.pain
 Package: com.epos.paint
 Architecture: iphoneos-arm64
 Version: 1.1
-Section: Fonts
+Section: Clock Fonts
 Maintainer: EPOS
 Depends: com.spark.snowboard, com.spark.snowboard.fonts, firmware (>= 16.0)
 Filename: ./debians/com.epos.paint_1.1_iphoneos-arm64.deb
-Size: 147856
-MD5sum: 9effdf06afc74dea49d51b11dea182f9
-SHA1: b1a4d3359cc947577295308211033a3b51a2e8df
-SHA256: ba035b99aa9a1c2266127204560b65e0974291c73ba08bc9f8b04610d0278e4b
-SHA512: a695cf38ba46f5fb240687594dd4804211803198f581f8e920404a4b84f9957bb598dfe9ea8b0f72876a6c3421d6665c4e918d1a1fe1c1385b5f56984360f21a
+Size: 147744
+MD5sum: 9cdf2864a51e9c7243593703519fe3d4
+SHA1: 2030323dbe91a3dd72c3d1c1049b481c1ee1caf2
+SHA256: 1247ac9053a46a993df3276921661e0c245e8b3d6d027a603fe677ea983fb3a8
+SHA512: 7e8df07274faba797876a516ad62095afc213338dab31c0e0cffa5f2f9bbedfb27bb7752884aa928d99327de714e90a2e2f1c7a46d6f0348bbd3515c523302bc
 Description: Change your clock font!
 Author: EPOS
 Name: Paint Clock Font (iOS 16)
@@ -191,21 +191,59 @@ SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.pain
 Package: com.epos.pulsarlsui
 Architecture: iphoneos-arm64
 Version: 1.0
-Section: Themes
+Section: UI Themes
 Maintainer: EPOS
 Depends: com.spark.snowboard, com.spark.snowboard.ui
 Filename: ./debians/com.epos.pulsarlsui_1.0_iphoneos-arm64.deb
-Size: 120256
-MD5sum: c827d378cfbf1e69c33fe4c6d9a99389
-SHA1: b0fa31f8b2772562587c9a17485ab778dda19aa1
-SHA256: ccb1d92a7c06f02a890d86e29ef60f7029fb0ceb53cbb4a76bf7ef658c8a3c2a
-SHA512: e682e5ae5157c0f11e7e3cea1be3d9d852a37b942a5d5be7e661f7beab9503e6b65a936196a948d60c40f57acb1fc992da9a08d420f06a54e2a4df28742cd36a
+Size: 120268
+MD5sum: 44a69bf1c4ec86c0aa158165ae5be643
+SHA1: 2554cf81751cdc1783415d73f4124f217acf6b2e
+SHA256: adde247cee5172b46c77700950c070ef6e3912ac6b5c201f6751591a86b5517c
+SHA512: e8c621cc912ce574bfd91773c210de2c591e6a7c6816a9e61c4b22eb10080eccee37761bf21d708715b6462df9d7a1f8e40c2ec46cd8c84fdaeb81afb712ca5f
 Description: Pulsar on your lockscreen
 Author: EPOS
 Name: Pulsar LS UI
 Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.pulsarlsui.png
 Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.pulsarlsui
 SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.pulsarlsui/depiction.json
+
+Package: com.epos.quicksand85
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: System Fonts
+Maintainer: EPOS
+Depends: com.spark.snowboard, com.spark.snowboard.fonts
+Filename: ./debians/com.epos.quicksand85_1.0_iphoneos-arm64.deb
+Size: 12321424
+MD5sum: 9abac82c2e15722976d78e0a5c3d3c7e
+SHA1: 98b0f91fee5f794cfa7f8cd666f1a22ee80d47fb
+SHA256: c09f6331e86a6d7c17a3905cf09a70aae4ecf3d35e5e3041823b64d1dd1a2bb0
+SHA512: 6b78b7d7009dc84d60f8f8c40697afda2eebe431125e19131c57ca49ec723bb23c5424cddd03e39ea9c05745149ef7b1fb04fa11ad377736e39a40d6dcaab144
+Description: Change your font!
+Author: Alexman
+Name: Quicksand Font 85%
+Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.quicksand85.png
+Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.quicksand85
+SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.quicksand85/depiction.json
+
+Package: com.epos.quicksand
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: System Fonts
+Maintainer: EPOS
+Depends: com.spark.snowboard, com.spark.snowboard.fonts
+Filename: ./debians/com.epos.quicksand_1.0_iphoneos-arm64.deb
+Size: 11747740
+MD5sum: ea7ed02fb6b06264d691aae2839bdaf3
+SHA1: 84895ef88f353df077fba00ce36e3dc0f50c008c
+SHA256: 676791ab209f58999ec0e090d7bc8811c0432adf476d48aa74646e6aeb252c71
+SHA512: 25eabc3c317cadc707de27081209d238bef0cd90e8f198dba5eee3077910ba59fff3e0fa9d9a47b835e0c3629877386893c7163690eb63fbab7c305a516185e4
+Description: Change your font!
+Author: Alexman
+Name: Quicksand Font 100%
+Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.quicksand.png
+Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.quicksand
+SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.quicksand/depiction.json
 
 Package: com.epos.symbols
 Architecture: iphoneos-arm64
@@ -229,21 +267,40 @@ SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.symb
 Package: com.epos.symbols
 Architecture: iphoneos-arm64
 Version: 1.1
-Section: Fonts
+Section: System Fonts
 Maintainer: EPOS
 Depends: com.spark.snowboard, com.spark.snowboard.fonts
 Filename: ./debians/com.epos.symbols_1.1_iphoneos-arm64.deb
-Size: 355712
-MD5sum: 7c21a517d0f8a686b05ca5811fd86b83
-SHA1: df6bec77f282ac517bd0e07abcd1f4127624832c
-SHA256: 9f256fd808c54d95fd8e0393fc9ef4568db1e0703f2a1e305d20bce432f699f2
-SHA512: d3e6f2a72e2a5733eec98727d659ac8a76d891dd2c21221922e2eafa57d83336e47429874af65248109050f837c57936dbc1f059078033a3b2ac353bfb562176
+Size: 355764
+MD5sum: 534f9a5088cb81e41f49bf84e58c4124
+SHA1: 565a9e2e7438952d9c65b0c2b9e756cdfb283240
+SHA256: a910f658e4971c11543742990b57a0607e414f1d17bc7c561bde4de1c3cd9c10
+SHA512: 57f7e101d7282392c0300c041245c7fd65f006babdcdc187581ee1d16ebeb43de3c78c3fa37c24d85d5d581f3b34399e074176af413dd589a34f0154e0073ebc
 Description: Change your symbols font!
-Author: EPOS
+Author: Yangjiii
 Name: Symbols Font
 Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.symbols.png
 Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.symbols
 SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.symbols/depiction.json
+
+Package: com.epos.tomorrowclock
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Clock Fonts
+Maintainer: EPOS
+Depends: com.spark.snowboard, com.spark.snowboard.fonts, firmware (>= 16.0)
+Filename: ./debians/com.epos.tomorrowclock_1.0_iphoneos-arm64.deb
+Size: 61136
+MD5sum: b18b7000cece0143256abfb4c71af14b
+SHA1: cce34bd8c44969b26cdb3ef5acac1caeca46111f
+SHA256: 23e191778103892bf6a3c147937d4262fddc521d7b97e1a727c9b8a56655e920
+SHA512: bfe95864dbd553dd4c8dd080776ee2bcbdbcb9e77d8ef731b9a73054cdc116008f904ab3b5fb588cd0554faba79d3f943a7a84d932f0185dcbf874fe956280b3
+Description: a breath of fresh air
+Author: EPOS & HackZy01
+Name: Tomorrow Clock Font (iOS 16)
+Icon: https://epos05.github.io/eposbox/assets/icons/com.epos.tomorrowclock.png
+Depiction: https://epos05.github.io/eposbox/depictions/web/?p=com.epos.tomorrowclock
+SileoDepiction: https://epos05.github.io/eposbox/depictions/native/com.epos.tomorrowclock/depiction.json
 
 Package: com.epos.wayfinderclock
 Architecture: iphoneos-arm64
