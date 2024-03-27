@@ -1,0 +1,148 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://epos05.github.io/eposbox/assets/repo/header-still.png",
+	"tintColor": "#1de4bb",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "a breath of fresh air",
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"itemSize": "{160, 275.41333333333336}",
+					"itemCornerRadius": 6,
+					"class": "DepictionScreenshotsView",
+					"screenshots": [
+						{
+							"accessibilityText": "screenshot",
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.tomorrowclock/screenshots/ss.png"
+						},
+						{
+							"accessibilityText": "screenshot2",
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.tomorrowclock/screenshots/ss2.png"
+						},
+						{
+							"accessibilityText": "screenshot3",
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.tomorrowclock/screenshots/ss3.png"
+						},
+						{
+							"accessibilityText": "screenshot4",
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.tomorrowclock/screenshots/ss4.png"
+						},
+						{
+							"accessibilityText": "screenshot5",
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.tomorrowclock/screenshots/ss5.png"
+						}
+					]
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Tomorrow Clock Font (iOS 16)",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "A unique clock font that gives your device a fresh and modern look\n\nBorn from a collab between me and HackZy\nGoes really well with OneCC",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "View Web Depiction",
+					"action": "https://epos05.github.io/eposbox/depictions/web/?p=com.epos.tomorrowclock",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"title": "Information",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Updated",
+					"text": "27-3-2024",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "EPOS",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Twitter",
+					"action": "https://twitter.com/RealEPOS",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Buy me a coffee :)",
+					"action": "https://ko-fi.com/epos05",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 27-3-2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

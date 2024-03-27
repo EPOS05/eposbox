@@ -1,0 +1,56 @@
+<package>
+	<id>com.epos.tomorrowclock</id>
+	<name>Tomorrow Clock Font (iOS 16)</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>0.1</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.snowboard</package>
+		<package>com.spark.snowboard.fonts</package>
+	</dependencies>
+	<shortDescription>a breath of fresh air</shortDescription>
+	<descriptionlist>
+		<description>a breath of fresh air</description>
+		<description>A unique clock font that gives your device a fresh and modern look</description>
+		<description>Born from a collab between me and HackZy</description>
+		<description>Goes really well with OneCC</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>screenshot</description>
+			<image>ss.png</image>
+		</screenshot>
+		<screenshot>
+			<description>screenshot2</description>
+			<image>ss2.png</image>
+		</screenshot>
+		<screenshot>
+			<description>screenshot3</description>
+			<image>ss3.png</image>
+		</screenshot>
+		<screenshot>
+			<description>screenshot4</description>
+			<image>ss4.png</image>
+		</screenshot>
+		<screenshot>
+			<description>screenshot5</description>
+			<image>ss5.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/RealEPOS</url>
+		</link>
+		<link>
+			<name>Buy me a coffee :)</name>
+			<url>https://ko-fi.com/epos05</url>
+		</link>
+	</links>
+</package>

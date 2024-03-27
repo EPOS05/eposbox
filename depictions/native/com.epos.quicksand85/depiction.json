@@ -1,0 +1,136 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://epos05.github.io/eposbox/assets/repo/header-still.png",
+	"tintColor": "#1de4bb",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Change your font!",
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"itemSize": "{160, 275.41333333333336}",
+					"itemCornerRadius": 6,
+					"class": "DepictionScreenshotsView",
+					"screenshots": [
+						{
+							"accessibilityText": "screenshot",
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.quicksand85/screenshots/ss.png"
+						},
+						{
+							"accessibilityText": "screenshot2",
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.quicksand85/screenshots/ss2.png"
+						}
+					]
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Quicksand Font 85%",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "Change your font to the 'Quicksand 85%' font!\n\nCredits: Alexman (porting font to iOS)",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "View Web Depiction",
+					"action": "https://epos05.github.io/eposbox/depictions/web/?p=com.epos.quicksand85",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"title": "Information",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Updated",
+					"text": "27-3-2024",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "EPOS",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Twitter",
+					"action": "https://twitter.com/RealEPOS",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Buy me a coffee :)",
+					"action": "https://ko-fi.com/epos05",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 27-3-2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
